@@ -1,3 +1,3 @@
 <h1>WEBSTACK - PORTFOLIO PROJECT - BIBLIOPHILE</h1>
-<img src="./Images/Screenshot.jpg" alt="Books picture" width="300" height="300">
+![Alt text](./Images/screenshot.png "Screenshot")
 <h3>Book recommendation website</h3>
