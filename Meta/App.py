@@ -7,9 +7,6 @@ st.set_page_config(
    page_title="Bibliophile",
 )
 
-with open('book-rec.css') as f:
-    st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
-
 with open('../Data/book_data.json', 'r+', encoding='utf-8') as f:
     data = json.load(f)
 with open('../Data/book_titles.json', 'r+', encoding='utf-8') as f:
