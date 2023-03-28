@@ -1,901 +1,901 @@
-,genres,title,publication_year,authors
-0,"Utopian , dystopian fiction; Adventure fiction; Science Fiction; Drama; Action fiction","The Hunger Games (The Hunger Games, #1)",2008.0,Suzanne Collins
-1,Fantasy Fiction,"Harry Potter and the Sorcerer's Stone (Harry Potter, #1)",1997.0,"J.K. Rowling, Mary GrandPré"
-2,Fantasy Fiction; Young adult fiction,"Twilight (Twilight, #1)",2005.0,Stephenie Meyer
-3,Southern Gothic; Coming-of-Age Fiction; Bildungsroman,To Kill a Mockingbird,1960.0,Harper Lee
-4,Novel; Historical Fiction,The Great Gatsby,1925.0,F. Scott Fitzgerald
-5,Young adult fiction,The Fault in Our Stars,2012.0,John Green
-6,High fantasy; Juvenile fantasy,The Hobbit,1937.0,J.R.R. Tolkien
-7,Literary realism; Coming-of-Age Fiction,The Catcher in the Rye,1951.0,J.D. Salinger
-8,Novel; Fiction; Thriller; Suspense; Mystery; Speculative fiction; Crime Fiction;Conspiracy fiction,"Angels & Demons  (Robert Langdon, #1)",2000.0,Dan Brown
-9,Drama;Romance,Pride and Prejudice,1813.0,Jane Austen
-10,Historical Fiction; Drama,The Kite Runner,2003.0,Khaled Hosseini
-11,"Science Fiction; Utopian , dystopian fiction; Young adult fiction","Divergent (Divergent, #1)",2011.0,Veronica Roth
-12," Utopian , dystopian fiction; Political fiction; Social science fiction",1984,1949.0,"George Orwell, Erich Fromm, Celâl Üster"
-13,Satire; Political satire,Animal Farm,1945.0,George Orwell
-14,Autobiography,The Diary of a Young Girl,1947.0,"Anne Frank, Eleanor Roosevelt, B.M. Mooyaart-Doubleday"
-15,"Crime Fiction; Mystery; Thriller; Sc,inavian noir","The Girl with the Dragon Tattoo (Millennium, #1)",2005.0,"Stieg Larsson, Reg Keeland"
-16,Adventure fiction; Dystopia; Science Fiction,"Catching Fire (The Hunger Games, #2)",2009.0,Suzanne Collins
-17, Fantasy Fiction,"Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)",1999.0,"J.K. Rowling, Mary GrandPré, Rufus Beck"
-18,Fantasy,"The Fellowship of the Ring (The Lord of the Rings, #1)",1954.0,J.R.R. Tolkien
-19, Adventure fiction; War story; Science Fiction,"Mockingjay (The Hunger Games, #3)",2010.0,Suzanne Collins
-20,Fantasy Fiction,"Harry Potter and the Order of the Phoenix (Harry Potter, #5)",2003.0,"J.K. Rowling, Mary GrandPré"
-21,Novel; Fiction; Psychological Fiction; Domestic Fiction,The Lovely Bones,2002.0,Alice Sebold
-22,Fantasy; Detective fiction,"Harry Potter and the Chamber of Secrets (Harry Potter, #2)",1998.0,"J.K. Rowling, Mary GrandPré"
-23, Fantasy Fiction,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",2000.0,"J.K. Rowling, Mary GrandPré"
-24, Fantasy Fiction,"Harry Potter and the Deathly Hallows (Harry Potter, #7)",2007.0,"J.K. Rowling, Mary GrandPré"
-25, Mystery; Detective fiction; Conspiracy fiction; Thriller,"The Da Vinci Code (Robert Langdon, #2)",2003.0,Dan Brown
-26,Fantasy Fiction,"Harry Potter and the Half-Blood Prince (Harry Potter, #6)",2005.0,"J.K. Rowling, Mary GrandPré"
-27,Novel; Allegory; Fiction; Young adult fiction; Speculative fiction; Psychological Fiction,Lord of the Flies,1954.0,William Golding
-28,Tragedy;Romance;Musical Theatre,Romeo and Juliet,1595.0,"William Shakespeare, Robert           Jackson"
-29,Thriller,Gone Girl,2012.0,Gillian Flynn
-30,Novel; Fiction; Historical Fiction,The Help,2009.0,Kathryn Stockett
-31,Novella; Fiction; Tragedy,Of Mice and Men,1937.0,John Steinbeck
-32, Historical Fiction,Memoirs of a Geisha,1997.0,Arthur Golden
-33,Erotic romance novel,"Fifty Shades of Grey (Fifty Shades, #1)",2011.0,E.L. James
-34,Quest; Adventure fiction; Fantasy Fiction,The Alchemist,1988.0,"Paulo Coelho, Alan R. Clarke"
-35,"Young adult fiction; Utopian , dystopian fiction; Science Fiction","The Giver (The Giver, #1)",1993.0,Lois Lowry
-36,Christian literature,"The Lion, the Witch, and the Wardrobe (Chronicles of Narnia, #1)",1950.0,C.S. Lewis
-37,Novel; Romance novel; Fiction; Science Fiction; Speculative fiction; Fantasy Fiction;Domestic Fiction,The Time Traveler's Wife,2003.0,Audrey Niffenegger
-38,High fantasy; Political fantasy,"A Game of Thrones (A Song of Ice and Fire, #1)",1996.0,George R.R. Martin
-39,Memoir,"Eat, Pray, Love",2006.0,Elizabeth Gilbert
-40,Fantasy; Greek mythology; Young adult fiction,"The Lightning Thief (Percy Jackson and the Olympians, #1)",2005.0,Rick Riordan
-41,Coming-of-Age Fiction; Bildungsroman,"Little Women (Little Women, #1)",1868.0,Louisa May Alcott
-42,Novel,Jane Eyre,1847.0,"Charlotte Brontë, Michael Mason"
-43,Novel;Romance,"The Notebook (The Notebook, #1)",1996.0,Nicholas Sparks
-44,Fiction;Adventure,Life of Pi,2001.0,Yann Martel
-45,Novel; Fiction; Romance novel; Historical Fiction,Water for Elephants,2006.0,Sara Gruen
-46,Novel; Fiction; Young adult fiction; Historical Fiction,The Book Thief,2005.0,Markus Zusak
-47,"Utopian , dystopian fiction",Fahrenheit 451,1953.0,Ray Bradbury
-48,Young adult fiction; Romance novel; Vampire literature,"New Moon (Twilight, #2)",2006.0,Stephenie Meyer
-49,Children's poetry,Where the Sidewalk Ends,1974.0,Shel Silverstein
-50,Fantasy;Adventure,"City of Bones (The Mortal Instruments, #1)",2007.0,Cassandra Clare
-51,Young adult fiction; Fantasy Fiction; Romance novel; Vampire literature,"Eclipse (Twilight, #3)",2007.0,Stephenie Meyer
-52,"Young adult fiction; Fantasy; Utopian , dystopian fiction; Bildungsroman","Eragon (The Inheritance Cycle, #1)",2002.0,Christopher Paolini
-53, Comic science fiction,"The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)",1979.0,Douglas Adams
-54,"Science Fiction; Utopian , dystopian fiction",Brave New World,1932.0,Aldous Huxley
-55,Paranormal romance; Young adult fiction,"Breaking Dawn (Twilight, #4)",2008.0,Stephenie Meyer
-56,Fiction,The Secret Life of Bees,2001.0,Sue Monk Kidd
-57, Picaresque Fiction,The Adventures of Huckleberry Finn,1884.0,"Mark Twain, John Seelye, Guy Cardwell"
-58,Children's literature,Charlotte's Web,1952.0,"E.B. White, Garth Williams, Rosemary Wells"
-59,Mystery,The Curious Incident of the Dog in the Night-Time,2003.0,Mark Haddon
-60,Thriller; Fiction; Suspense; Psychological Fiction,The Girl on the Train,2015.0,Paula Hawkins
-61,Juvenile fantasy; Fantasy,"The Golden Compass (His Dark Materials, #1)",1995.0,Philip Pullman
-62,Tragedy,Wuthering Heights,1847.0,"Emily Brontë, Richard J. Dunn"
-63,Novel; Fiction; Domestic Fiction,My Sister's Keeper,2004.0,Jodi Picoult
-64,Black comedy; Satire; Science Fiction; War story; Metafiction; Postmodernism,Slaughterhouse-Five,1969.0,Kurt Vonnegut Jr.
-65,Historical Fiction,Gone with the Wind,1936.0,Margaret Mitchell
-66,Novel; Fiction,A Thousand Splendid Suns,2007.0,Khaled Hosseini
-67,Fiction; Young adult fiction; Epistolary novel; Bildungsroman,The Perks of Being a Wallflower,1999.0,Stephen Chbosky
-68,"Science Fiction; Utopian , dystopian fiction; Romance novel; Young adult fiction","Insurgent (Divergent, #2)",2012.0,Veronica Roth
-69,Science Fiction,"Ender's Game (Ender's Saga, #1)",1985.0,Orson Scott Card
-70,Gothic fiction; Horror fiction; Soft science fiction,Frankenstein,1818.0,"Mary Wollstonecraft Shelley, Percy Bysshe Shelley, Maurice Hindle"
-71,Gothic Novel;Horror;Psychological Horror,The Shining (The Shining #1),1977.0,Stephen King
-72,Science Fiction; Romance novel; Thriller; Dystopia,"The Host (The Host, #1)",2008.0,Stephenie Meyer
-73,Young adult fiction,Looking for Alaska,2005.0,John Green
-74,Comedy Novel,"Bridget Jones's Diary (Bridget Jones, #1)",1996.0,Helen Fielding
-75,Romance novel,Sense and Sensibility,1811.0,"Jane Austen, Tony Tanner, Ros Ballaster"
-76,Satire; Adventure fiction,"Holes (Holes, #1)",1998.0,"Louis Sachar, Louis Sachar"
-77,Chick lit,"The Devil Wears Prada (The Devil Wears Prada, #1)",2003.0,Lauren Weisberger
-78,Epic poetry; Epic,The Odyssey,2004.0,"Homer, Robert Fagles, E.V. Rieu, Frédéric Mugler, Bernard Knox"
-79,Fable; Fiction;Children's literature; Novella;Speculative fiction,The Little Prince,1946.0,"Antoine de Saint-Exupéry, Richard Howard, Dom Marcos Barbosa, Melina Karakosta"
-80,Memoir,The Glass Castle,2005.0,Jeannette Walls
-81,Biography; Non-fiction; Autobiography; Speculative fiction; Guidebook; Travel literature,Into the Wild,1996.0,Jon Krakauer
-82,Historical Fiction,A Tale of Two Cities,1859.0,"Charles Dickens, Richard Maxwell, Hablot Knight Browne"
-83,Hard science fiction; Techno-thriller; Horror fiction,"Jurassic Park (Jurassic Park, #1)",1990.0,Michael Crichton
-84,Picture book,The Giving Tree,1964.0,Shel Silverstein
-85,Legal thriller,A Time to Kill,1989.0,John Grisham
-86,Memoir,Night (The Night Trilogy #1),1958.0,"Elie Wiesel, Marion Wiesel"
-87,Young adult fiction; Mystery,Paper Towns,2008.0,John Green
-88,Fantasy Fiction; Romance,The Princess Bride ,1973.0,William Goldman
-89,Young adult fiction,The Outsiders,1967.0,S.E. Hinton
-90,Young adult fiction; Science Fiction; Post-Apocalyptic fiction,"The Maze Runner (Maze Runner, #1)",2009.0,James Dashner
-91,�Non-fiction,"Freakonomics: A Rogue Economist Explores the Hidden Side of Everything (Freakonomics, #1)",2005.0,"Steven D. Levitt, Stephen J. Dubner"
-92,Children's literature,The Secret Garden,1911.0,Frances Hodgson Burnett
-93,Magical Realism; Novel,One Hundred Years of Solitude,1967.0,"Gabriel García Márquez, Gregory Rabassa"
-94,Philosophical fiction; Decadent movement,The Picture of Dorian Gray,1891.0,"Oscar Wilde, Jeffrey Eugenides"
-95,Erotic romance novel,"Fifty Shades Freed (Fifty Shades, #3)",2012.0,E.L. James
-96,Horror fiction; Gothic fiction,Dracula,1897.0,"Bram Stoker, Nina Auerbach, David J. Skal"
-97,Crime Fiction;Mystery;Thriller,"The Girl Who Played with Fire (Millennium, #2)",2006.0,"Stieg Larsson, Reg Keeland"
-98,Erotic romance novel,"Fifty Shades Darker (Fifty Shades, #2)",2011.0,E.L. James
-99,Historical Fiction,The Poisonwood Bible,1998.0,Barbara Kingsolver
-100,Essay,Me Talk Pretty One Day,2000.0,David Sedaris
-101,Picture book; Children's literature; Fiction; Speculative fiction; Fantasy Fiction,Where the Wild Things Are,1963.0,Maurice Sendak
-102,Historical Fiction; Adventure fiction,The Count of Monte Cristo,1844.0,"Alexandre Dumas, Robin Buss"
-103,Post-Apocalyptic fiction,The Road,2006.0,Cormac McCarthy
-104,Dystopia; Romance novel; Young adult fiction,"Allegiant (Divergent, #3)",2013.0,Veronica Roth
-105,Autobiography,Bossypants,2011.0,Tina Fey
-106,Romance novel,A Walk to Remember,1999.0,Nicholas Sparks
-107,Romantic;Comedy,"Confessions of a Shopaholic (Shopaholic, #1)",2000.0,Sophie Kinsella
-108,?Epic novel; historical fiction,Les Misérables,1862.0,"Victor Hugo, Lee Fahnestock, Norman MacAfee"
-109,Fantasy,"A Clash of Kings  (A Song of Ice and Fire, #2)",1998.0,George R.R. Martin
-110,Novel; Fiction; Psychological Fiction; Domestic Fiction,The Memory Keeper's Daughter,2005.0,Kim Edwards
-111,Romance novel,"Me Before You (Me Before You, #1)",2012.0,Jojo Moyes
-112,Black comedy; Absurdist fiction; Satire; War story; Historical Fiction,Catch-22,1961.0,Joseph Heller
-113,Biographical Fiction; Philosophical fiction; Memoir,Tuesdays with Morrie,1997.0,"Mitch Albom, Saulius Dagys"
-114,Family saga,Middlesex,2002.0,Jeffrey Eugenides
-115,Bildungsroman; Picaresque Fiction; Satire; Folklore; Children's literature,The Adventures of Tom Sawyer,1876.0,"Mark Twain, Guy Cardwell, John Seelye"
-116,Young adult fiction; Science fantasy,"A Wrinkle in Time (A Wrinkle in Time Quintet, #1)",1962.0,Madeleine L'Engle
-117,Fiction,The Joy Luck Club,1989.0,Amy Tan
-118,"Utopian , dystopian fiction; Speculative fiction",The Handmaid's Tale,1985.0,Margaret Atwood
-119,Young adult fiction,"The Sisterhood of the Traveling Pants (Sisterhood, #1)",2001.0,Ann Brashares
-120,Novel,Lolita,1955.0,"Vladimir Nabokov, Craig Raine"
-121,Fantasy Fiction,"Wicked: The Life and Times of the Wicked Witch of the West (The Wicked Years, #1)",1995.0,"Gregory Maguire, Douglas Smith"
-122,Legal thriller,"The Firm (Penguin Readers, Level 5)",1991.0,John Grisham
-123,Novel,Room,2010.0,Emma Donoghue
-124,Tragedy,Hamlet,1600.0,"William Shakespeare, Richard Andrews, Rex Gibson"
-125,Science Fiction,Dune (Dune Chronicles #1),1965.0,Frank Herbert
-126,Non-fiction,The Tipping Point: How Little Things Can Make a Big Difference,2000.0,Malcolm Gladwell
-127,Biography,Steve Jobs,2011.0,Walter Isaacson
-128,Novel; Allegory; Drama; Fiction; Psychological Fiction; Medical fiction,One Flew Over the Cuckoo's Nest,1962.0,Ken Kesey
-129,Literary fiction,The Old Man and the Sea,1952.0,Ernest Hemingway
-130,Novel,The Grapes of Wrath,1939.0,John Steinbeck
-131,Inspirational Fiction; Philosophical fiction,The Five People You Meet in Heaven,2003.0,Mitch Albom
-132,Novel,"Anne of Green Gables (Anne of Green Gables, #1)",1908.0,L.M. Montgomery
-133,Fiction; Young adult fiction; Fantasy Fiction; Adventure fiction; Paranormal fiction,"City of Glass (The Mortal Instruments, #3)",2009.0,Cassandra Clare
-134,Fantasy,"A Storm of Swords (A Song of Ice and Fire, #3)",2000.0,George R.R. Martin
-135,Novel; Fiction; Domestic Fiction,Divine Secrets of the Ya-Ya Sisterhood,1996.0,Rebecca Wells
-136,Historical Fiction; Romance novel; Science fantasy,"Outlander (Outlander, #1)",1991.0,Diana Gabaldon
-137,Romanticism; Historical Fiction,The Scarlet Letter,1850.0,"Nathaniel Hawthorne, Thomas E. Connolly, Nina Baym"
-138,Young adult fiction; Fantasy,"Miss Peregrine’s Home for Peculiar Children (Miss Peregrine’s Peculiar Children, #1)",2011.0,Ransom Riggs
-139,Crime Fiction;Thriller;Mystery,"The Girl Who Kicked the Hornet's Nest (Millennium, #3)",2007.0,"Stieg Larsson, Reg Keeland"
-140,Science Fiction,The Martian,2012.0,Andy Weir
-141,Historical Fiction,"The Pillars of the Earth (The Kingsbridge Series, #1)",1989.0,Ken Follett
-142,Historical Fiction,All the Light We Cannot See,2014.0,Anthony Doerr
-143,Non-fiction,"Unbroken: A World War II Story of Survival, Resilience, and Redemption",2010.0,Laura Hillenbrand
-144,Fiction; Science Fiction; Thriller; Suspense; Speculative fiction; Political fiction; Techno-thriller,Deception Point,2001.0,Dan Brown
-145,Bildungsroman; Thriller; Suspense; Literary fiction,The Goldfinch,2013.0,Donna Tartt
-146,Young adult fiction,Thirteen Reasons Why,2007.0,Jay Asher
-147,Historical Fiction,Girl with a Pearl Earring,1999.0,Tracy Chevalier
-148,Young adult fiction,"If I Stay (If I Stay, #1)",2009.0,Gayle Forman
-149,Young adult fiction,The Red Tent,1997.0,Anita Diamant
-150,Fantasy; Greek mythology; Young adult fiction,"The Sea of Monsters (Percy Jackson and the Olympians, #2)",2006.0,Rick Riordan
-151,Fiction,Dear John,2006.0,Nicholas Sparks
-152,Fiction; Young adult fiction; Speculative fiction; Fantasy Fiction; Adventure fiction,"City of Ashes (The Mortal Instruments, #2)",2008.0,Cassandra Clare
-153,Tragedy,Macbeth,1606.0,William Shakespeare
-154,Fantasy,"The Two Towers (The Lord of the Rings, #2)",1954.0,J.R.R. Tolkien
-155,Chick lit; Romance novel; Humorous Fiction,"Something Borrowed (Darcy & Rachel, #1)",2004.0,Emily Giffin
-156,Fairy tale; Fiction; Humour; Children's literature; Speculative fiction; Fantasy Fiction,Green Eggs and Ham,1960.0,"Dr. Seuss, לאה נאור"
-157,Fairy tale; Fiction; Humour; Children's literature; Speculative fiction; Fantasy Fiction,"Charlie and the Chocolate Factory (Charlie Bucket, #1)",1964.0,"Roald Dahl, Quentin Blake"
-158,Fantasy; Greek mythology; Young adult fiction,"The Battle of the Labyrinth (Percy Jackson and the Olympians, #4)",2008.0,Rick Riordan
-159,Novel,Great Expectations,1860.0,Charles Dickens
-160,Fantasy,"The Return of the King (The Lord of the Rings, #3)",1955.0,J.R.R. Tolkien
-161,Philosophical fiction,The Stranger,1942.0,"Albert Camus, Matthew    Ward"
-162,Fantasy;Greek Mythology,"The Lost Hero (The Heroes of Olympus, #1)",2010.0,Rick Riordan
-163,Romance novel,Eleanor & Park,2013.0,Rainbow Rowell
-164,Fantasy Fiction,"A Feast for Crows (A Song of Ice and Fire, #4)",2005.0,George R.R. Martin
-165,"Young adult fiction; Romance novel; Utopian , dystopian fiction; Science Fiction","Matched (Matched, #1)",2010.0,Ally Condie
-166,Fantasy,"American Gods (American Gods, #1)",2001.0,Neil Gaiman
-167,Post-Apocalyptic fiction,The Stand,1978.0,"Stephen King, Bernie Wrightson"
-168,Romance novel; Tragedy,The Last Song,2008.0,Nicholas Sparks
-169,Mystery; Techno-thriller,Digital Fortress,1998.0,Dan Brown
-170,Literary realism,Emma,1815.0,"Jane Austen, Fiona Stafford"
-171,Literary realism,Anna Karenina,1877.0,"Leo Tolstoy, Louise Maude, Leo Tolstoj, Aylmer Maude"
-172,"Science Fiction; Utopian , dystopian fiction; Satire; Black comedy",A Clockwork Orange,1962.0,Anthony Burgess
-173,Fiction,The Shack,2007.0,William Paul Young
-174,Fantasy Fiction; Greek mythology; Young adult fiction,"The Last Olympian (Percy Jackson and the Olympians, #5)",2009.0,Rick Riordan
-175,Horror fiction; Thriller; Coming-of-Age Fiction,It,1986.0,Stephen King
-176,Philosophical fiction; Psychological Fiction,Crime and Punishment,1866.0,"Fyodor Dostoyevsky, David McDuff"
-177,Romance,The Bell Jar,1963.0,Sylvia Plath
-178,emoir; Biography,"Angela's Ashes (Frank McCourt, #1)",1996.0,Frank McCourt
-179,Fiction,Siddhartha,1922.0,"Hermann Hesse, Hilda Rosner"
-180,True crime; Crime Fiction; Non-fiction novel,In Cold Blood,1965.0,Truman Capote
-181,Young adult fiction; Fantasy Fiction; Romance novel,"Beautiful Creatures (Caster Chronicles, #1)",2009.0,"Kami Garcia, Margaret Stohl"
-182,Fiction; Steampunk; Science Fiction; Fantasy Fiction,"Clockwork Angel (The Infernal Devices, #1)",2010.0,Cassandra Clare
-183,Children's literature; Fantasy,Matilda,1988.0,"Roald Dahl, Quentin Blake"
-184,Fantasy,The Night Circus,2011.0,Erin Morgenstern
-185,Novel,"The Other Boleyn Girl (The Plantagenet and Tudor Novels, #9)",2001.0,Philippa Gregory
-186,Young adult fiction; Fiction; Science Fiction; Speculative fiction; Children's literature; Fantasy Fiction; Dystopian Fiction,"Uglies (Uglies, #1)",2005.0,Scott Westerfeld
-187,Fantasy Fiction,"A Dance with Dragons (A Song of Ice and Fire, #5)",2011.0,George R.R. Martin
-188,Fantasy;Adventure,"The Lord of the Rings (The Lord of the Rings, #1-3)",1955.0,J.R.R. Tolkien
-189,Biography; Autobiography; Travel literature,Wild: From Lost to Found on the Pacific Crest Trail,2012.0,Cheryl Strayed
-190,Comics; Fiction; Speculative fiction; Graphic novel; Fantasy Fiction; Superhero fiction,Watchmen,1987.0,"Alan Moore, Dave Gibbons, John Higgins"
-191,Heroic fantasy,"The Name of the Wind (The Kingkiller Chronicle, #1)",2007.0,Patrick Rothfuss
-192,Non-fiction,Outliers: The Story of Success,2008.0,Malcolm Gladwell
-193,Novel; Adventure fiction; Epic; Nautical fiction; Encyclopedic novel,"Moby-Dick or, The Whale",1851.0,"Herman Melville, Andrew Delbanco, Tom Quirk"
-194,Historical Fiction,The Guernsey Literary and Potato Peel Pie Society,2008.0,"Mary Ann Shaffer, Annie Barrows"
-195,Satire,Fight Club,1996.0,Chuck Palahniuk
-196,Fantasy Fiction; Mystery; Gothic fiction; Romance novel,"Dead Until Dark (Sookie Stackhouse, #1)",2001.0,Charlaine Harris
-197,Fiction; Epistolary novel; Historical Fiction; Domestic Fiction,The Color Purple,1982.0,Alice Walker
-198,Autobiographical novel,Marley and Me: Life and Love With the World's Worst Dog,2005.0,John Grogan
-199,Mystery; Crime; Psychological thriller,And Then There Were None,1939.0,Agatha Christie
-200,Crime Fiction; Mystery; Thriller,"The Lost Symbol (Robert Langdon, #3)",2009.0,Dan Brown
-201,Young adult fiction; Fantasy Fiction; Romance nove,"Hush, Hush (Hush, Hush, #1)",2009.0,Becca Fitzpatrick
-202,Romance novel; Fiction,"Beautiful Disaster (Beautiful, #1)",2011.0,Jamie McGuire
-203,Fairy tale; Novella; Fiction; Speculative fiction; Ghost story; Morality play,A Christmas Carol,1843.0,Charles Dickens
-204,Gothic fiction; Horror fiction; Vampire literature,"Interview with the Vampire (The Vampire Chronicles, #1)",1976.0,Anne Rice
-205,Dystopia; Young adult fiction; Romance Film,"The Selection (The Selection, #1)",2012.0,Kiera Cass
-206,Crime Fiction,"One for the Money (Stephanie Plum, #1)",1994.0,Janet Evanovich
-207,Biography,The Immortal Life of Henrietta Lacks,2010.0,Rebecca Skloot
-208,Horror fiction; Thriller; Psychological horror,"The Silence of the Lambs  (Hannibal Lecter, #2)",1988.0,Thomas Harris
-209,Young adult fiction; Urban fantasy; Dark fantasy; Paranormal romance,"Vampire Academy (Vampire Academy, #1)",2007.0,Richelle Mead
-210,Non-fiction; Self-help book,Blink: The Power of Thinking Without Thinking,2005.0,Malcolm Gladwell
-211,Fiction; Mystery; Suspense; Bildungsroman; Psychological Fiction; Social novel; Domestic Fiction,Atonement,2001.0,Ian McEwan
-212,Fantasy Fiction; Greek mythology; Young adult fiction,The Metamorphosis,1915.0,"Franz Kafka, Stanley Corngold"
-213,Fantasy Fiction; Greek mythology; Young adult fiction,"The Titan's Curse (Percy Jackson and the Olympians, #3)",2007.0,Rick Riordan
-214,"LitRPG; Science Fiction; Utopian , dystopian fiction",Ready Player One,2011.0,Ernest Cline
-215,Fiction,The Art of Racing in the Rain,2006.0,Garth Stein
-216,"The Devil in the White City: Murder; Magic; , Madness at the Fair that Changed America","The Devil in the White City: Murder, Magic, and Madness at the Fair That Changed America",2003.0,"Erik Larson, Tony Goldwyn"
-217,Erotic literature; Romance novel,"Bared to You (Crossfire, #1)",2012.0,Sylvia Day
-218,Christian literature,"The Chronicles of Narnia (Chronicles of Narnia, #1-7)",1956.0,"C.S. Lewis, Pauline Baynes"
-219,Fiction,Twilight: The Complete Illustrated Movie Companion,,Mark Cotta Vaz
-220,Biography; Autobiography; Children's literature,"A Child Called ""It"" (Dave Pelzer #1)",1995.0,Dave Pelzer
-221,Thriller; Spy fiction,"The Bourne Identity (Jason Bourne, #1)",1980.0,Robert Ludlum
-222,Fantasy; Young adult fiction,"Artemis Fowl (Artemis Fowl, #1)",2001.0,Eoin Colfer
-223,Young adult fiction; Fantasy Fiction; Romance novel; Paranormal fiction,"Fallen (Fallen, #1)",2009.0,Lauren Kate
-224,Novel; Fiction; Romance novel,East of Eden,1952.0,John Steinbeck
-225,Mystery,Dark Places,2009.0,Gillian Flynn
-226,Fiction; Legal Story,The Client,1993.0,John Grisham
-227,Humour; Novel; Fiction; Chick lit; Humorous Fiction,"The Nanny Diaries (Nanny, #1)",2002.0,"Emma McLaughlin, Nicola Kraus"
-228,Children's literature; Fiction,Alice's Adventures in Wonderland & Through the Looking-Glass,1865.0,"Lewis Carroll, John Tenniel, Martin Gardner"
-229,Novel,Persuasion,1817.0,"Jane Austen, James Kinsley, Deidre Shauna Lynch"
-230,The Holocaust,Sarah's Key,2007.0,Tatiana de Rosnay
-231,Fantasy Fiction; Western fiction,"The Gunslinger (The Dark Tower, #1)",1982.0,Stephen King
-232,Novel; Romance novel; Fiction; Magical Realism,Love in the Time of Cholera,1985.0,"Gabriel García Márquez, Edith Grossman"
-233,Fiction,Speak,1999.0,Laurie Halse Anderson
-234,Thriller,The Husband's Secret,2013.0,Liane Moriarty
-235,Non-fiction,Into Thin Air: A Personal Account of the Mount Everest Disaster,1997.0,Jon Krakauer
-236,Horror fiction,Carrie,1974.0,Stephen King
-237,Memoir,Running with Scissors,2002.0,Augusten Burroughs
-238,Horror fiction; Post-Apocalyptic fiction,World War Z: An Oral History of the Zombie War,2006.0,Max Brooks
-239,Mystery; Conspiracy fiction; Thriller,"Inferno (Robert Langdon, #4)",2013.0,Dan Brown
-240,Historical Fiction,Number the Stars,1989.0,Lois Lowry
-241,Crime Fiction; Mystery; Thriller,"Along Came a Spider (Alex Cross, #1)",1993.0,James Patterson
-242,Psychological horror,Misery,1987.0,Stephen King
-243,Fiction; Thriller; Mystery; Suspense; Domestic Fiction,Sharp Objects,2006.0,Gillian Flynn
-244,Children's literature,Bridge to Terabithia,1977.0,Katherine Paterson
-245,Young adult fiction; Paranormal romance,"Marked (House of Night, #1)",2007.0,"P.C. Cast, Kristin Cast"
-246,Self-help book; Non-fiction,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,1989.0,Stephen R. Covey
-247,Fantasy Fiction; Comedy,A Midsummer Night's Dream,1595.0,"William Shakespeare, Barbara A. Mowat, Paul Werstine, Catherine Belsey"
-248,Novel,Extremely Loud and Incredibly Close,2005.0,Jonathan Safran Foer
-249,Children's literature,Wonder,2012.0,R.J. Palacio
-250,Children's literature,The Cat in the Hat,1957.0,Dr. Seuss
-251,"Young adult fiction; Romance novel; Science Fiction; Utopian , dystopian fiction","Cinder (The Lunar Chronicles, #1)",2012.0,Marissa Meyer
-252,Crime Fiction,"The Cuckoo's Calling (Cormoran Strike, #1)",2013.0,"Robert Galbraith, J.K. Rowling"
-253,Fantasy Fiction; Young adult fiction,"Shiver (The Wolves of Mercy Falls, #1)",2009.0,Maggie Stiefvater
-254,Philosophical fiction; Science Fiction; Mystery; Romance novel,Atlas Shrugged,1957.0,"Ayn Rand, Leonard Peikoff"
-255,Memoir,Three Cups of Tea: One Man's Mission to Promote Peace ... One School at a Time,2006.0,"Greg Mortenson, David Oliver Relin"
-256,Fiction,Alice in Wonderland,1865.0,"Jane Carruth, Lewis Carroll, Rene Cloke"
-257,Mystery,"The Shadow of the Wind (The Cemetery of Forgotten Books,  #1)",2001.0,"Carlos Ruiz Zafón, Lucia Graves"
-258,Young adult fiction; Science Fiction; Post-Apocalyptic fiction,"The Scorch Trials (Maze Runner, #2)",2010.0,James Dashner
-259,Self-help book; Non-fiction,How to Win Friends and Influence People,1936.0,Dale Carnegie
-260,Biography; Fiction; Travel literature,Under the Tuscan Sun,1996.0,Frances Mayes
-261,Fiction; Mystery; Psychological Fiction; Domestic Fiction,Big Little Lies,2014.0,Liane Moriarty
-262,Fantasy,Ella Enchanted,1997.0,Gail Carson Levine
-263,Novel; Fiction; Children's literature; Romance,The Sun Also Rises,1926.0,Ernest Hemingway
-264,Novel; Fiction; Bildungsroman; Domestic Fiction,A Tree Grows in Brooklyn,1943.0,Betty  Smith
-265,Crime Fiction; Mystery; Thriller,"Kiss the Girls (Alex Cross, #2)",1995.0,James Patterson
-266,Historical Fiction,The Nightingale,2015.0,Kristin Hannah
-267,Speculative fiction; Dystopia; Science Fiction,Never Let Me Go,2005.0,Kazuo Ishiguro
-268,Romance Film,P.S. I Love You,2003.0,Cecelia Ahern
-269,Crime Fiction; Gothic fiction; Mystery; Romance novel,Rebecca,1938.0,"Daphne du Maurier, Sally Beauman"
-270,Science Fiction,Flowers for Algernon,1966.0,Daniel Keyes
-271,Romance; Magical Realism; Tragedy,Like Water for Chocolate,1989.0,"Laura Esquivel, Thomas  Christensen, Carol Christensen"
-272,Novel,Snow Flower and the Secret Fan,2005.0,Lisa See
-273,Crime Fiction,The Godfather,1969.0,"Mario Puzo, Robert Thompson, Peter Bart"
-274,Young adult fiction,An Abundance of Katherines,2006.0,John Green
-275,Science Fiction,Foundation (Foundation #1),1951.0,Isaac Asimov
-276,Dark fantasy; Surrealism; Horror fiction,The Ocean at the End of the Lane,2013.0,Neil Gaiman
-277,Children's poetry,A Light in the Attic,1981.0,Shel Silverstein
-278,Fantasy;Adventure fiction,"Harry Potter and the Cursed Child - Parts One and Two (Harry Potter, #8)",2016.0,"John Tiffany, Jack Thorne, J.K. Rowling"
-279,"Young adult fiction; Science Fiction; Romance novel; Utopian , dystopian fiction","Delirium (Delirium, #1)",2011.0,Lauren Oliver
-280,Novel; Fiction; Mystery; Children's literature; Legal thriller; Legal Story,The Pelican Brief,1992.0,John Grisham
-281,Dark fantasy,Coraline,2002.0,Neil Gaiman
-282,Horror fiction; Fantasy; Humorous Fiction,"Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch",1990.0,"Terry Pratchett, Neil Gaiman"
-283,Beat Generation,On the Road,1955.0,Jack Kerouac
-284,Romance novel,"The Rosie Project (Don Tillman, #1)",2013.0,Graeme Simsion
-285,Romance;Drama;War,The Lucky One,2008.0,Nicholas Sparks
-286,Philosophical fiction,The Fountainhead,1943.0,"Ayn Rand, Leonard Peikoff"
-287,Techno-thriller; Spy fiction,"The Hunt for Red October (Jack Ryan Universe, #4)",1984.0,Tom Clancy
-288,Fantasy,"Watership Down (Watership Down, #1)",1972.0,Richard Adams
-289,Humour; Biography,Is Everyone Hanging Out Without Me? (And Other Concerns),2011.0,Mindy Kaling
-290,Fiction; Domestic Fiction,Cutting for Stone,2009.0,Abraham Verghese
-291,Christian literature,"The Voyage of the Dawn Treader (Chronicles of Narnia, #3)",1951.0,"C.S. Lewis, Pauline Baynes"
-292,Adventure fiction; Young adult fiction,Treasure Island,1882.0,Robert Louis Stevenson
-293,Fantasy; Young adult fiction,"The Son of Neptune (The Heroes of Olympus, #2)",2011.0,Rick Riordan
-294,Science Fiction; Alternate history,11/22/1963,2011.0,Stephen King
-295,Children's literature,The Very Hungry Caterpillar Board Book,1969.0,Eric Carle
-296,Satire; Humour; Fiction; Science Fiction; Speculative fiction,Cat's Cradle,1963.0,Kurt Vonnegut Jr.
-297,Science Fiction,The Time Machine,1895.0,"H.G. Wells, Greg Bear, Carlo Pagetti"
-298,Christian literature,Heaven is for Real: A Little Boy's Astounding Story of His Trip to Heaven and Back,2010.0,"Todd Burpo, Lynn Vincent"
-299,Fiction; Fable; Historical Fiction; Children's literature; Tragicomedy; Postmodern literature,The Boy in the Striped Pajamas,2006.0,John Boyne
-300,Novella,Heart of Darkness,1899.0,Joseph Conrad
-301,Literary realism; Romance novel,Safe Haven,2010.0,Nicholas Sparks
-302,Self-help; Spirituality,"The Secret (The Secret, #1)",2006.0,Rhonda Byrne
-303,Novel,I Know This Much Is True,1998.0,Wally Lamb
-304,Horror fiction,Pet Sematary,1983.0,Stephen King
-305,Drama,She's Come Undone,1992.0,Wally Lamb
-306,Heroic fantasy,"The Wise Man's Fear (The Kingkiller Chronicle, #2)",2011.0,Patrick Rothfuss
-307,Comedy; Chick lit,Can You Keep a Secret?,2003.0,Sophie Kinsella
-308,Fantasy; Adventure,"City of Fallen Angels (The Mortal Instruments, #4)",2011.0,Cassandra Clare
-309,Fiction,"Good in Bed (Cannie Shapiro, #1)",2001.0,Jennifer Weiner
-310,Family saga,The Thorn Birds,1977.0,Colleen McCullough
-311,Horror fiction; Children's literature; Fantasy,The Graveyard Book,2008.0,"Neil Gaiman, Dave McKean"
-312,War story,The Light Between Oceans,2012.0,M.L. Stedman
-313,Fantasy Fiction; Bildungsroman; Mystery,"Inkheart (Inkworld, #1)",2003.0,"Cornelia Funke, Anthea Bell"
-314,Fiction; Self-help book,Who Moved My Cheese?,1998.0,"Spencer Johnson, Kenneth H. Blanchard"
-315,Non-fiction; Travel literature,A Walk in the Woods,1997.0,Bill Bryson
-316,Autobiography; Biography,I Know Why the Caged Bird Sings,1969.0,Maya Angelou
-317,Historical Fiction; Literary fiction,Orphan Train,2013.0,Christina Baker Kline
-318, Fantasy; Adventure,"City of Lost Souls (The Mortal Instruments, #5)",2012.0,Cassandra Clare
-319,Fiction; Humorous Fiction; Domestic Fiction,"Where'd You Go, Bernadette",2012.0,Maria Semple
-320,Children's literature,Where the Red Fern Grows,1961.0,Wilson Rawls
-321,Children's literature,Neverwhere,1996.0,Neil Gaiman
-322,Philosophical fiction,The Unbearable Lightness of Being,1984.0,"Milan Kundera, Michael Henry Heim"
-323,Novel; Fiction; Young adult fiction,Fangirl,2013.0,Rainbow Rowell
-324,Bildungsroman,A Prayer for Owen Meany,1989.0,John Irving
-325,Novel; Fiction; Bildungsroman,White Oleander,1999.0,Janet Fitch
-326,"Utopian , dystopian fiction; Young adult fiction; Science Fiction","Legend (Legend, #1)",2011.0,Marie Lu
-327,Thriller,Nineteen Minutes,2007.0,Jodi Picoult
-328,Non-fiction,The Last Lecture,2008.0,"Randy Pausch, Jeffrey Zaslow"
-329,High Fantasy,"The Eye of the World (Wheel of Time, #1)",1990.0,Robert Jordan
-330,Novel,The Pact,1998.0,Jodi Picoult
-331,Christian literature,"The Magician's Nephew (Chronicles of Narnia, #6)",1953.0,C.S. Lewis
-332,Fiction,Still Alice,2007.0,Lisa Genova
-333,Erotic literature; Fiction; Romance novel; Contemporary romance,"Reflected in You (Crossfire, #2)",2012.0,Sylvia Day
-334,Children's literature; Fantasy,James and the Giant Peach,1961.0,"Roald Dahl, Quentin Blake"
-335,Crime Fiction,"1st to Die (Women's Murder Club, #1)",2001.0,James Patterson
-336,Humour; Fiction; Science Fiction; Speculative fiction; Humorous Fiction,The Ultimate Hitchhiker's Guide to the Galaxy,1996.0,Douglas Adams
-337,Fiction; Romance novel,One Day,2009.0,David Nicholls
-338,Children's literature,Goodnight Moon,1947.0,"Margaret Wise Brown, Clement Hurd"
-339,Young adult fiction; Science Fiction,"I Am Number Four (Lorien Legacies, #1)",2010.0,Pittacus Lore
-340,Epic poetry; Poetry; Epic,The Iliad,-750.0,"Homer, Robert Fagles, Frédéric Mugler, Bernard Knox"
-341,Fiction; Tragicomedy,The Casual Vacancy,2012.0,J.K. Rowling
-342,Novel; Fiction; Mystery; Suspense; Legal thriller; Legal Story,The Runaway Jury,1996.0,John Grisham
-343,Essay,Naked,1997.0,David Sedaris
-344,Young Adult Fiction;Fantasy;Bildungsroman,"Eldest (The Inheritance Cycle, #2)",2005.0,Christopher Paolini
-345,Fantasy;Childern's novel,"The Wonderful Wizard of Oz (Oz, #1)",1900.0,"L. Frank Baum, W.W. Denslow"
-346,Christian literature,"Prince Caspian (Chronicles of Narnia, #2)",1951.0,C.S. Lewis
-347,Young adult fiction,We Were Liars,2014.0,E. Lockhart
-348,Horror fiction,'Salem's Lot,1975.0,Stephen King
-349,Gonzo journalism,Fear and Loathing in Las Vegas,1971.0,"Hunter S. Thompson, Ralph Steadman"
-350,Fantasy;Adventure,"Clockwork Prince (The Infernal Devices, #2)",2011.0,Cassandra Clare
-351,Autobiography,Yes Please,2014.0,Amy Poehler
-352,Tragedy,Othello,1603.0,William Shakespeare
-353,Magical Realism,Beloved,1987.0,Toni Morrison
-354,Fantasy; Romance novel,"Graceling (Graceling Realm, #1)",2008.0,Kristin Cashore
-355,Gothic fiction; Absurdist fiction; Steampunk; Mystery,"The Bad Beginning (A Series of Unfortunate Events, #1)",1999.0,"Lemony Snicket, Brett Helquist"
-356,War story,All Quiet on the Western Front,1929.0,"Erich Maria Remarque, A.W. Wheen"
-357,Children's literature,"Oh, The Places You'll Go!",1990.0,Dr. Seuss
-358,Historical Fiction,And the Mountains Echoed,2012.0,Khaled Hosseini
-359,Science Fiction; Philosophical fiction,Do Androids Dream of Electric Sheep?,1968.0,"Philip K. Dick, Roger Zelazny"
-360,Novel,Oliver Twist,1838.0,"Charles Dickens, George Cruikshank, Philip Horne"
-361,Epistolary novel; Christian apologetics; Satire,The Screwtape Letters,1942.0,C.S. Lewis
-362,Young adult fiction,"Anna and the French Kiss (Anna and the French Kiss, #1)",2010.0,Stephanie Perkins
-363,Children's literature,How the Grinch Stole Christmas!,1957.0,Dr. Seuss
-364,Comics; Humour; Fiction; Science Fiction; Speculative fiction; Graphic novel; Dystopian Fiction,V for Vendetta,1990.0,"Alan Moore, David   Lloyd"
-365,Non-fiction,John Adams,2001.0,David McCullough
-366,Thriller; Mystery,"Odd Thomas (Odd Thomas, #1)",2003.0,Dean Koontz
-367,Fantasy Fiction,"The Subtle Knife (His Dark Materials, #2)",1997.0,Philip Pullman
-368,Young adult fiction,"Stargirl (Stargirl, #1)",2000.0,Jerry Spinelli
-369,Fantasy Fiction; Egyptian mythology; Young adult fiction,"The Red Pyramid (Kane Chronicles, #1)",2010.0,Rick Riordan
-370,Science Fiction,Stranger in a Strange Land,1961.0,Robert A. Heinlein
-371,Essay,Dress Your Family in Corduroy and Denim,2004.0,David Sedaris
-372,Children's literature; Fantasy,The BFG,1982.0,"Roald Dahl, Quentin Blake"
-373,Non-fiction,A Short History of Nearly Everything,2003.0,Bill Bryson
-374,Adventure fiction,The Call of the Wild,1903.0,Jack London
-375,"Young adult fiction; Utopian , dystopian fiction; Science Fiction","The Death Cure (Maze Runner, #3)",2011.0,James Dashner
-376,Fantasy,Stardust,1999.0,Neil Gaiman
-377,Fiction,The Namesake,2003.0,Jhumpa Lahiri
-378,Contemporary fantasy;romance;vampire;witchcraft,"A Discovery of Witches (All Souls Trilogy, #1)",2011.0,Deborah Harkness
-379,Bildungsroman,Norwegian Wood,1987.0,"Haruki Murakami, Jay Rubin"
-380,Novel; Fiction; Romance novel; Bildungsroman,Where the Heart Is,1995.0,Billie Letts
-381,Novel; Fiction; Young adult fiction; Social novel,"Will Grayson, Will Grayson",2010.0,"John Green, David Levithan"
-382,Misery lit,A Million Little Pieces,2003.0,James Frey
-383,Young adult fiction; Urban fantasy; Dark fantasy; Paranormal romance,"Frostbite (Vampire Academy, #2)",2008.0,Richelle Mead
-384,Non-fiction; Self-help book,Quiet: The Power of Introverts in a World That Can't Stop Talking,2012.0,Susan Cain
-385,Young adult fiction,"Island of the Blue Dolphins (Island of the Blue Dolphins, #1)",1960.0,Scott O'Dell
-386,Tragedy,The Crucible,1953.0,"Arthur Miller, Christopher Bigsby"
-387,Young adult fiction,"Hatchet (Brian's Saga, #1)",1986.0,Gary Paulsen
-388,Fantasy Fiction,"The Final Empire (Mistborn, #1)",2006.0,Brandon Sanderson
-389,Psychological thriller; Drama; Horror fiction; Mystery; Gothic fiction; Science Fiction,The Strange Case of Dr. Jekyll and Mr. Hyde,1886.0,"Robert Louis Stevenson, Vladimir Nabokov, Mervyn Peake, Dan Chaon"
-390,Children's literature,The Lorax,1971.0,Dr. Seuss
-391,Comedy;Young adult fiction,"Diary of a Wimpy Kid (Diary of a Wimpy Kid, #1)",2004.0,Jeff Kinney
-392,Fantasy,"Throne of Glass (Throne of Glass, #1)",2012.0,Sarah J. Maas
-393,Young adult fiction; Urban fantasy; Dark fantasy; Paranormal romance,"Shadow Kiss (Vampire Academy, #3)",2008.0,Richelle Mead
-394,War story,For Whom the Bell Tolls,1940.0,Ernest Hemingway
-395,Historical Fiction,Hotel on the Corner of Bitter and Sweet,2009.0,Jamie Ford
-396,Horror fiction; Mystery; Magical Realism; Absurdism,Perfume: The Story of a Murderer,1985.0,"Patrick Süskind, John E. Woods"
-397,Non-fiction,Fast Food Nation: The Dark Side of the All-American Meal,2001.0,Eric Schlosser
-398,Fiction; Anthology; Speculative fiction; Children's literature; Fantasy Fiction,The Tales of Beedle the Bard,2007.0,J.K. Rowling
-399,Science Fiction,Neuromancer,1984.0,William Gibson
-400,Literary realism,A Farewell to Arms,1929.0,Ernest Hemingway
-401,Fiction; Horror fiction; Graphic novel,The Tell-Tale Heart and Other Writings,1843.0,Edgar Allan Poe
-402,Treatise; Fiction; Self-help book; Inspirational Fiction,The Art of War,-500.0,"Sun Tzu, Thomas Cleary"
-403,Fiction; Mystery; Suspense; Crime Fiction; Psychological Fiction; Legal Story,Defending Jacob,2012.0,William Landay
-404,Novel,Breakfast of Champions,1973.0,Kurt Vonnegut Jr.
-405,Novel,The New Drawing on the Right Side of the Brain,1979.0,Betty Edwards
-406,Thriller,Bel Canto,2001.0,Ann Patchett
-407,Novel,"Guns, Germs, and Steel: The Fates of Human Societies",1997.0,Jared Diamond
-408,Fiction,Fried Green Tomatoes at the Whistle Stop Cafe,1987.0,Fannie Flagg
-409,Novel; Poetry; Fiction; Children's literature; Historical Fiction,"Things Fall Apart (The African Trilogy, #1)",1958.0,Chinua Achebe
-410,Comedy; Chick lit,The Undomestic Goddess,2005.0,Sophie Kinsella
-411,Christian literature,The Five Love Languages: How to Express Heartfelt Commitment to Your Mate,1990.0,Gary Chapman
-412,Historical romance; Animation,The Three Musketeers,1844.0,Alexandre Dumas
-413,Literary fiction,Little Bee,2008.0,Chris Cleave
-414,Fantasy Fiction,"Evermore (The Immortals, #1)",2009.0,Alyson Noel
-415,Fiction; Speculative fiction; Children's literature,The Witches,1983.0,"Roald Dahl, Quentin Blake"
-416,Gothic fiction; Suspense,The Thirteenth Tale,2006.0,Diane Setterfield
-417,Young adult fiction; Urban fantasy; Dark fantasy; Paranormal romance,"Spirit Bound (Vampire Academy, #5)",2010.0,Richelle Mead
-418,Young adult fiction; Urban fantasy; Dark fantasy; Paranormal romance,"Blood Promise (Vampire Academy, #4)",2009.0,Richelle Mead
-419,Romance novel,Message in a Bottle,1998.0,Nicholas Sparks
-420,Fiction,The Paris Wife,2011.0,Paula McLain
-421,Fiction,"Harry Potter Boxset (Harry Potter, #1-7)",1998.0,J.K. Rowling
-422,Young adult fiction,"The Elite (The Selection, #2)",2013.0,Kiera Cass
-423,Historical Fiction; Mystery,The Name of the Rose,1980.0,"Umberto Eco, William Weaver, Seán Barrett"
-424,Young adult fiction,Go Ask Alice,1971.0,"Beatrice Sparks, Anonymous"
-425,Comedy; Tragicomedy,A Confederacy of Dunces,1980.0,"John Kennedy Toole, Walker Percy"
-426,Farce,The Importance of Being Earnest,1895.0,Oscar Wilde
-427,Fantasy; Young adult fiction,"The Mark of Athena (The Heroes of Olympus, #3)",2012.0,Rick Riordan
-428,Fantasy,"The Color of Magic (Discworld, #1; Rincewind #1)",1983.0,Terry Pratchett
-429,Magical Realism; Fantasy,Kafka on the Shore,2002.0,"Haruki Murakami, Philip Gabriel"
-430,Crime Fiction; Horror fiction; Thriller; Psychological horror,"Red Dragon (Hannibal Lecter, #1)",1981.0,Thomas Harris
-431,Science Fiction,"I, Robot (Robot #0.1)",1950.0,Isaac Asimov
-432,Romance novel; Fiction; Speculative fiction; Fantasy Fiction,"Dark Lover (Black Dagger Brotherhood, #1)",2005.0,J.R. Ward
-433,Young adult fiction; Fantasy Fiction; Romance novel,"Crescendo (Hush, Hush, #2)",2010.0,Becca Fitzpatrick
-434,Young adult fiction,Before I Fall,2010.0,Lauren Oliver
-435,Novel; Fiction; Psychological Fiction; Domestic Fiction,The God of Small Things,1997.0,Arundhati Roy
-436,Fiction; Historical Fiction; Biographical Fiction,The Invention of Wings,2014.0,Sue Monk Kidd
-437,Fiction; Domestic Fiction,What Alice Forgot,2009.0,Liane Moriarty
-438,Popular science,A Brief History of Time,1987.0,"Stephen Hawking, Cao Chi, Phạm Văn Thiều"
-439,Historical Fiction,"Fall of Giants (The Century Trilogy, #1)",2010.0,Ken Follett
-440,Science Fiction; Political fiction,Under the Dome,2009.0,Stephen King
-441,Science Fiction; Cyberpunk; Cyberpunk derivatives,Snow Crash,1992.0,Neal Stephenson
-442,Fiction; Young adult fiction; Children's literature,Just Listen,2006.0,Sarah Dessen
-443,Short story collection; Children's literature,"Winnie-the-Pooh (Winnie-the-Pooh, #1)",1926.0,"A.A. Milne, Ernest H. Shepard"
-444,Thriller; Suspense,Before I Go to Sleep,2011.0,S.J. Watson
-445,Detective,A Study in Scarlet,1887.0,Arthur Conan Doyle
-446,Young adult fiction; High fantasy,"Brisingr (The Inheritance Cycle, #3)",2008.0,Christopher Paolini
-447,Non-fiction; Christian literature,The Purpose Driven Life: What on Earth Am I Here for?,2002.0,Rick Warren
-448,Young Adult,"Betrayed (House of Night, #2)",2007.0,"P.C. Cast, Kristin Cast"
-449,Urban fantasy; Mystery,"Storm Front (The Dresden Files, #1)",2000.0,Jim Butcher
-450,Gothic fiction; Romance novel; Satire,Northanger Abbey,1817.0,"Jane Austen, Alfred MacAdam"
-451,Young adult fiction; Science Fiction,"The 5th Wave (The 5th Wave, #1)",2013.0,Rick Yancey
-452,Fiction; Romance novel; Historical Fiction,Cold Mountain,1997.0,Charles Frazier
-453,Children's literature,If You Give a Mouse a Cookie,1985.0,"Laura Joffe Numeroff, Felicia Bond"
-454,Fiction; Romance novel; Psychological Fiction,"Something Blue (Darcy & Rachel, #2)",2005.0,Emily Giffin
-455,Southern Gothic,A Streetcar Named Desire,1947.0,Tennessee Williams
-456,Fiction; Horror fiction; Suspense; Speculative fiction,The Historian,2005.0,Elizabeth Kostova
-457,Science Fiction; Post-Apocalyptic fiction,Station Eleven,2014.0,Emily St. John Mandel
-458,Novel,A Man Called Ove,2012.0,"Fredrik Backman, Henning Koch"
-459,Fantasy Fiction; Adventure,"Clockwork Princess (The Infernal Devices, #3)",2013.0,Cassandra Clare
-460,Historical Fiction,"The Good Earth (House of Earth, #1)",1931.0,Pearl S. Buck
-461,Fiction,Ways of Seeing,1972.0,John Berger
-462,Historical Novel,"Dragonfly in Amber (Outlander, #2)",1992.0,Diana Gabaldon
-463,Religious text,Holy Bible: King James Version,1611.0,Anonymous
-464,Fiction,In Her Shoes,2002.0,Jennifer Weiner
-465,High Fantasy,The Hobbit: Graphic Novel,1989.0,"Chuck Dixon, J.R.R. Tolkien, David Wenzel, Sean Deming"
-466,Novel; Fiction; Domestic Fiction,The Brief Wondrous Life of Oscar Wao,2007.0,Junot Díaz
-467,Novel; Fiction; Psychological Fiction; Literary fiction,Their Eyes Were Watching God,1937.0,Zora Neale Hurston
-468,Fantasy,Fantastic Beasts and Where to Find Them,2001.0,"Newt Scamander, J.K. Rowling, Albus Dumbledore"
-469,Autobiography; Biography,I Am Malala: The Story of the Girl Who Stood Up for Education and Was Shot by the Taliban,2012.0,"Malala Yousafzai, Christina Lamb"
-470,Bildungsroman,Mansfield Park,1814.0,"Jane Austen, Kathryn Sutherland, Tony Tanner, Claire Lamont"
-471,Psychology,Man's Search for Meaning,1946.0,Viktor E. Frankl
-472,Mystery,"In the Woods (Dublin Murder Squad, #1)",2007.0,Tana French
-473,Non-fiction,The God Delusion,2006.0,Richard Dawkins
-474,Fiction,"Where She Went (If I Stay, #2)",2011.0,Gayle Forman
-475,Humour; Fiction; Literary fiction,The World According to Garp,1978.0,John Irving
-476,First-person shooter,"Killing Floor (Jack Reacher, #1)",1997.0,Lee Child
-477,Fiction; Adventure fiction,Robinson Crusoe,1719.0,"Daniel Defoe, Gerald McCann, Virginia Woolf"
-478,Non-fiction,The Prince,1513.0,"Niccolò Machiavelli, Adolph Caso, Rufus Goodwin, Benjamin Martinez"
-479,Fantasy,"The Amber Spyglass (His Dark Materials, #3)",2000.0,Philip Pullman
-480,High fantasy,"Wizard's First Rule (Sword of Truth, #1)",1994.0,Terry Goodkind
-481,Fiction; Historical Fiction,The Kitchen House,2010.0,Kathleen Grissom
-482,Novella,Franny and Zooey,1961.0,J.D. Salinger
-483,Satire; Black comedy,Choke,2001.0,Chuck Palahniuk
-484,Philosophical fiction,The Brothers Karamazov,1880.0,"Fyodor Dostoyevsky, Richard Pevear, Larissa Volokhonsky"
-485,Post-Apocalyptic fiction; Science Fiction; Children's literature,"The City of Ember (Book of Ember, #1)",2003.0,Jeanne DuPrau
-486,Techno-thriller,The Andromeda Strain,1969.0,Michael Crichton
-487,Dark fantasy; Southern Gothic; Magical Realism,The Green Mile,1996.0,Stephen King
-488,Prose poetry,The Prophet,1923.0,Kahlil Gibran
-489,Comics; Graphic novel; Biography; Autobiography,"Maus I: A Survivor's Tale: My Father Bleeds History (Maus, #1)",1985.0,Art Spiegelman
-490,Young adult,"Untamed (House of Night, #4)",2008.0,"P.C. Cast, Kristin Cast"
-491,Science Fiction,"Speaker for the Dead (Ender's Saga, #2)",1986.0,Orson Scott Card
-492,Christian literature; Inspirational Fiction,Mere Christianity,1952.0,C.S. Lewis
-493,Novel; Fiction; Psychological Fiction,The Secret History,1992.0,Donna Tartt
-494,Memoir,A Heartbreaking Work of Staggering Genius,2000.0,Dave Eggers
-495,Historical Novel,"The Clan of the Cave Bear (Earth's Children, #1)",1980.0,Jean M. Auel
-496,Children's literature,Black Beauty,1877.0,Anna Sewell
-497,Novel,War and Peace,1869.0,"Leo Tolstoy, Henry Gifford, Aylmer Maude, Louise Maude"
-498,Transgressive fiction; Postmodern literature; Satire; Horror fiction,American Psycho,1991.0,Bret Easton Ellis
-499,Young adult fiction,"The Princess Diaries (The Princess Diaries, #1)",2000.0,Meg Cabot
-500,Crime Fiction,"The No. 1 Ladies' Detective Agency  (No. 1 Ladies' Detective Agency, #1)",1998.0,Alexander McCall Smith
-501,Comics; Horror fiction,"The Walking Dead, Vol. 01: Days Gone Bye",2004.0,"Robert Kirkman, Tony Moore"
-502,Science Fiction,"2001: A Space Odyssey (Space Odyssey, #1)",1968.0,Arthur C. Clarke
-503,Fiction; Romance novel; Western; Historical Fiction; Christian Fiction,Redeeming Love,1991.0,Francine Rivers
-504,Christian Fiction,"Left Behind (Left Behind, #1)",1995.0,"Tim LaHaye, Jerry B. Jenkins"
-505,Fiction,"The One (The Selection, #3)",2014.0,Kiera Cass
-506,Fiction; Science Fiction,"The Hunger Games Trilogy Boxset (The Hunger Games, #1-3)",2010.0,Suzanne Collins
-507,Biography; Autobiography; Creative nonfiction,Nickel and Dimed: On (Not) Getting By in America,2001.0,Barbara Ehrenreich
-508,Comedy; Chick lit,Remember Me?,2008.0,Sophie Kinsella
-509,Fantasy,"The Great Hunt (Wheel of Time, #2)",1990.0,Robert Jordan
-510,Crime Fiction,"Postmortem (Kay Scarpetta, #1)",1990.0,Patricia Cornwell
-511,Poetry; Fiction,The Complete Stories and Poems,1849.0,Edgar Allan Poe
-512,Autobiography; Biography,The Hiding Place: The Triumphant True Story of Corrie Ten Boom,1971.0,"Corrie ten Boom, John Sherrill, Elizabeth Sherrill"
-513,Short story; Fiction; Crime Fiction; Mystery; Detective fiction; Noir fiction,The Adventures of Sherlock Holmes,1892.0,Arthur Conan Doyle
-514,Drama;Romance,The Prince of Tides,1986.0,Pat Conroy
-515,Historical Fiction,The Amazing Adventures of Kavalier & Clay,2000.0,Michael Chabon
-516,Fiction,"Perfect Chemistry (Perfect Chemistry, #1)",2008.0,Simone Elkeles
-517,Fantasy,Peter Pan,1904.0,"J.M. Barrie, Michael Hague"
-518,Young adult novel,"Pretties (Uglies, #2)",2005.0,Scott Westerfeld
-519,Novel; Fiction; Science Fiction; Speculative fiction; Psychological Fiction; Fantastique,The Wind-Up Bird Chronicle,1994.0,"Haruki Murakami, Jay Rubin"
-520,Crime Fiction;Mystery,"The Lincoln Lawyer (Mickey Haller, #1; Harry Bosch Universe, #16)",2005.0,Michael Connelly
-521,Science Fiction; Drama; Fantasy,Cloud Atlas,2004.0,David Mitchell
-522,Historical Fiction,The Things They Carried,1990.0,Tim O'Brien
-523,Biography; Exhibition catalogue,Wall and Piece,1988.0,Banksy
-524,"Young adult fiction; Science Fiction; Romance novel; Utopian , dystopian fiction","Pandemonium (Delirium, #2)",2012.0,Lauren Oliver
-525,Crime Fiction,"Darkly Dreaming Dexter (Dexter, #1)",2004.0,Jeff Lindsay
-526,Fantasy Fiction; Mystery; Gothic fiction; Romance novel,"Living Dead in Dallas (Sookie Stackhouse, #2)",2002.0,Charlaine Harris
-527,Fantasy Fiction,"The Dragon Reborn (Wheel of Time, #3)",1991.0,Robert Jordan
-528,Satire; Fantasy,Gulliver's Travels,1726.0,"Jonathan Swift, Robert DeMaria Jr."
-529,Comedy,Much Ado About Nothing,1598.0,"William Shakespeare, Barbara A. Mowat, Paul Werstine, Gail Kern Paster, Robert          Jackson"
-530,Epic poetry,Beowulf,975.0,"Unknown, Seamus Heaney"
-531,Superhero,Batman: Year One,1987.0,"Frank Miller, David Mazzucchelli, Richmond Lewis, Dennis O'Neil"
-532,Fiction,Go Set a Watchman,2015.0,Harper Lee
-533,Essay,When You Are Engulfed in Flames,2008.0,David Sedaris
-534,Fantasy Fiction; Romance; Young adult fiction,"Daughter of Smoke & Bone (Daughter of Smoke & Bone, #1)",2011.0,Laini Taylor
-535,Young adult fiction,"Red Queen (Red Queen, #1)",2015.0,Victoria Aveyard
-536,Self-help book,The Power of Habit: Why We Do What We Do in Life and Business,2011.0,Charles Duhigg
-537,Non-fiction novel,Midnight in the Garden of Good and Evil,1994.0,John Berendt
-538,Romance novel; Fiction,"Hopeless (Hopeless, #1)",2012.0,Colleen Hoover
-539,Children's literature,A Little Princess,1905.0,"Frances Hodgson Burnett, Nancy Bond"
-540,Young adult fiction,The Truth About Forever,2004.0,Sarah Dessen
-541,Christian literature,"The Horse and His Boy (Chronicles of Narnia, #5)",1954.0,C.S. Lewis
-542,Young adult fiction; Urban fantasy; Dark fantasy; Paranormal romance,"Last Sacrifice (Vampire Academy, #6)",2010.0,Richelle Mead
-543,Fiction,"Little House on the Prairie (Little House, #2)",1935.0,"Laura Ingalls Wilder, Garth Williams"
-544,Children's literature,The Velveteen Rabbit,1922.0,"Margery Williams Bianco, William   Nicholson"
-545,Philosophical fiction; Autobiographical novel,Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values,1974.0,Robert M. Pirsig
-546,Science Fiction,The War of the Worlds,1897.0,"H.G. Wells, Arthur C. Clarke"
-547,Fiction; Mystery; Young adult fiction,"Pretty Little Liars (Pretty Little Liars, #1)",2006.0,Sara Shepard
-548,Children's literature; Picture book,Corduroy,1948.0,Don Freeman
-549,Non-fiction; Cookbook; Diet book,The Omnivore's Dilemma: A Natural History of Four Meals,2006.0,Michael Pollan
-550,Historical Fiction,Life After Life,2013.0,Kate Atkinson
-551,Fiction; Romance novel; Speculative fiction; Domestic Fiction,The Rescue,2000.0,Nicholas Sparks
-552,Horror fiction,Needful Things,1991.0,Stephen King
-553,Historical Novel,"Voyager (Outlander, #3)",1993.0,Diana Gabaldon
-554,Tragedy,"Hamlet: Screenplay, Introduction And Film Diary",1996.0,"Kenneth Branagh, William Shakespeare"
-555,Horror fiction,Cujo,1981.0,Stephen King
-556,Novel;Fiction,The Virgin Suicides,1993.0,Jeffrey Eugenides
-557,Fantasy Fiction; Mystery; Gothic fiction; Romance novel,"Dead to the World (Sookie Stackhouse, #4)",2004.0,Charlaine Harris
-558,Tragedy; Fiction,Tess of the D'Urbervilles,1891.0,"Thomas Hardy, Tim Dolin, Margaret R. Higonnet"
-559,Literary realism,Madame Bovary,1856.0,"Gustave Flaubert, Margaret Mauldon, Malcolm Bowie, Mark Overstall"
-560,Fantasy,The Phantom Tollbooth,1961.0,"Norton Juster, Jules Feiffer"
-561,Fantasy,"The Way of Kings (The Stormlight Archive, #1)",2010.0,Brandon Sanderson
-562,Fantasy Fiction; Mystery; Gothic fiction; Romance novel,"Club Dead (Sookie Stackhouse, #3)",2003.0,Charlaine Harris
-563,Fiction;Young adult fiction;Comedy,It's Kind of a Funny Story,2006.0,Ned Vizzini
-564,Fantasy Fiction,"The Well of Ascension (Mistborn, #2)",2007.0,Brandon Sanderson
-565,Fiction; Romance novel; Domestic Fiction,"After You (Me Before You, #2)",2015.0,Jojo Moyes
-566,Fiction; Romance novel,The Language of Flowers,2011.0,Vanessa Diffenbaugh
-567,Comics; Graphic novel,"Batman: The Dark Knight Returns (The Dark Knight Saga, #1)",1986.0,"Frank Miller, Klaus Janson, Lynn Varley"
-568,Fiction; Science Fiction; Speculative fiction; Children's literature; Young adult fiction; Adventure fiction,"The Angel Experiment (Maximum Ride, #1)",2005.0,James Patterson
-569,Novel; Fiction,High Fidelity,1995.0,Nick Hornby
-570,Novel,The Guardian,2003.0,Nicholas Sparks
-571,Speculative fiction; Dystopia,"Oryx and Crake (MaddAddam, #1)",2003.0,Margaret Atwood
-572,Non-fiction; Psychology; Self-help book,"Men Are from Mars, Women Are from Venus",1998.0,John Gray
-573,Memoir,Kitchen Confidential: Adventures in the Culinary Underbelly,2000.0,Anthony Bourdain
-574,Science Fiction; Historical Fiction,Timeline,1999.0,Michael Crichton
-575,Satire; Bildungsroman; Philosophical fiction; Picaresque Fiction,Candide,1759.0,Voltaire
-576,Drama; Fiction; Romance novel; Speculative fiction; Children's literature; Fantasy Fiction,Tuck Everlasting,1975.0,Natalie Babbitt
-577,Horror fiction,Christine,1983.0,"Stephen King, Marie Milpois"
-578,Fiction; Children's literature,Are You My Mother?,1960.0,P.D. Eastman
-579,Art,The Story of Art,1950.0,E.H. Gombrich
-580,"Young adult fiction; Romance novel; Science Fiction; Utopian , dystopian fiction","Scarlet (The Lunar Chronicles, #2)",2013.0,Marissa Meyer
-581,Personal finance; Entrepreneurship; Investment; Economics,"Rich Dad, Poor Dad",1997.0,Robert T. Kiyosaki
-582,Historical Fiction,"Silence (Hush, Hush, #3)",2011.0,Becca Fitzpatrick
-583,Contemporary fantasy; High fantasy; Alternative universe,The Magicians (The Magicians #1),2009.0,Lev Grossman
-584,Suspense;Manga;Thriller;Paranormal Fiction,"Death Note, Vol. 1: Boredom (Death Note, #1)",2004.0,"Tsugumi Ohba, Takeshi Obata"
-585,Fantasy Fiction,"A Great and Terrible Beauty (Gemma Doyle, #1)",2003.0,Libba Bray
-586,Novel,Everything Is Illuminated,2002.0,Jonathan Safran Foer
-587,Novel; Fiction; Thriller; Suspense; Adventure fiction; Spy fiction,"The Bourne Supremacy (Jason Bourne, #2)",1986.0,Robert Ludlum
-588,Fiction; Romance novel; Contemporary romance,"Easy (Contours of the Heart, #1)",2012.0,Tammara Webber
-589,Novel,David Copperfield,1849.0,"Charles Dickens, Jeremy Tambling"
-590,Young adult fiction,The Absolutely True Diary of a Part-Time Indian,2007.0,"Sherman Alexie, Ellen Forney"
-591,Farce; Mysticism; Romance novel; Satire; Modern Literature,The Master and Margarita,1967.0,"Mikhail Bulgakov, Katherine Tiernan O'Connor, Diana Burgin, Ellendea Proffer"
-592,Fantasy; Bildungsroman,"A Wizard of Earthsea (Earthsea Cycle, #1)",1968.0,Ursula K. Le Guin
-593,Children's literature,Because of Winn-Dixie,2000.0,"Kate DiCamillo, Chris Sheban"
-594,Naturalism,A Separate Peace,1959.0,John Knowles
-595,Novel; Fiction; Mystery; Suspense; Legal thriller; Legal Story,The Rainmaker,1995.0,John Grisham
-596,Novel,Don Quixote,1605.0,"Miguel de Cervantes Saavedra, Roberto González Echevarría, John Rutherford"
-597,Fantasy,"Assassin's Apprentice (Farseer Trilogy, #1)",1995.0,Robin Hobb
-598,Comic science fiction,"The Restaurant at the End of the Universe (Hitchhiker's Guide, #2)",1980.0,Douglas Adams
-599,Young adult fiction; Fantasy Fiction; Romance novel; Paranormal fiction,"Torment (Fallen, #2)",2010.0,Lauren Kate
-600,Children's literature,The Tale of Peter Rabbit,1901.0,Beatrix Potter
-601,Fiction; Speculative fiction; Children's literature; Fantasy Fiction,"The Silver Chair (Chronicles of Narnia, #4)",1953.0,"C.S. Lewis, Pauline Baynes"
-602,Fantasy Fiction,"The Hero of Ages (Mistborn, #3)",2008.0,Brandon Sanderson
-603,Memoir,"Girl, Interrupted",1993.0,Susanna Kaysen
-604,Humour; Biography; Autobiography,"Are You There, Vodka? It's Me, Chelsea",2007.0,Chelsea Handler
-605,Spirituality; Self-help; Novella,Jonathan Livingston Seagull,1970.0,"Richard Bach, Russell Munson"
-606,Fantasy; Adventure,"City of Heavenly Fire (The Mortal Instruments, #6)",2014.0,Cassandra Clare
-607,Fiction,Love You Forever,1986.0,"Robert Munsch, Sheila McGraw"
-608,Horror fiction,Cell,2006.0,Stephen King
-609,Non-fiction,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,2013.0,Daniel James Brown
-610,Mythopoeia; Fantasy,The Silmarillion (Middle-Earth Universe),1977.0,"J.R.R. Tolkien, Christopher Tolkien, Ted Nasmith"
-611,Fantasy Fiction; Horror fiction; Science Fiction; Western fiction,"The Drawing of the Three (The Dark Tower, #2)",1987.0,Stephen King
-612,Fiction; Historical Fiction; Domestic Fiction,The Forgotten Garden,2008.0,Kate Morton
-613,"Philosophical fiction; Utopian , dystopian fiction; Absurdist fiction; Paranoid fiction",The Trial,1925.0,"Franz Kafka, Edwin Muir, Willa Muir, Max Brod"
-614,Fiction; Romance novel; Young adult fiction; Children's literature,This Lullaby,2002.0,Sarah Dessen
-615,Novel,Plain Truth,2000.0,Jodi Picoult
-616,Memoir,Orange Is the New Black,2010.0,Piper Kerman
-617,Detective fiction,The Hound of the Baskervilles,1902.0,"Arthur Conan Doyle, Anne Perry"
-618,Non-fiction,"Thinking, Fast and Slow",2011.0,Daniel Kahneman
-619,Fantasy,"The Mists of Avalon (Avalon, #1)",1982.0,Marion Zimmer Bradley
-620,Young adult fiction,"Are You There God? It's Me, Margaret",1970.0,Judy Blume
-621,Drama; Romance novel,Nights in Rodanthe,2002.0,Nicholas Sparks
-622,Hardboiled,"Mr. Mercedes (Bill Hodges Trilogy, #1)",2014.0,Stephen King
-623,Fantasy Fiction; Mystery; Gothic fiction; Romance novel,"All Together Dead (Sookie Stackhouse, #7)",2007.0,Charlaine Harris
-624,Novel,Midwives,1997.0,Chris Bohjalian
-625,Picture book,The Polar Express,1985.0,Chris Van Allsburg
-626,Children's literature,The True Story of the 3 Little Pigs,1989.0,"Jon Scieszka, Lane Smith"
-627,Techno-thriller,"Patriot Games (Jack Ryan Universe, #2)",1987.0,Tom Clancy
-628,Fiction; Psychological Fiction,Veronika Decides to Die,1998.0,"Paulo Coelho, Margaret Jull Costa"
-629,Biography,"Lean In: Women, Work, and the Will to Lead",2013.0,"Sheryl Sandberg, Nell Scovell"
-630,Fantasy Fiction; Mystery; Gothic fiction; Romance novel,"Dead as a Doornail (Sookie Stackhouse, #5)",2005.0,Charlaine Harris
-631,Young adult fiction; Fiction; Romance novel,"Shatter Me (Shatter Me, #1)",2011.0,Tahereh Mafi
-632,Milatary science fiction;Philosophical fiction,Starship Troopers,1959.0,Robert A. Heinlein
-633,Chick lit,I've Got Your Number,2011.0,Sophie Kinsella
-634,Philosophical fiction,Sophie's World,1991.0,"Jostein Gaarder, Paulette Møller"
-635,Paranormal romance; Young adult fiction,"The Twilight Saga Breaking Dawn Part 1: The Official Illustrated Movie Companion (The Twilight Saga: The Official Illustrated Movie Companion, #4)",2011.0,Mark Cotta Vaz
-636,"Science Fiction; Post-Apocalyptic fiction; Horror fiction; Utopian , dystopian fiction",The Martian Chronicles,1950.0,Ray Bradbury
-637,Fiction; Psychological Fiction,A Visit from the Goon Squad,2010.0,Jennifer Egan
-638,Children's literature,Heidi,1880.0,"Johanna Spyri, Angelo  Rinaldi, Beverly Cleary"
-639,Techno-thriller,Prey,2002.0,Michael Crichton
-640,Christian literature,"The Last Battle (Chronicles of Narnia, #7)",1956.0,C.S. Lewis
-641,Historical Fiction,"World Without End (The Kingsbridge Series, #2)",2007.0,Ken Follett
-642,Young adult fiction;Paranormal romance,"Chosen (House of Night, #3)",2008.0,"P.C. Cast, Kristin Cast"
-643,Romance novel; Fiction,"Slammed (Slammed, #1)",2012.0,Colleen Hoover
-644,Fantasy,"Beastly (Beastly, #1; Kendra Chronicles, #1)",2007.0,Alex Flinn
-645,Anthology,The Canterbury Tales,1390.0,"Geoffrey Chaucer, Nevill Coghill"
-646,Fiction; Domestic Fiction,Baby Proof,2006.0,Emily Giffin
-647,Fantasy,"Inheritance (The Inheritance Cycle, #4)",2011.0,Christopher Paolini
-648,Alternate history; Alternative universe,1Q84,2009.0,"Haruki Murakami, Jay Rubin, Philip Gabriel"
-649,Novel,Uncle Tom's Cabin,1852.0,Harriet Beecher Stowe
-650,Gothic fiction,The Phantom of the Opera,1909.0,"Gaston Leroux, Alexander Teixeira de Mattos"
-651,Fantasy Fiction; Mystery; Gothic fiction; Romance novel,"Definitely Dead (Sookie Stackhouse, #6)",2006.0,Charlaine Harris
-652,Post-Apocalyptic fiction,Blindness,1995.0,"José Saramago, Giovanni Pontiero"
-653,Fiction; Domestic Fiction,Freedom,2010.0,Jonathan Franzen
-654,"Young adult fiction; Romance novel; Utopian , dystopian fiction","Crossed (Matched, #2)",2011.0,Ally Condie
-655,Fiction; Young adult fiction; Spy fiction,"I'd Tell You I Love You, But Then I'd Have to Kill You (Gallagher Girls, #1)",2006.0,Ally Carter
-656,Picaresque Fiction,The White Tiger,2008.0,Aravind Adiga
-657,Fiction; Domestic Fiction,The Corrections,2001.0,Jonathan Franzen
-658,Memoir,Dreams from My Father: A Story of Race and Inheritance,1995.0,Barack Obama
-659,Adventure fiction,Congo,1980.0,Michael Crichton
-660,Child,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",1972.0,"Judith Viorst, Ray Cruz"
-661,Short story,Interpreter of Maladies,1999.0,Jhumpa Lahiri
-662,Non-fiction,A People's History of the United States,1980.0,Howard Zinn
-663,Fiction; Novella,Breakfast at Tiffany's,1958.0,Truman Capote
-664,Post-Apocalyptic fiction; Horror fiction; Science Fiction; Vampire literature; Fantasy,"The Passage (The Passage, #1)",2010.0,Justin Cronin
-665,�Fantasy,Anansi Boys,2005.0,Neil Gaiman
-666,Young adult fiction,Along for the Ride,2009.0,Sarah Dessen
-667,Fiction,Everything I Never Told You,2014.0,Celeste Ng
-668,Autobiographical novel; Magical Realism,The House of the Spirits,1982.0,"Isabel Allende, Magda Bogin"
-669,Horror fiction,The Dead Zone,1979.0,Stephen King
-670,Crime Fiction,"The Mysterious Affair at Styles (Hercule Poirot, #1)",1920.0,"Agatha Christie, Ροζίτα Σώκου"
-671,Crime Fiction,"Murder on the Orient Express (Hercule Poirot, #10)",1934.0,Agatha Christie
-672,Novel; Literary fiction,Americanah,2013.0,Chimamanda Ngozi Adichie
-673,Fiction; Romance novel; Diary fiction,Suzanne's Diary for Nicholas,2001.0,James Patterson
-674,Thriller; Science Fiction,Firestarter,1980.0,Stephen King
-675,Erotic literature; Fiction; Romance novel; Contemporary romance,"Entwined with You (Crossfire, #3)",2013.0,Sylvia Day
-676,Biography; Non-fiction; Guidebook,"Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen",2009.0,Christopher McDougall
-677,Fiction; Psychological Fiction,The Storied Life of A.J. Fikry,2014.0,Gabrielle Zevin
-678,Children's literature,Madeline,1939.0,Ludwig Bemelmans
-679,Non-fiction,Think and Grow Rich: The Landmark Bestseller - Now Revised and Updated for the 21st Century,1937.0,Napoleon Hill
-680,Family saga; Western,"Little House in the Big Woods (Little House, #1)",1932.0,"Laura Ingalls Wilder, Garth Williams"
-681,Fiction; Speculative fiction; Historical Fiction; Alternate history; Fantasy Fiction,Jonathan Strange & Mr Norrell,2004.0,Susanna Clarke
-682,Fiction; Romance novel; Speculative fiction; Psychological Fiction,A Bend in the Road,2001.0,Nicholas Sparks
-683,Fantasy; Young adult fiction,"The House of Hades (The Heroes of Olympus, #4)",2013.0,Rick Riordan
-684,Supernatural fiction; Horror fiction; Science Fiction; Dystopia; Thriller,"Gone (Gone, #1)",2008.0,Michael  Grant
-685,Fiction; Romance novel; Speculative fiction,"The Wedding (The Notebook, #2)",2003.0,Nicholas Sparks
-686,Non-fiction,1776,2005.0,David McCullough
-687,Non-fiction; True crime,Under the Banner of Heaven: A Story of Violent Faith,2003.0,Jon Krakauer
-688,Fiction; Romance novel; Historical Fiction,Beautiful Ruins,2012.0,Jess Walter
-689,Biography,The Audacity of Hope: Thoughts on Reclaiming the American Dream,2006.0,Barack Obama
-690,Autobiography,On Writing: A Memoir of the Craft,1999.0,Stephen King
-691,Fiction; Saga; Bildungsroman; Domestic Fiction,"Firefly Lane (Firefly Lane, #1)",2008.0,Kristin Hannah
-692,Science Fiction; Techno-thriller,Sphere,1987.0,Michael Crichton
-693,Fiction; Romance novel,Love the One You're With,2008.0,Emily Giffin
-694,Crime Fiction,"The Silkworm (Cormoran Strike, #2)",2014.0,"Robert Galbraith, J.K. Rowling"
-695,Gothic;Horror,"The Vampire Lestat (The Vampire Chronicles, #2)",1985.0,Anne Rice
-696,Fiction; Mystery; Adventure fiction,State of Wonder,2011.0,Ann Patchett
-697,Humour; Novel; Fiction; Humorous Fiction,The Silver Linings Playbook,2008.0,Matthew Quick
-698,Adventure fiction,Twenty Thousand Leagues Under the Sea,1869.0,"Jules Verne, Anthony Bonner"
-699,Tudor Series,"The Constant Princess (The Plantagenet and Tudor Novels, #6)",2005.0,Philippa Gregory
-700,Novel; Fiction,Mrs. Dalloway,1925.0,"Virginia Woolf, Maureen Howard"
-701,Fiction,The Hundred-Year-Old Man Who Climbed Out of the Window and Disappeared,2009.0,"Jonas Jonasson, Rod Bradbury"
-702,Gothic fiction,Bag of Bones,1998.0,Stephen King
-703,Fiction,The Cider House Rules,1985.0,John Irving
-704,Horror fiction,Thinner,1984.0,"Richard Bachman, Stephen King"
-705,Adventure fiction,Around the World in Eighty Days,1872.0,"Jules Verne, Michael Glencross, Brian W. Aldiss"
-706,Young adult fiction,Walk Two Moons,1994.0,Sharon Creech
-707,Fiction,Eleven Minutes,2003.0,"Paulo Coelho, Margaret Jull Costa"
-708,Short story,Nine Stories,1953.0,J.D. Salinger
-709,Biography; Autobiography; Non-fiction; Cookbook,"Julie and Julia: 365 Days, 524 Recipes, 1 Tiny Apartment Kitchen: How One Girl Risked Her Marriage, Her Job, and Her Sanity to Master the Art of Living",2005.0,Julie Powell
-710,Biopunk; Dystopian Fiction,"Unwind (Unwind, #1)",2007.0,Neal Shusterman
-711,Historical Fiction,"Drums of Autumn (Outlander, #4)",1996.0,Diana Gabaldon
-712,Utopian; dystopian fiction; Young adult fiction,"Prodigy (Legend, #2)",2013.0,Marie Lu
-713,Tragedy,King Lear,1603.0,William Shakespeare
-714,Tragedy,Death of a Salesman,1949.0,Arthur Miller
-715,Novel,The Choice,2007.0,Nicholas Sparks
-716,Utopian; dystopian fiction; Adventure fiction; Science Fiction; Drama; Action fiction,The Hunger Games: Official Illustrated Movie Companion,2012.0,Kate Egan
-717,Modern Literature,The Sound and the Fury,1929.0,William Faulkner
-718,Spirituality; Psychology,A New Earth: Awakening to Your Life's Purpose,2005.0,Eckhart Tolle
-719,Adventure fiction; Supernatural fiction,"Bleach, Volume 01",2002.0,Tite Kubo
-720,Comics; Humour; Autobiography; Graphic novel; Non-fiction comics,"Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened",2013.0,Allie Brosh
-721,Fantasy Fiction,"The Shadow Rising (Wheel of Time, #4)",1992.0,Robert Jordan
-722,Novel; Fiction; Biography; Autobiography; Suspense; True crime; Adventure fiction; Autobiographical Fiction,Shantaram,2003.0,Gregory David Roberts
-723,Fantasy Fiction; Mystery; Gothic fiction; Romance novel,"From Dead to Worse (Sookie Stackhouse, #8)",2008.0,Charlaine Harris
-724,Fantasy Fiction; Horror fiction; Science Fiction,"The Waste Lands (The Dark Tower, #3)",1991.0,"Stephen King, Ned Dameron"
-725,Crime Fiction,"The Bone Collector (Lincoln Rhyme, #1)",1997.0,Jeffery Deaver
-726,Novel,The Reader,1995.0,"Bernhard Schlink, Carol Brown Janeway"
-727,Children's literature,"Brown Bear, Brown Bear, What Do You See?",1967.0,"Bill Martin Jr., Eric Carle"
-728,Soft Science Fiction,"Hyperion (Hyperion Cantos, #1)",1989.0,Dan Simmons
-729,Fiction,The Pearl,1947.0,John Steinbeck
-730,Horror fiction,The Exorcist,1971.0,William Peter Blatty
-731,Young adult fiction; Fantasy Fiction,"The Short Second Life of Bree Tanner: An Eclipse Novella (Twilight, #3.5)",2009.0,Stephenie Meyer
-732,Novel; Fiction; Mystery; Legal Story,Snow Falling on Cedars,1994.0,David Guterson
-733,Fiction,Roots: The Saga of an American Family,1976.0,Alex Haley
-734,Fiction;Comic;Fantasy Fiction,Batman: The Killing Joke,1988.0,"Alan Moore, Brian Bolland, Tim Sale"
-735,Bildungsroman; African-American literature; Social commentary,Invisible Man,1952.0,Ralph Ellison
-736,Memoir,A Long Way Gone: Memoirs of a Boy Soldier,2007.0,Ishmael Beah
-737,Science Fiction,"Mrs. Frisby and the Rats of NIMH (Rats of NIMH, #1)",1971.0,Robert C. O'Brien
-738,�Fiction; Western; Science Fiction; Horror fiction; Speculative fiction; Fantasy Fiction; Comedy horror,Different Seasons,1982.0,Stephen King
-739,Fiction; Children's literature,"The Little House Collection (Little House, #1-9)",1953.0,"Laura Ingalls Wilder, Garth Williams"
-740,Fiction; Romance novel,The Girls' Guide to Hunting and Fishing,1998.0,Melissa Bank
-741,Fiction; Science Fiction; Dystopian Fiction,"Wool Omnibus (Silo, #1)",2012.0,Hugh Howey
-742,Humour; Mystery; Adventure fiction; Absurdist fiction; Comic fantasy,"Lamb: The Gospel According to Biff, Christ's Childhood Pal",2002.0,Christopher Moore
-743,Self-help book; Inspirational Fiction,The Power of Now: A Guide to Spiritual Enlightenment,1997.0,Eckhart Tolle
-744,Humour; Biography; Autobiography; Autobiographical Fiction,Let's Pretend This Never Happened: A Mostly True Memoir,2012.0,Jenny  Lawson
-745,Fantasy,"The Lies of Locke Lamora (Gentleman Bastard, #1)",2006.0,Scott Lynch
-746,Fantasy Fiction,"Sabriel (Abhorsen,  #1)",1995.0,Garth Nix
-747,Fantasy Fiction; Mystery; Gothic fiction; Romance novel,"Dead and Gone (Sookie Stackhouse, #9)",2009.0,Charlaine Harris
-748,Fiction; Psychological Fiction,The Storyteller,2013.0,Jodi Picoult
-749,Fiction,"Obsidian (Lux, #1)",2011.0,Jennifer L. Armentrout
-750,Comic science fiction,"Life, the Universe and Everything (Hitchhiker's Guide, #3)",1982.0,Douglas Adams
-751,�Fantasy Fiction,"Crown of Midnight (Throne of Glass, #2)",2013.0,Sarah J. Maas
-752,Fiction; Graphic novel,"Scott Pilgrim, Volume 1: Scott Pilgrim's Precious Little Life",2004.0,Bryan Lee O'Malley
-753,Fantasy,Half Broke Horses,2008.0,Jeannette Walls
-754,Fantasy,"Mort (Death, #1; Discworld, #4)",1987.0,Terry Pratchett
-755,Fiction; Fantasy Fiction,"The Iron King (The Iron Fey, #1)",2010.0,Julie Kagawa
-756,Western,Lonesome Dove,1985.0,Larry McMurtry
-757,Non-fiction,Stiff: The Curious Lives of Human Cadavers,2003.0,Mary Roach
-758,Young adult fiction; Urban fantasy; Dark fantasy; Paranormal romance,"Bloodlines (Bloodlines, #1)",2011.0,Richelle Mead
-759,Science Fiction,"Ender's Shadow (Ender's Shadow, #1)",1998.0,Orson Scott Card
-760,Comedy; Chick lit,Twenties Girl,2009.0,Sophie Kinsella
-761,Biographical Fiction,Schindler's List,1982.0,Thomas Keneally
-762,African-American literature,The Bluest Eye,1970.0,Toni Morrison
-763,Historical Fiction,"The White Queen (The Plantagenet and Tudor Novels, #2)",2009.0,Philippa Gregory
-764,Autobiography,The Autobiography of Malcolm X,1965.0,"Malcolm X, Alex Haley"
-765,Comics; Fiction; Graphic novel; Horror fiction; Fantasy Fiction,Preludes & Nocturnes (The Sandman #1),1989.0,"Neil Gaiman, Sam Kieth, Mike Dringenberg, Malcolm Jones III, Todd Klein, Karen  Berger"
-766,Biography; Non-fiction,Seabiscuit: An American Legend,1999.0,Laura Hillenbrand
-767,Gothic fiction; Psychological horror; Crime Fiction,Shutter Island,2003.0,Dennis Lehane
-768,Fiction; Mystery,The Complete Sherlock Holmes,1894.0,Arthur Conan Doyle
-769,Tragedy,Julius Caesar,1599.0,"William Shakespeare, Roma Gill"
-770,History,"In the Garden of Beasts: Love, Terror, and an American Family in Hitler's Berlin",2011.0,Erik Larson
-771,Fiction; Reference work; Utopian fiction,The Republic,-380.0,"Plato, Desmond Lee"
-772,Comedy,The Taming of the Shrew,1593.0,William Shakespeare
-773,Young adult fiction; Romance novel; Science Fiction; Utopian fiction ; dystopian fiction,"Cress (The Lunar Chronicles, #3)",2014.0,Marissa Meyer
-774,Memoir,Just Kids,2010.0,Patti Smith
-775,Exhibition catalogue,The Art Book,1997.0,Phaidon Press
-776,Humour; Fiction; Romance novel,Jemima J,2001.0,Jane Green
-777,Romanticism; Gothic fiction,The Hunchback of Notre-Dame,1831.0,"Victor Hugo, Walter J. Cobb"
-778,Historical Fiction,A Fine Balance,1996.0,Rohinton Mistry
-779,Comics; Speculative fiction,Calvin and Hobbes,1987.0,"Bill Watterson, G.B. Trudeau"
-780,iction; Science Fiction; Speculative fiction; Children's literature; Young adult fiction,"Specials (Uglies, #3)",2006.0,Scott Westerfeld
-781,Novel; Fiction; Novella; Romance novel; Reference work; Psychological Fiction,The Awakening,1899.0,Kate Chopin
-782,Fiction; Young adult fiction; Fantasy Fiction; Adventure fiction,"Hunted (House of Night, #5)",2009.0,"P.C. Cast, Kristin Cast"
-783,Fiction,For One More Day,2006.0,Mitch Albom
-784,Techno-thriller,"Clear and Present Danger (Jack Ryan Universe, #6)",1989.0,Tom Clancy
-785,�Poetry; Children's literature,Falling Up,1996.0,Shel Silverstein
-786,Humor;Biography,Sh*t My Dad Says,2010.0,Justin Halpern
-787,Novel; Fiction; Black comedy; Speculative fiction; Travel literature,Trainspotting,1993.0,"Irvine Welsh, Eric Lindor Fall"
-788,Science Fiction,Foundation and Empire (Foundation #2),1952.0,Isaac Asimov
-789,Self-help book,The Four Agreements: A Practical Guide to Personal Freedom,1997.0,Miguel Ruiz
-790,Novel; Fiction; Mystery; Psychological Fiction,House Rules,2010.0,Jodi Picoult
-791,Fairy Tale,The Complete Grimm's Fairy Tales,1812.0,"Jacob Grimm, Wilhelm Grimm, Josef Scharl, Padraic Colum, Joseph Campbell, Margaret Raine Hunt, James Stern"
-792,Children's literature,From the Mixed-Up Files of Mrs. Basil E. Frankweiler,1967.0,E.L. Konigsburg
-793,Horror fiction,"Doctor Sleep (The Shining, #2)",2013.0,Stephen King
-794,Novel; Fiction; Romance novel,About a Boy,1998.0,Nick Hornby
-795,Erotic literature; Romance novel; Fiction; Contemporary romance,"On Dublin Street (On Dublin Street, #1)",2012.0,Samantha Young
-796,Christian literature,Crazy Love: Overwhelmed by a Relentless God,2008.0,"Francis Chan, Danae Yankoski, Chris Tomlin"
-797,Children's literature,"One Fish, Two Fish, Red Fish, Blue Fish",1960.0,Dr. Seuss
-798,Fiction; Horror fiction; Suspense; Speculative fiction; Children's literature,Watchers,1987.0,Dean Koontz
-799,Memoir,The Story of My Life,1902.0,Helen Keller
-800,Fiction; Psychological Fiction; Domestic Fiction,This is Where I Leave You,2009.0,Jonathan Tropper
-801,Humorous Fiction; Horror fiction; History; Thriller,Abraham Lincoln: Vampire Hunter,2010.0,Seth Grahame-Smith
-802,Fantasy; Romance Film; Comedy-drama; Harem,"Fruits Basket, Vol. 1",1999.0,"Natsuki Takaya, Alethea Nibley, Athena Nibley"
-803,Romantic comedy,The Tempest,1623.0,William Shakespeare
-804,Young adult fiction;Fantasy;Parnormal romance,"Burned (House of Night, #7)",2010.0,"P.C. Cast, Kristin Cast"
-805,Fantasy fiction;Horror Fiction;Science Fiction,"Wizard and Glass (The Dark Tower, #4)",1997.0,"Stephen King, Dave McKean"
-806,Science Fiction,The Circle,2013.0,Dave Eggers
-807,Historical Fiction,The Invention of Hugo Cabret,2007.0,Brian Selznick
-808,Science Fiction; Utopian fiction; dystopian fiction,Brave New World / Brave New World Revisited,1932.0,"Aldous Huxley, Christopher Hitchens"
-809,Romantic comedy,"Ouran High School Host Club, Vol. 1 (Ouran High School Host Club, #1)",2003.0,Bisco Hatori
-810,Fiction; Thriller; Suspense; Psychological Fiction,The Good Girl,2014.0,Mary Kubica
-811,Romance novel; Fiction; Contemporary romance,"Fallen Too Far (Rosemary Beach, #1; Too Far, #1)",2012.0,Abbi Glines
-812,Fiction; Romance novel; Domestic Fiction,Landline,2014.0,Rainbow Rowell
-813,Young adult fiction; Paranormal romance,"Tempted (House of Night, #6)",2008.0,"P.C. Cast, Kristin Cast"
-814,Thriller,No Country for Old Men,2005.0,Cormac McCarthy
-815,Historical Fiction,"Wolf Hall (Thomas Cromwell, #1)",2009.0,Hilary Mantel
-816,Novel; Fiction; Speculative fiction; Young adult fiction; Fantasy Fiction,"Howl's Moving Castle (Howl's Moving Castle, #1)",1986.0,Diana Wynne Jones
-817,Science Fiction,Dreamcatcher,2001.0,"Stephen King, William Olivier Desmond"
-818,Memoir,Walden,1854.0,Henry David Thoreau
-819,Historical Novel,The Remains of the Day,1989.0,Kazuo Ishiguro
-820,Romance novel,The Best of Me,2010.0,Nicholas Sparks
-821,Fiction; Psychological Fiction; Literary fiction,The Sense of an Ending,2011.0,Julian Barnes
-822,Mystery,"A is for Alibi (Kinsey Millhone, #1)",1982.0,Sue Grafton
-823,Tragedy,"Oedipus Rex  (The Theban Plays, #1)",-430.0,"Sophocles, J.E. Thomas"
-824,Novel,Shanghai Girls (Shanghai Girls #1),2009.0,Lisa See
-825,Children's literature,The Wind in the Willows,1908.0,"Kenneth Grahame, Gillian Avery"
-826,Young adult fiction,"To All the Boys I've Loved Before (To All the Boys I've Loved Before, #1)",2014.0,Jenny Han
-827,Biography; Autobiographical comics,"Persepolis: The Story of a Childhood (Persepolis, #1)",2000.0,"Marjane Satrapi, Mattias Ripa"
-828,Novel,A Room with a View,1908.0,E.M. Forster
-829,Fiction; Young adult fiction,The DUFF: Designated Ugly Fat Friend,2010.0,Kody Keplinger
-830,Young adult fiction,Lock and Key,2008.0,Sarah Dessen
-831,Detective fiction,"Naked in Death (In Death, #1)",1995.0,J.D. Robb
-832,Novel; Fiction; Mystery; Children's literature; Legal thriller; Legal Story,The Chamber,1994.0,John Grisham
-833,Young adult fiction; Fantasy Fiction; Romance novel,"Midnight Sun (Twilight, #1.5)",2008.0,Stephenie Meyer
-834,Comics;Graphic Novel,"Naruto, Vol. 01: The Tests of the Ninja (Naruto, #1)",1999.0,"Masashi Kishimoto, Katy Bridges"
-835,Humour; Fiction,"The Unlikely Pilgrimage of Harold Fry (Harold Fry, #1)",2012.0,Rachel Joyce
-836,Fantasy;Romance;Young adult Fiction,"Every Day (Every Day, #1)",2012.0,David Levithan
-837,Science Fiction,"Xenocide (Ender's Saga, #3)",1991.0,Orson Scott Card
-838,Analysis,The Merchant of Venice,1596.0,"William Shakespeare, Robert          Jackson, Barbara A. Mowat, Paul Werstine"
-839,Non-Fiction,"Shōgun (Asian Saga, #1)",1975.0,James Clavell
-840,Fiction; Romance novel; Speculative fiction; Fantasy Fiction; Occult Fiction,"Lover Awakened (Black Dagger Brotherhood, #3)",2006.0,J.R. Ward
-841,Fiction; Fantasy Fiction,"A Court of Thorns and Roses (A Court of Thorns and Roses, #1)",2015.0,Sarah J. Maas
-842,Erotic romance novel,"Fifty Shades Trilogy (Fifty Shades, #1-3)",2012.0,E.L. James
-843,Picture book,Chicka Chicka Boom Boom,1989.0,"Bill Martin Jr., John Archambault, Lois Ehlert"
-844,Autobiography; Graphic novel; Non-fiction,Smile,2009.0,Raina Telgemeier
-845,Satire; Political satire,Animal Farm / 1984,1950.0,"George Orwell, Christopher Hitchens"
-846,Novel,"The Deep End of the Ocean (Cappadora Family, #1)",1996.0,Jacquelyn Mitchard
-847,Fiction; Domestic Fiction,The Bonesetter's Daughter,2001.0,Amy Tan
-848,Epistolary novel,"Angus, Thongs and Full-Frontal Snogging (Confessions of Georgia Nicolson, #1)",1999.0,Louise Rennison
-849,Novel,"Mr. Penumbra's 24-Hour Bookstore (Mr. Penumbra's 24-Hour Bookstore, #1)",2012.0,Robin Sloan
-850,Gothic fiction; Family saga,"Flowers in the Attic (Dollanganger, #1)",1979.0,V.C. Andrews
-851,Autobiography; Biography,When Breath Becomes Air,2016.0,"Paul Kalanithi, Abraham Verghese"
-852,Fiction; Children's literature; Young adult fiction,Maniac Magee,1990.0,Jerry Spinelli
-853,Novel; Transgressive fiction; Satire,Invisible Monsters,1999.0,Chuck Palahniuk
-854,Analysis,Twelfth Night,1601.0,William Shakespeare
-855,Young adult fiction,"Gathering Blue (The Giver, #2)",2000.0,Lois Lowry
-856,Mystery,The Westing Game,1978.0,Ellen Raskin
-857,Science Fiction,"Red Rising (Red Rising, #1)",2014.0,Pierce Brown
-858,Fantasy Fiction,"The Way of Shadows (Night Angel, #1)",2008.0,Brent Weeks
-859,Humour; Fiction; Children's literature; Travel literature; Literary fiction,"The Bean Trees (Greer Family, #1)",1988.0,Barbara Kingsolver
-860,Fiction; Romance novel; Contemporary romance,"Walking Disaster (Beautiful, #2)",2013.0,Jamie McGuire
-861,High fantasy,"Words of Radiance (The Stormlight Archive, #2)",2014.0,Brandon Sanderson
-862,Fiction; Children's literature; Speculative fiction,Guess How Much I Love You,1988.0,"Sam McBratney, Anita Jeram"
-863,Historical Fiction,"The Fiery Cross (Outlander, #5)",2001.0,Diana Gabaldon
-864,Horror fiction,Night Shift,1978.0,"Stephen King, John D. MacDonald"
-865,Thriller,Jaws,1974.0,Peter Benchley
-866,Novel,The History of Love,2005.0,Nicole Krauss
-867,Children's literature,Pippi Longstocking,1945.0,"Astrid Lindgren, Lauren Child, Florence Lamborn, Nancy Seligsohn"
-868,Novel,The Elegance of the Hedgehog,2006.0,"Muriel Barbery, Alison Anderson"
-869,Biography; Non-fiction,Team of Rivals: The Political Genius of Abraham Lincoln,2005.0,"Doris Kearns Goodwin, Suzanne Toren"
-870,Fantasy Fiction; Mystery; Gothic fiction,"Dead in the Family (Sookie Stackhouse, #10)",2010.0,Charlaine Harris
-871,Philosophical fiction,The Plague,1947.0,"Albert Camus, Stuart Gilbert"
-872,Humour; Novel; Fiction; Steampunk; Mystery; Gothic fiction; Absurdist fiction,"The Reptile Room (A Series of Unfortunate Events, #2)",1999.0,"Lemony Snicket, Brett Helquist"
-873,Autobiography,Brain on Fire: My Month of Madness,2012.0,Susannah Cahalan
-874,Young adult fiction; Urban fantasy,"Wicked Lovely (Wicked Lovely, #1)",2007.0,Melissa Marr
-875,Mystery,Curious George,1941.0,H.A. Rey
-876,Fantasy,The Neverending Story,1979.0,"Michael Ende, Ralph Manheim, Roswitha Quadflieg"
-877,Children's literature,A Beautiful Mind,1998.0,Sylvia Nasar
-878,Children's literature,The Jungle,1906.0,"Upton Sinclair, Earl Lee, Kathleen DeGrave"
-879,Paranormal fiction; Horror fiction; Paranormal romance; Urban fantasy,"The Summoning (Darkest Powers, #1)",2008.0,Kelley Armstrong
-880,Medical history,The Man Who Mistook His Wife for a Hat and Other Clinical Tales,1985.0,Oliver Sacks
-881,Fiction; Thriller; Suspense; Spy fiction; War story,Eye of the Needle,1978.0,Ken Follett
-882,Historical Fiction,The Blind Assassin,2000.0,Margaret Atwood
-883,Young adult fiction; Horror fiction; Dark fantasy,"Hollow City (Miss Peregrine’s Peculiar Children, #2)",2014.0,Ransom Riggs
-884,Fiction,House of Sand and Fog,1999.0,Andre Dubus III
-885,Utopian dystopian fiction,The Girl with All the Gifts,2014.0,M.R. Carey
-886,Non-Fiction,As I Lay Dying,1930.0,William Faulkner
-887,Children's literature,Harold and the Purple Crayon,1955.0,Crockett Johnson
-888,Fiction; Romance novel; Speculative fiction; Fantasy Fiction,"Lover Eternal (Black Dagger Brotherhood, #2)",2006.0,J.R. Ward
-889,Science Fiction,Second Foundation (Foundation #3),1953.0,Isaac Asimov
-890,Science Fiction; Fantasy Fiction,"Fool Moon (The Dresden Files, #2)",2001.0,Jim Butcher
-891,Non-fiction,"David and Goliath: Underdogs, Misfits, and the Art of Battling Giants",2011.0,Malcolm Gladwell
-892,Comic,"Fullmetal Alchemist, Vol. 1 (Fullmetal Alchemist, #1)",2002.0,"Hiromu Arakawa, Akira Watanabe"
-893,Fantasy,"Guards! Guards! (Discworld, #8)",1989.0,Terry Pratchett
-894,Memoir,The Year of Magical Thinking,2005.0,Joan Didion
-895,Novel,We Need to Talk About Kevin,2003.0,Lionel Shriver
-896,Novel,"Rendezvous with Rama (Rama, #1)",1973.0,Arthur C. Clarke
-897,Horror fiction;Gothic Fiction,"The Queen of the Damned (The Vampire Chronicles, #3)",1988.0,Anne Rice
-898,Novel; Fiction; Romance novel,The Age of Innocence,1920.0,"Edith Wharton, Maureen Howard"
-899,Fiction,The Selfish Gene,1976.0,Richard Dawkins
+,genres,title,authors,publication_year
+0,"Utopian , dystopian fiction; Adventure fiction; Science Fiction; Drama; Action fiction","The Hunger Games (The Hunger Games, #1)",Suzanne Collins,2008.0
+1,Fantasy Fiction,"Harry Potter and the Sorcerer's Stone (Harry Potter, #1)","J.K. Rowling, Mary GrandPré",1997.0
+2,Fantasy Fiction; Young adult fiction,"Twilight (Twilight, #1)",Stephenie Meyer,2005.0
+3,Southern Gothic; Coming-of-Age Fiction; Bildungsroman,To Kill a Mockingbird,Harper Lee,1960.0
+4,Novel; Historical Fiction,The Great Gatsby,F. Scott Fitzgerald,1925.0
+5,Young adult fiction,The Fault in Our Stars,John Green,2012.0
+6,High fantasy; Juvenile fantasy,The Hobbit,J.R.R. Tolkien,1937.0
+7,Literary realism; Coming-of-Age Fiction,The Catcher in the Rye,J.D. Salinger,1951.0
+8,Novel; Fiction; Thriller; Suspense; Mystery; Speculative fiction; Crime Fiction;Conspiracy fiction,"Angels & Demons  (Robert Langdon, #1)",Dan Brown,2000.0
+9,Drama;Romance,Pride and Prejudice,Jane Austen,1813.0
+10,Historical Fiction; Drama,The Kite Runner,Khaled Hosseini,2003.0
+11,"Science Fiction; Utopian , dystopian fiction; Young adult fiction","Divergent (Divergent, #1)",Veronica Roth,2011.0
+12," Utopian , dystopian fiction; Political fiction; Social science fiction",1984,"George Orwell, Erich Fromm, Celâl Üster",1949.0
+13,Satire; Political satire,Animal Farm,George Orwell,1945.0
+14,Autobiography,The Diary of a Young Girl,"Anne Frank, Eleanor Roosevelt, B.M. Mooyaart-Doubleday",1947.0
+15,"Crime Fiction; Mystery; Thriller; Sc,inavian noir","The Girl with the Dragon Tattoo (Millennium, #1)","Stieg Larsson, Reg Keeland",2005.0
+16,Adventure fiction; Dystopia; Science Fiction,"Catching Fire (The Hunger Games, #2)",Suzanne Collins,2009.0
+17, Fantasy Fiction,"Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)","J.K. Rowling, Mary GrandPré, Rufus Beck",1999.0
+18,Fantasy,"The Fellowship of the Ring (The Lord of the Rings, #1)",J.R.R. Tolkien,1954.0
+19, Adventure fiction; War story; Science Fiction,"Mockingjay (The Hunger Games, #3)",Suzanne Collins,2010.0
+20,Fantasy Fiction,"Harry Potter and the Order of the Phoenix (Harry Potter, #5)","J.K. Rowling, Mary GrandPré",2003.0
+21,Novel; Fiction; Psychological Fiction; Domestic Fiction,The Lovely Bones,Alice Sebold,2002.0
+22,Fantasy; Detective fiction,"Harry Potter and the Chamber of Secrets (Harry Potter, #2)","J.K. Rowling, Mary GrandPré",1998.0
+23, Fantasy Fiction,"Harry Potter and the Goblet of Fire (Harry Potter, #4)","J.K. Rowling, Mary GrandPré",2000.0
+24, Fantasy Fiction,"Harry Potter and the Deathly Hallows (Harry Potter, #7)","J.K. Rowling, Mary GrandPré",2007.0
+25, Mystery; Detective fiction; Conspiracy fiction; Thriller,"The Da Vinci Code (Robert Langdon, #2)",Dan Brown,2003.0
+26,Fantasy Fiction,"Harry Potter and the Half-Blood Prince (Harry Potter, #6)","J.K. Rowling, Mary GrandPré",2005.0
+27,Novel; Allegory; Fiction; Young adult fiction; Speculative fiction; Psychological Fiction,Lord of the Flies,William Golding,1954.0
+28,Tragedy;Romance;Musical Theatre,Romeo and Juliet,"William Shakespeare, Robert           Jackson",1595.0
+29,Thriller,Gone Girl,Gillian Flynn,2012.0
+30,Novel; Fiction; Historical Fiction,The Help,Kathryn Stockett,2009.0
+31,Novella; Fiction; Tragedy,Of Mice and Men,John Steinbeck,1937.0
+32, Historical Fiction,Memoirs of a Geisha,Arthur Golden,1997.0
+33,Erotic romance novel,"Fifty Shades of Grey (Fifty Shades, #1)",E.L. James,2011.0
+34,Quest; Adventure fiction; Fantasy Fiction,The Alchemist,"Paulo Coelho, Alan R. Clarke",1988.0
+35,"Young adult fiction; Utopian , dystopian fiction; Science Fiction","The Giver (The Giver, #1)",Lois Lowry,1993.0
+36,Christian literature,"The Lion, the Witch, and the Wardrobe (Chronicles of Narnia, #1)",C.S. Lewis,1950.0
+37,Novel; Romance novel; Fiction; Science Fiction; Speculative fiction; Fantasy Fiction;Domestic Fiction,The Time Traveler's Wife,Audrey Niffenegger,2003.0
+38,High fantasy; Political fantasy,"A Game of Thrones (A Song of Ice and Fire, #1)",George R.R. Martin,1996.0
+39,Memoir,"Eat, Pray, Love",Elizabeth Gilbert,2006.0
+40,Fantasy; Greek mythology; Young adult fiction,"The Lightning Thief (Percy Jackson and the Olympians, #1)",Rick Riordan,2005.0
+41,Coming-of-Age Fiction; Bildungsroman,"Little Women (Little Women, #1)",Louisa May Alcott,1868.0
+42,Novel,Jane Eyre,"Charlotte Brontë, Michael Mason",1847.0
+43,Novel;Romance,"The Notebook (The Notebook, #1)",Nicholas Sparks,1996.0
+44,Fiction;Adventure,Life of Pi,Yann Martel,2001.0
+45,Novel; Fiction; Romance novel; Historical Fiction,Water for Elephants,Sara Gruen,2006.0
+46,Novel; Fiction; Young adult fiction; Historical Fiction,The Book Thief,Markus Zusak,2005.0
+47,"Utopian , dystopian fiction",Fahrenheit 451,Ray Bradbury,1953.0
+48,Young adult fiction; Romance novel; Vampire literature,"New Moon (Twilight, #2)",Stephenie Meyer,2006.0
+49,Children's poetry,Where the Sidewalk Ends,Shel Silverstein,1974.0
+50,Fantasy;Adventure,"City of Bones (The Mortal Instruments, #1)",Cassandra Clare,2007.0
+51,Young adult fiction; Fantasy Fiction; Romance novel; Vampire literature,"Eclipse (Twilight, #3)",Stephenie Meyer,2007.0
+52,"Young adult fiction; Fantasy; Utopian , dystopian fiction; Bildungsroman","Eragon (The Inheritance Cycle, #1)",Christopher Paolini,2002.0
+53, Comic science fiction,"The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)",Douglas Adams,1979.0
+54,"Science Fiction; Utopian , dystopian fiction",Brave New World,Aldous Huxley,1932.0
+55,Paranormal romance; Young adult fiction,"Breaking Dawn (Twilight, #4)",Stephenie Meyer,2008.0
+56,Fiction,The Secret Life of Bees,Sue Monk Kidd,2001.0
+57, Picaresque Fiction,The Adventures of Huckleberry Finn,"Mark Twain, John Seelye, Guy Cardwell",1884.0
+58,Children's literature,Charlotte's Web,"E.B. White, Garth Williams, Rosemary Wells",1952.0
+59,Mystery,The Curious Incident of the Dog in the Night-Time,Mark Haddon,2003.0
+60,Thriller; Fiction; Suspense; Psychological Fiction,The Girl on the Train,Paula Hawkins,2015.0
+61,Juvenile fantasy; Fantasy,"The Golden Compass (His Dark Materials, #1)",Philip Pullman,1995.0
+62,Tragedy,Wuthering Heights,"Emily Brontë, Richard J. Dunn",1847.0
+63,Novel; Fiction; Domestic Fiction,My Sister's Keeper,Jodi Picoult,2004.0
+64,Black comedy; Satire; Science Fiction; War story; Metafiction; Postmodernism,Slaughterhouse-Five,Kurt Vonnegut Jr.,1969.0
+65,Historical Fiction,Gone with the Wind,Margaret Mitchell,1936.0
+66,Novel; Fiction,A Thousand Splendid Suns,Khaled Hosseini,2007.0
+67,Fiction; Young adult fiction; Epistolary novel; Bildungsroman,The Perks of Being a Wallflower,Stephen Chbosky,1999.0
+68,"Science Fiction; Utopian , dystopian fiction; Romance novel; Young adult fiction","Insurgent (Divergent, #2)",Veronica Roth,2012.0
+69,Science Fiction,"Ender's Game (Ender's Saga, #1)",Orson Scott Card,1985.0
+70,Gothic fiction; Horror fiction; Soft science fiction,Frankenstein,"Mary Wollstonecraft Shelley, Percy Bysshe Shelley, Maurice Hindle",1818.0
+71,Gothic Novel;Horror;Psychological Horror,The Shining (The Shining #1),Stephen King,1977.0
+72,Science Fiction; Romance novel; Thriller; Dystopia,"The Host (The Host, #1)",Stephenie Meyer,2008.0
+73,Young adult fiction,Looking for Alaska,John Green,2005.0
+74,Comedy Novel,"Bridget Jones's Diary (Bridget Jones, #1)",Helen Fielding,1996.0
+75,Romance novel,Sense and Sensibility,"Jane Austen, Tony Tanner, Ros Ballaster",1811.0
+76,Satire; Adventure fiction,"Holes (Holes, #1)","Louis Sachar, Louis Sachar",1998.0
+77,Chick lit,"The Devil Wears Prada (The Devil Wears Prada, #1)",Lauren Weisberger,2003.0
+78,Epic poetry; Epic,The Odyssey,"Homer, Robert Fagles, E.V. Rieu, Frédéric Mugler, Bernard Knox",2004.0
+79,Fable; Fiction;Children's literature; Novella;Speculative fiction,The Little Prince,"Antoine de Saint-Exupéry, Richard Howard, Dom Marcos Barbosa, Melina Karakosta",1946.0
+80,Memoir,The Glass Castle,Jeannette Walls,2005.0
+81,Biography; Non-fiction; Autobiography; Speculative fiction; Guidebook; Travel literature,Into the Wild,Jon Krakauer,1996.0
+82,Historical Fiction,A Tale of Two Cities,"Charles Dickens, Richard Maxwell, Hablot Knight Browne",1859.0
+83,Hard science fiction; Techno-thriller; Horror fiction,"Jurassic Park (Jurassic Park, #1)",Michael Crichton,1990.0
+84,Picture book,The Giving Tree,Shel Silverstein,1964.0
+85,Legal thriller,A Time to Kill,John Grisham,1989.0
+86,Memoir,Night (The Night Trilogy #1),"Elie Wiesel, Marion Wiesel",1958.0
+87,Young adult fiction; Mystery,Paper Towns,John Green,2008.0
+88,Fantasy Fiction; Romance,The Princess Bride ,William Goldman,1973.0
+89,Young adult fiction,The Outsiders,S.E. Hinton,1967.0
+90,Young adult fiction; Science Fiction; Post-Apocalyptic fiction,"The Maze Runner (Maze Runner, #1)",James Dashner,2009.0
+91,�Non-fiction,"Freakonomics: A Rogue Economist Explores the Hidden Side of Everything (Freakonomics, #1)","Steven D. Levitt, Stephen J. Dubner",2005.0
+92,Children's literature,The Secret Garden,Frances Hodgson Burnett,1911.0
+93,Magical Realism; Novel,One Hundred Years of Solitude,"Gabriel García Márquez, Gregory Rabassa",1967.0
+94,Philosophical fiction; Decadent movement,The Picture of Dorian Gray,"Oscar Wilde, Jeffrey Eugenides",1891.0
+95,Erotic romance novel,"Fifty Shades Freed (Fifty Shades, #3)",E.L. James,2012.0
+96,Horror fiction; Gothic fiction,Dracula,"Bram Stoker, Nina Auerbach, David J. Skal",1897.0
+97,Crime Fiction;Mystery;Thriller,"The Girl Who Played with Fire (Millennium, #2)","Stieg Larsson, Reg Keeland",2006.0
+98,Erotic romance novel,"Fifty Shades Darker (Fifty Shades, #2)",E.L. James,2011.0
+99,Historical Fiction,The Poisonwood Bible,Barbara Kingsolver,1998.0
+100,Essay,Me Talk Pretty One Day,David Sedaris,2000.0
+101,Picture book; Children's literature; Fiction; Speculative fiction; Fantasy Fiction,Where the Wild Things Are,Maurice Sendak,1963.0
+102,Historical Fiction; Adventure fiction,The Count of Monte Cristo,"Alexandre Dumas, Robin Buss",1844.0
+103,Post-Apocalyptic fiction,The Road,Cormac McCarthy,2006.0
+104,Dystopia; Romance novel; Young adult fiction,"Allegiant (Divergent, #3)",Veronica Roth,2013.0
+105,Autobiography,Bossypants,Tina Fey,2011.0
+106,Romance novel,A Walk to Remember,Nicholas Sparks,1999.0
+107,Romantic;Comedy,"Confessions of a Shopaholic (Shopaholic, #1)",Sophie Kinsella,2000.0
+108,?Epic novel; historical fiction,Les Misérables,"Victor Hugo, Lee Fahnestock, Norman MacAfee",1862.0
+109,Fantasy,"A Clash of Kings  (A Song of Ice and Fire, #2)",George R.R. Martin,1998.0
+110,Novel; Fiction; Psychological Fiction; Domestic Fiction,The Memory Keeper's Daughter,Kim Edwards,2005.0
+111,Romance novel,"Me Before You (Me Before You, #1)",Jojo Moyes,2012.0
+112,Black comedy; Absurdist fiction; Satire; War story; Historical Fiction,Catch-22,Joseph Heller,1961.0
+113,Biographical Fiction; Philosophical fiction; Memoir,Tuesdays with Morrie,"Mitch Albom, Saulius Dagys",1997.0
+114,Family saga,Middlesex,Jeffrey Eugenides,2002.0
+115,Bildungsroman; Picaresque Fiction; Satire; Folklore; Children's literature,The Adventures of Tom Sawyer,"Mark Twain, Guy Cardwell, John Seelye",1876.0
+116,Young adult fiction; Science fantasy,"A Wrinkle in Time (A Wrinkle in Time Quintet, #1)",Madeleine L'Engle,1962.0
+117,Fiction,The Joy Luck Club,Amy Tan,1989.0
+118,"Utopian , dystopian fiction; Speculative fiction",The Handmaid's Tale,Margaret Atwood,1985.0
+119,Young adult fiction,"The Sisterhood of the Traveling Pants (Sisterhood, #1)",Ann Brashares,2001.0
+120,Novel,Lolita,"Vladimir Nabokov, Craig Raine",1955.0
+121,Fantasy Fiction,"Wicked: The Life and Times of the Wicked Witch of the West (The Wicked Years, #1)","Gregory Maguire, Douglas Smith",1995.0
+122,Legal thriller,"The Firm (Penguin Readers, Level 5)",John Grisham,1991.0
+123,Novel,Room,Emma Donoghue,2010.0
+124,Tragedy,Hamlet,"William Shakespeare, Richard Andrews, Rex Gibson",1600.0
+125,Science Fiction,Dune (Dune Chronicles #1),Frank Herbert,1965.0
+126,Non-fiction,The Tipping Point: How Little Things Can Make a Big Difference,Malcolm Gladwell,2000.0
+127,Biography,Steve Jobs,Walter Isaacson,2011.0
+128,Novel; Allegory; Drama; Fiction; Psychological Fiction; Medical fiction,One Flew Over the Cuckoo's Nest,Ken Kesey,1962.0
+129,Literary fiction,The Old Man and the Sea,Ernest Hemingway,1952.0
+130,Novel,The Grapes of Wrath,John Steinbeck,1939.0
+131,Inspirational Fiction; Philosophical fiction,The Five People You Meet in Heaven,Mitch Albom,2003.0
+132,Novel,"Anne of Green Gables (Anne of Green Gables, #1)",L.M. Montgomery,1908.0
+133,Fiction; Young adult fiction; Fantasy Fiction; Adventure fiction; Paranormal fiction,"City of Glass (The Mortal Instruments, #3)",Cassandra Clare,2009.0
+134,Fantasy,"A Storm of Swords (A Song of Ice and Fire, #3)",George R.R. Martin,2000.0
+135,Novel; Fiction; Domestic Fiction,Divine Secrets of the Ya-Ya Sisterhood,Rebecca Wells,1996.0
+136,Historical Fiction; Romance novel; Science fantasy,"Outlander (Outlander, #1)",Diana Gabaldon,1991.0
+137,Romanticism; Historical Fiction,The Scarlet Letter,"Nathaniel Hawthorne, Thomas E. Connolly, Nina Baym",1850.0
+138,Young adult fiction; Fantasy,"Miss Peregrine’s Home for Peculiar Children (Miss Peregrine’s Peculiar Children, #1)",Ransom Riggs,2011.0
+139,Crime Fiction;Thriller;Mystery,"The Girl Who Kicked the Hornet's Nest (Millennium, #3)","Stieg Larsson, Reg Keeland",2007.0
+140,Science Fiction,The Martian,Andy Weir,2012.0
+141,Historical Fiction,"The Pillars of the Earth (The Kingsbridge Series, #1)",Ken Follett,1989.0
+142,Historical Fiction,All the Light We Cannot See,Anthony Doerr,2014.0
+143,Non-fiction,"Unbroken: A World War II Story of Survival, Resilience, and Redemption",Laura Hillenbrand,2010.0
+144,Fiction; Science Fiction; Thriller; Suspense; Speculative fiction; Political fiction; Techno-thriller,Deception Point,Dan Brown,2001.0
+145,Bildungsroman; Thriller; Suspense; Literary fiction,The Goldfinch,Donna Tartt,2013.0
+146,Young adult fiction,Thirteen Reasons Why,Jay Asher,2007.0
+147,Historical Fiction,Girl with a Pearl Earring,Tracy Chevalier,1999.0
+148,Young adult fiction,"If I Stay (If I Stay, #1)",Gayle Forman,2009.0
+149,Young adult fiction,The Red Tent,Anita Diamant,1997.0
+150,Fantasy; Greek mythology; Young adult fiction,"The Sea of Monsters (Percy Jackson and the Olympians, #2)",Rick Riordan,2006.0
+151,Fiction,Dear John,Nicholas Sparks,2006.0
+152,Fiction; Young adult fiction; Speculative fiction; Fantasy Fiction; Adventure fiction,"City of Ashes (The Mortal Instruments, #2)",Cassandra Clare,2008.0
+153,Tragedy,Macbeth,William Shakespeare,1606.0
+154,Fantasy,"The Two Towers (The Lord of the Rings, #2)",J.R.R. Tolkien,1954.0
+155,Chick lit; Romance novel; Humorous Fiction,"Something Borrowed (Darcy & Rachel, #1)",Emily Giffin,2004.0
+156,Fairy tale; Fiction; Humour; Children's literature; Speculative fiction; Fantasy Fiction,Green Eggs and Ham,"Dr. Seuss, לאה נאור",1960.0
+157,Fairy tale; Fiction; Humour; Children's literature; Speculative fiction; Fantasy Fiction,"Charlie and the Chocolate Factory (Charlie Bucket, #1)","Roald Dahl, Quentin Blake",1964.0
+158,Fantasy; Greek mythology; Young adult fiction,"The Battle of the Labyrinth (Percy Jackson and the Olympians, #4)",Rick Riordan,2008.0
+159,Novel,Great Expectations,Charles Dickens,1860.0
+160,Fantasy,"The Return of the King (The Lord of the Rings, #3)",J.R.R. Tolkien,1955.0
+161,Philosophical fiction,The Stranger,"Albert Camus, Matthew    Ward",1942.0
+162,Fantasy;Greek Mythology,"The Lost Hero (The Heroes of Olympus, #1)",Rick Riordan,2010.0
+163,Romance novel,Eleanor & Park,Rainbow Rowell,2013.0
+164,Fantasy Fiction,"A Feast for Crows (A Song of Ice and Fire, #4)",George R.R. Martin,2005.0
+165,"Young adult fiction; Romance novel; Utopian , dystopian fiction; Science Fiction","Matched (Matched, #1)",Ally Condie,2010.0
+166,Fantasy,"American Gods (American Gods, #1)",Neil Gaiman,2001.0
+167,Post-Apocalyptic fiction,The Stand,"Stephen King, Bernie Wrightson",1978.0
+168,Romance novel; Tragedy,The Last Song,Nicholas Sparks,2008.0
+169,Mystery; Techno-thriller,Digital Fortress,Dan Brown,1998.0
+170,Literary realism,Emma,"Jane Austen, Fiona Stafford",1815.0
+171,Literary realism,Anna Karenina,"Leo Tolstoy, Louise Maude, Leo Tolstoj, Aylmer Maude",1877.0
+172,"Science Fiction; Utopian , dystopian fiction; Satire; Black comedy",A Clockwork Orange,Anthony Burgess,1962.0
+173,Fiction,The Shack,William Paul Young,2007.0
+174,Fantasy Fiction; Greek mythology; Young adult fiction,"The Last Olympian (Percy Jackson and the Olympians, #5)",Rick Riordan,2009.0
+175,Horror fiction; Thriller; Coming-of-Age Fiction,It,Stephen King,1986.0
+176,Philosophical fiction; Psychological Fiction,Crime and Punishment,"Fyodor Dostoyevsky, David McDuff",1866.0
+177,Romance,The Bell Jar,Sylvia Plath,1963.0
+178,emoir; Biography,"Angela's Ashes (Frank McCourt, #1)",Frank McCourt,1996.0
+179,Fiction,Siddhartha,"Hermann Hesse, Hilda Rosner",1922.0
+180,True crime; Crime Fiction; Non-fiction novel,In Cold Blood,Truman Capote,1965.0
+181,Young adult fiction; Fantasy Fiction; Romance novel,"Beautiful Creatures (Caster Chronicles, #1)","Kami Garcia, Margaret Stohl",2009.0
+182,Fiction; Steampunk; Science Fiction; Fantasy Fiction,"Clockwork Angel (The Infernal Devices, #1)",Cassandra Clare,2010.0
+183,Children's literature; Fantasy,Matilda,"Roald Dahl, Quentin Blake",1988.0
+184,Fantasy,The Night Circus,Erin Morgenstern,2011.0
+185,Novel,"The Other Boleyn Girl (The Plantagenet and Tudor Novels, #9)",Philippa Gregory,2001.0
+186,Young adult fiction; Fiction; Science Fiction; Speculative fiction; Children's literature; Fantasy Fiction; Dystopian Fiction,"Uglies (Uglies, #1)",Scott Westerfeld,2005.0
+187,Fantasy Fiction,"A Dance with Dragons (A Song of Ice and Fire, #5)",George R.R. Martin,2011.0
+188,Fantasy;Adventure,"The Lord of the Rings (The Lord of the Rings, #1-3)",J.R.R. Tolkien,1955.0
+189,Biography; Autobiography; Travel literature,Wild: From Lost to Found on the Pacific Crest Trail,Cheryl Strayed,2012.0
+190,Comics; Fiction; Speculative fiction; Graphic novel; Fantasy Fiction; Superhero fiction,Watchmen,"Alan Moore, Dave Gibbons, John Higgins",1987.0
+191,Heroic fantasy,"The Name of the Wind (The Kingkiller Chronicle, #1)",Patrick Rothfuss,2007.0
+192,Non-fiction,Outliers: The Story of Success,Malcolm Gladwell,2008.0
+193,Novel; Adventure fiction; Epic; Nautical fiction; Encyclopedic novel,"Moby-Dick or, The Whale","Herman Melville, Andrew Delbanco, Tom Quirk",1851.0
+194,Historical Fiction,The Guernsey Literary and Potato Peel Pie Society,"Mary Ann Shaffer, Annie Barrows",2008.0
+195,Satire,Fight Club,Chuck Palahniuk,1996.0
+196,Fantasy Fiction; Mystery; Gothic fiction; Romance novel,"Dead Until Dark (Sookie Stackhouse, #1)",Charlaine Harris,2001.0
+197,Fiction; Epistolary novel; Historical Fiction; Domestic Fiction,The Color Purple,Alice Walker,1982.0
+198,Autobiographical novel,Marley and Me: Life and Love With the World's Worst Dog,John Grogan,2005.0
+199,Mystery; Crime; Psychological thriller,And Then There Were None,Agatha Christie,1939.0
+200,Crime Fiction; Mystery; Thriller,"The Lost Symbol (Robert Langdon, #3)",Dan Brown,2009.0
+201,Young adult fiction; Fantasy Fiction; Romance nove,"Hush, Hush (Hush, Hush, #1)",Becca Fitzpatrick,2009.0
+202,Romance novel; Fiction,"Beautiful Disaster (Beautiful, #1)",Jamie McGuire,2011.0
+203,Fairy tale; Novella; Fiction; Speculative fiction; Ghost story; Morality play,A Christmas Carol,Charles Dickens,1843.0
+204,Gothic fiction; Horror fiction; Vampire literature,"Interview with the Vampire (The Vampire Chronicles, #1)",Anne Rice,1976.0
+205,Dystopia; Young adult fiction; Romance Film,"The Selection (The Selection, #1)",Kiera Cass,2012.0
+206,Crime Fiction,"One for the Money (Stephanie Plum, #1)",Janet Evanovich,1994.0
+207,Biography,The Immortal Life of Henrietta Lacks,Rebecca Skloot,2010.0
+208,Horror fiction; Thriller; Psychological horror,"The Silence of the Lambs  (Hannibal Lecter, #2)",Thomas Harris,1988.0
+209,Young adult fiction; Urban fantasy; Dark fantasy; Paranormal romance,"Vampire Academy (Vampire Academy, #1)",Richelle Mead,2007.0
+210,Non-fiction; Self-help book,Blink: The Power of Thinking Without Thinking,Malcolm Gladwell,2005.0
+211,Fiction; Mystery; Suspense; Bildungsroman; Psychological Fiction; Social novel; Domestic Fiction,Atonement,Ian McEwan,2001.0
+212,Fantasy Fiction; Greek mythology; Young adult fiction,The Metamorphosis,"Franz Kafka, Stanley Corngold",1915.0
+213,Fantasy Fiction; Greek mythology; Young adult fiction,"The Titan's Curse (Percy Jackson and the Olympians, #3)",Rick Riordan,2007.0
+214,"LitRPG; Science Fiction; Utopian , dystopian fiction",Ready Player One,Ernest Cline,2011.0
+215,Fiction,The Art of Racing in the Rain,Garth Stein,2006.0
+216,"The Devil in the White City: Murder; Magic; , Madness at the Fair that Changed America","The Devil in the White City: Murder, Magic, and Madness at the Fair That Changed America","Erik Larson, Tony Goldwyn",2003.0
+217,Erotic literature; Romance novel,"Bared to You (Crossfire, #1)",Sylvia Day,2012.0
+218,Christian literature,"The Chronicles of Narnia (Chronicles of Narnia, #1-7)","C.S. Lewis, Pauline Baynes",1956.0
+219,Fiction,Twilight: The Complete Illustrated Movie Companion,Mark Cotta Vaz,
+220,Biography; Autobiography; Children's literature,"A Child Called ""It"" (Dave Pelzer #1)",Dave Pelzer,1995.0
+221,Thriller; Spy fiction,"The Bourne Identity (Jason Bourne, #1)",Robert Ludlum,1980.0
+222,Fantasy; Young adult fiction,"Artemis Fowl (Artemis Fowl, #1)",Eoin Colfer,2001.0
+223,Young adult fiction; Fantasy Fiction; Romance novel; Paranormal fiction,"Fallen (Fallen, #1)",Lauren Kate,2009.0
+224,Novel; Fiction; Romance novel,East of Eden,John Steinbeck,1952.0
+225,Mystery,Dark Places,Gillian Flynn,2009.0
+226,Fiction; Legal Story,The Client,John Grisham,1993.0
+227,Humour; Novel; Fiction; Chick lit; Humorous Fiction,"The Nanny Diaries (Nanny, #1)","Emma McLaughlin, Nicola Kraus",2002.0
+228,Children's literature; Fiction,Alice's Adventures in Wonderland & Through the Looking-Glass,"Lewis Carroll, John Tenniel, Martin Gardner",1865.0
+229,Novel,Persuasion,"Jane Austen, James Kinsley, Deidre Shauna Lynch",1817.0
+230,The Holocaust,Sarah's Key,Tatiana de Rosnay,2007.0
+231,Fantasy Fiction; Western fiction,"The Gunslinger (The Dark Tower, #1)",Stephen King,1982.0
+232,Novel; Romance novel; Fiction; Magical Realism,Love in the Time of Cholera,"Gabriel García Márquez, Edith Grossman",1985.0
+233,Fiction,Speak,Laurie Halse Anderson,1999.0
+234,Thriller,The Husband's Secret,Liane Moriarty,2013.0
+235,Non-fiction,Into Thin Air: A Personal Account of the Mount Everest Disaster,Jon Krakauer,1997.0
+236,Horror fiction,Carrie,Stephen King,1974.0
+237,Memoir,Running with Scissors,Augusten Burroughs,2002.0
+238,Horror fiction; Post-Apocalyptic fiction,World War Z: An Oral History of the Zombie War,Max Brooks,2006.0
+239,Mystery; Conspiracy fiction; Thriller,"Inferno (Robert Langdon, #4)",Dan Brown,2013.0
+240,Historical Fiction,Number the Stars,Lois Lowry,1989.0
+241,Crime Fiction; Mystery; Thriller,"Along Came a Spider (Alex Cross, #1)",James Patterson,1993.0
+242,Psychological horror,Misery,Stephen King,1987.0
+243,Fiction; Thriller; Mystery; Suspense; Domestic Fiction,Sharp Objects,Gillian Flynn,2006.0
+244,Children's literature,Bridge to Terabithia,Katherine Paterson,1977.0
+245,Young adult fiction; Paranormal romance,"Marked (House of Night, #1)","P.C. Cast, Kristin Cast",2007.0
+246,Self-help book; Non-fiction,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,Stephen R. Covey,1989.0
+247,Fantasy Fiction; Comedy,A Midsummer Night's Dream,"William Shakespeare, Barbara A. Mowat, Paul Werstine, Catherine Belsey",1595.0
+248,Novel,Extremely Loud and Incredibly Close,Jonathan Safran Foer,2005.0
+249,Children's literature,Wonder,R.J. Palacio,2012.0
+250,Children's literature,The Cat in the Hat,Dr. Seuss,1957.0
+251,"Young adult fiction; Romance novel; Science Fiction; Utopian , dystopian fiction","Cinder (The Lunar Chronicles, #1)",Marissa Meyer,2012.0
+252,Crime Fiction,"The Cuckoo's Calling (Cormoran Strike, #1)","Robert Galbraith, J.K. Rowling",2013.0
+253,Fantasy Fiction; Young adult fiction,"Shiver (The Wolves of Mercy Falls, #1)",Maggie Stiefvater,2009.0
+254,Philosophical fiction; Science Fiction; Mystery; Romance novel,Atlas Shrugged,"Ayn Rand, Leonard Peikoff",1957.0
+255,Memoir,Three Cups of Tea: One Man's Mission to Promote Peace ... One School at a Time,"Greg Mortenson, David Oliver Relin",2006.0
+256,Fiction,Alice in Wonderland,"Jane Carruth, Lewis Carroll, Rene Cloke",1865.0
+257,Mystery,"The Shadow of the Wind (The Cemetery of Forgotten Books,  #1)","Carlos Ruiz Zafón, Lucia Graves",2001.0
+258,Young adult fiction; Science Fiction; Post-Apocalyptic fiction,"The Scorch Trials (Maze Runner, #2)",James Dashner,2010.0
+259,Self-help book; Non-fiction,How to Win Friends and Influence People,Dale Carnegie,1936.0
+260,Biography; Fiction; Travel literature,Under the Tuscan Sun,Frances Mayes,1996.0
+261,Fiction; Mystery; Psychological Fiction; Domestic Fiction,Big Little Lies,Liane Moriarty,2014.0
+262,Fantasy,Ella Enchanted,Gail Carson Levine,1997.0
+263,Novel; Fiction; Children's literature; Romance,The Sun Also Rises,Ernest Hemingway,1926.0
+264,Novel; Fiction; Bildungsroman; Domestic Fiction,A Tree Grows in Brooklyn,Betty  Smith,1943.0
+265,Crime Fiction; Mystery; Thriller,"Kiss the Girls (Alex Cross, #2)",James Patterson,1995.0
+266,Historical Fiction,The Nightingale,Kristin Hannah,2015.0
+267,Speculative fiction; Dystopia; Science Fiction,Never Let Me Go,Kazuo Ishiguro,2005.0
+268,Romance Film,P.S. I Love You,Cecelia Ahern,2003.0
+269,Crime Fiction; Gothic fiction; Mystery; Romance novel,Rebecca,"Daphne du Maurier, Sally Beauman",1938.0
+270,Science Fiction,Flowers for Algernon,Daniel Keyes,1966.0
+271,Romance; Magical Realism; Tragedy,Like Water for Chocolate,"Laura Esquivel, Thomas  Christensen, Carol Christensen",1989.0
+272,Novel,Snow Flower and the Secret Fan,Lisa See,2005.0
+273,Crime Fiction,The Godfather,"Mario Puzo, Robert Thompson, Peter Bart",1969.0
+274,Young adult fiction,An Abundance of Katherines,John Green,2006.0
+275,Science Fiction,Foundation (Foundation #1),Isaac Asimov,1951.0
+276,Dark fantasy; Surrealism; Horror fiction,The Ocean at the End of the Lane,Neil Gaiman,2013.0
+277,Children's poetry,A Light in the Attic,Shel Silverstein,1981.0
+278,Fantasy;Adventure fiction,"Harry Potter and the Cursed Child - Parts One and Two (Harry Potter, #8)","John Tiffany, Jack Thorne, J.K. Rowling",2016.0
+279,"Young adult fiction; Science Fiction; Romance novel; Utopian , dystopian fiction","Delirium (Delirium, #1)",Lauren Oliver,2011.0
+280,Novel; Fiction; Mystery; Children's literature; Legal thriller; Legal Story,The Pelican Brief,John Grisham,1992.0
+281,Dark fantasy,Coraline,Neil Gaiman,2002.0
+282,Horror fiction; Fantasy; Humorous Fiction,"Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch","Terry Pratchett, Neil Gaiman",1990.0
+283,Beat Generation,On the Road,Jack Kerouac,1955.0
+284,Romance novel,"The Rosie Project (Don Tillman, #1)",Graeme Simsion,2013.0
+285,Romance;Drama;War,The Lucky One,Nicholas Sparks,2008.0
+286,Philosophical fiction,The Fountainhead,"Ayn Rand, Leonard Peikoff",1943.0
+287,Techno-thriller; Spy fiction,"The Hunt for Red October (Jack Ryan Universe, #4)",Tom Clancy,1984.0
+288,Fantasy,"Watership Down (Watership Down, #1)",Richard Adams,1972.0
+289,Humour; Biography,Is Everyone Hanging Out Without Me? (And Other Concerns),Mindy Kaling,2011.0
+290,Fiction; Domestic Fiction,Cutting for Stone,Abraham Verghese,2009.0
+291,Christian literature,"The Voyage of the Dawn Treader (Chronicles of Narnia, #3)","C.S. Lewis, Pauline Baynes",1951.0
+292,Adventure fiction; Young adult fiction,Treasure Island,Robert Louis Stevenson,1882.0
+293,Fantasy; Young adult fiction,"The Son of Neptune (The Heroes of Olympus, #2)",Rick Riordan,2011.0
+294,Science Fiction; Alternate history,11/22/1963,Stephen King,2011.0
+295,Children's literature,The Very Hungry Caterpillar Board Book,Eric Carle,1969.0
+296,Satire; Humour; Fiction; Science Fiction; Speculative fiction,Cat's Cradle,Kurt Vonnegut Jr.,1963.0
+297,Science Fiction,The Time Machine,"H.G. Wells, Greg Bear, Carlo Pagetti",1895.0
+298,Christian literature,Heaven is for Real: A Little Boy's Astounding Story of His Trip to Heaven and Back,"Todd Burpo, Lynn Vincent",2010.0
+299,Fiction; Fable; Historical Fiction; Children's literature; Tragicomedy; Postmodern literature,The Boy in the Striped Pajamas,John Boyne,2006.0
+300,Novella,Heart of Darkness,Joseph Conrad,1899.0
+301,Literary realism; Romance novel,Safe Haven,Nicholas Sparks,2010.0
+302,Self-help; Spirituality,"The Secret (The Secret, #1)",Rhonda Byrne,2006.0
+303,Novel,I Know This Much Is True,Wally Lamb,1998.0
+304,Horror fiction,Pet Sematary,Stephen King,1983.0
+305,Drama,She's Come Undone,Wally Lamb,1992.0
+306,Heroic fantasy,"The Wise Man's Fear (The Kingkiller Chronicle, #2)",Patrick Rothfuss,2011.0
+307,Comedy; Chick lit,Can You Keep a Secret?,Sophie Kinsella,2003.0
+308,Fantasy; Adventure,"City of Fallen Angels (The Mortal Instruments, #4)",Cassandra Clare,2011.0
+309,Fiction,"Good in Bed (Cannie Shapiro, #1)",Jennifer Weiner,2001.0
+310,Family saga,The Thorn Birds,Colleen McCullough,1977.0
+311,Horror fiction; Children's literature; Fantasy,The Graveyard Book,"Neil Gaiman, Dave McKean",2008.0
+312,War story,The Light Between Oceans,M.L. Stedman,2012.0
+313,Fantasy Fiction; Bildungsroman; Mystery,"Inkheart (Inkworld, #1)","Cornelia Funke, Anthea Bell",2003.0
+314,Fiction; Self-help book,Who Moved My Cheese?,"Spencer Johnson, Kenneth H. Blanchard",1998.0
+315,Non-fiction; Travel literature,A Walk in the Woods,Bill Bryson,1997.0
+316,Autobiography; Biography,I Know Why the Caged Bird Sings,Maya Angelou,1969.0
+317,Historical Fiction; Literary fiction,Orphan Train,Christina Baker Kline,2013.0
+318, Fantasy; Adventure,"City of Lost Souls (The Mortal Instruments, #5)",Cassandra Clare,2012.0
+319,Fiction; Humorous Fiction; Domestic Fiction,"Where'd You Go, Bernadette",Maria Semple,2012.0
+320,Children's literature,Where the Red Fern Grows,Wilson Rawls,1961.0
+321,Children's literature,Neverwhere,Neil Gaiman,1996.0
+322,Philosophical fiction,The Unbearable Lightness of Being,"Milan Kundera, Michael Henry Heim",1984.0
+323,Novel; Fiction; Young adult fiction,Fangirl,Rainbow Rowell,2013.0
+324,Bildungsroman,A Prayer for Owen Meany,John Irving,1989.0
+325,Novel; Fiction; Bildungsroman,White Oleander,Janet Fitch,1999.0
+326,"Utopian , dystopian fiction; Young adult fiction; Science Fiction","Legend (Legend, #1)",Marie Lu,2011.0
+327,Thriller,Nineteen Minutes,Jodi Picoult,2007.0
+328,Non-fiction,The Last Lecture,"Randy Pausch, Jeffrey Zaslow",2008.0
+329,High Fantasy,"The Eye of the World (Wheel of Time, #1)",Robert Jordan,1990.0
+330,Novel,The Pact,Jodi Picoult,1998.0
+331,Christian literature,"The Magician's Nephew (Chronicles of Narnia, #6)",C.S. Lewis,1953.0
+332,Fiction,Still Alice,Lisa Genova,2007.0
+333,Erotic literature; Fiction; Romance novel; Contemporary romance,"Reflected in You (Crossfire, #2)",Sylvia Day,2012.0
+334,Children's literature; Fantasy,James and the Giant Peach,"Roald Dahl, Quentin Blake",1961.0
+335,Crime Fiction,"1st to Die (Women's Murder Club, #1)",James Patterson,2001.0
+336,Humour; Fiction; Science Fiction; Speculative fiction; Humorous Fiction,The Ultimate Hitchhiker's Guide to the Galaxy,Douglas Adams,1996.0
+337,Fiction; Romance novel,One Day,David Nicholls,2009.0
+338,Children's literature,Goodnight Moon,"Margaret Wise Brown, Clement Hurd",1947.0
+339,Young adult fiction; Science Fiction,"I Am Number Four (Lorien Legacies, #1)",Pittacus Lore,2010.0
+340,Epic poetry; Poetry; Epic,The Iliad,"Homer, Robert Fagles, Frédéric Mugler, Bernard Knox",-750.0
+341,Fiction; Tragicomedy,The Casual Vacancy,J.K. Rowling,2012.0
+342,Novel; Fiction; Mystery; Suspense; Legal thriller; Legal Story,The Runaway Jury,John Grisham,1996.0
+343,Essay,Naked,David Sedaris,1997.0
+344,Young Adult Fiction;Fantasy;Bildungsroman,"Eldest (The Inheritance Cycle, #2)",Christopher Paolini,2005.0
+345,Fantasy;Childern's novel,"The Wonderful Wizard of Oz (Oz, #1)","L. Frank Baum, W.W. Denslow",1900.0
+346,Christian literature,"Prince Caspian (Chronicles of Narnia, #2)",C.S. Lewis,1951.0
+347,Young adult fiction,We Were Liars,E. Lockhart,2014.0
+348,Horror fiction,'Salem's Lot,Stephen King,1975.0
+349,Gonzo journalism,Fear and Loathing in Las Vegas,"Hunter S. Thompson, Ralph Steadman",1971.0
+350,Fantasy;Adventure,"Clockwork Prince (The Infernal Devices, #2)",Cassandra Clare,2011.0
+351,Autobiography,Yes Please,Amy Poehler,2014.0
+352,Tragedy,Othello,William Shakespeare,1603.0
+353,Magical Realism,Beloved,Toni Morrison,1987.0
+354,Fantasy; Romance novel,"Graceling (Graceling Realm, #1)",Kristin Cashore,2008.0
+355,Gothic fiction; Absurdist fiction; Steampunk; Mystery,"The Bad Beginning (A Series of Unfortunate Events, #1)","Lemony Snicket, Brett Helquist",1999.0
+356,War story,All Quiet on the Western Front,"Erich Maria Remarque, A.W. Wheen",1929.0
+357,Children's literature,"Oh, The Places You'll Go!",Dr. Seuss,1990.0
+358,Historical Fiction,And the Mountains Echoed,Khaled Hosseini,2012.0
+359,Science Fiction; Philosophical fiction,Do Androids Dream of Electric Sheep?,"Philip K. Dick, Roger Zelazny",1968.0
+360,Novel,Oliver Twist,"Charles Dickens, George Cruikshank, Philip Horne",1838.0
+361,Epistolary novel; Christian apologetics; Satire,The Screwtape Letters,C.S. Lewis,1942.0
+362,Young adult fiction,"Anna and the French Kiss (Anna and the French Kiss, #1)",Stephanie Perkins,2010.0
+363,Children's literature,How the Grinch Stole Christmas!,Dr. Seuss,1957.0
+364,Comics; Humour; Fiction; Science Fiction; Speculative fiction; Graphic novel; Dystopian Fiction,V for Vendetta,"Alan Moore, David   Lloyd",1990.0
+365,Non-fiction,John Adams,David McCullough,2001.0
+366,Thriller; Mystery,"Odd Thomas (Odd Thomas, #1)",Dean Koontz,2003.0
+367,Fantasy Fiction,"The Subtle Knife (His Dark Materials, #2)",Philip Pullman,1997.0
+368,Young adult fiction,"Stargirl (Stargirl, #1)",Jerry Spinelli,2000.0
+369,Fantasy Fiction; Egyptian mythology; Young adult fiction,"The Red Pyramid (Kane Chronicles, #1)",Rick Riordan,2010.0
+370,Science Fiction,Stranger in a Strange Land,Robert A. Heinlein,1961.0
+371,Essay,Dress Your Family in Corduroy and Denim,David Sedaris,2004.0
+372,Children's literature; Fantasy,The BFG,"Roald Dahl, Quentin Blake",1982.0
+373,Non-fiction,A Short History of Nearly Everything,Bill Bryson,2003.0
+374,Adventure fiction,The Call of the Wild,Jack London,1903.0
+375,"Young adult fiction; Utopian , dystopian fiction; Science Fiction","The Death Cure (Maze Runner, #3)",James Dashner,2011.0
+376,Fantasy,Stardust,Neil Gaiman,1999.0
+377,Fiction,The Namesake,Jhumpa Lahiri,2003.0
+378,Contemporary fantasy;romance;vampire;witchcraft,"A Discovery of Witches (All Souls Trilogy, #1)",Deborah Harkness,2011.0
+379,Bildungsroman,Norwegian Wood,"Haruki Murakami, Jay Rubin",1987.0
+380,Novel; Fiction; Romance novel; Bildungsroman,Where the Heart Is,Billie Letts,1995.0
+381,Novel; Fiction; Young adult fiction; Social novel,"Will Grayson, Will Grayson","John Green, David Levithan",2010.0
+382,Misery lit,A Million Little Pieces,James Frey,2003.0
+383,Young adult fiction; Urban fantasy; Dark fantasy; Paranormal romance,"Frostbite (Vampire Academy, #2)",Richelle Mead,2008.0
+384,Non-fiction; Self-help book,Quiet: The Power of Introverts in a World That Can't Stop Talking,Susan Cain,2012.0
+385,Young adult fiction,"Island of the Blue Dolphins (Island of the Blue Dolphins, #1)",Scott O'Dell,1960.0
+386,Tragedy,The Crucible,"Arthur Miller, Christopher Bigsby",1953.0
+387,Young adult fiction,"Hatchet (Brian's Saga, #1)",Gary Paulsen,1986.0
+388,Fantasy Fiction,"The Final Empire (Mistborn, #1)",Brandon Sanderson,2006.0
+389,Psychological thriller; Drama; Horror fiction; Mystery; Gothic fiction; Science Fiction,The Strange Case of Dr. Jekyll and Mr. Hyde,"Robert Louis Stevenson, Vladimir Nabokov, Mervyn Peake, Dan Chaon",1886.0
+390,Children's literature,The Lorax,Dr. Seuss,1971.0
+391,Comedy;Young adult fiction,"Diary of a Wimpy Kid (Diary of a Wimpy Kid, #1)",Jeff Kinney,2004.0
+392,Fantasy,"Throne of Glass (Throne of Glass, #1)",Sarah J. Maas,2012.0
+393,Young adult fiction; Urban fantasy; Dark fantasy; Paranormal romance,"Shadow Kiss (Vampire Academy, #3)",Richelle Mead,2008.0
+394,War story,For Whom the Bell Tolls,Ernest Hemingway,1940.0
+395,Historical Fiction,Hotel on the Corner of Bitter and Sweet,Jamie Ford,2009.0
+396,Horror fiction; Mystery; Magical Realism; Absurdism,Perfume: The Story of a Murderer,"Patrick Süskind, John E. Woods",1985.0
+397,Non-fiction,Fast Food Nation: The Dark Side of the All-American Meal,Eric Schlosser,2001.0
+398,Fiction; Anthology; Speculative fiction; Children's literature; Fantasy Fiction,The Tales of Beedle the Bard,J.K. Rowling,2007.0
+399,Science Fiction,Neuromancer,William Gibson,1984.0
+400,Literary realism,A Farewell to Arms,Ernest Hemingway,1929.0
+401,Fiction; Horror fiction; Graphic novel,The Tell-Tale Heart and Other Writings,Edgar Allan Poe,1843.0
+402,Treatise; Fiction; Self-help book; Inspirational Fiction,The Art of War,"Sun Tzu, Thomas Cleary",-500.0
+403,Fiction; Mystery; Suspense; Crime Fiction; Psychological Fiction; Legal Story,Defending Jacob,William Landay,2012.0
+404,Novel,Breakfast of Champions,Kurt Vonnegut Jr.,1973.0
+405,Novel,The New Drawing on the Right Side of the Brain,Betty Edwards,1979.0
+406,Thriller,Bel Canto,Ann Patchett,2001.0
+407,Novel,"Guns, Germs, and Steel: The Fates of Human Societies",Jared Diamond,1997.0
+408,Fiction,Fried Green Tomatoes at the Whistle Stop Cafe,Fannie Flagg,1987.0
+409,Novel; Poetry; Fiction; Children's literature; Historical Fiction,"Things Fall Apart (The African Trilogy, #1)",Chinua Achebe,1958.0
+410,Comedy; Chick lit,The Undomestic Goddess,Sophie Kinsella,2005.0
+411,Christian literature,The Five Love Languages: How to Express Heartfelt Commitment to Your Mate,Gary Chapman,1990.0
+412,Historical romance; Animation,The Three Musketeers,Alexandre Dumas,1844.0
+413,Literary fiction,Little Bee,Chris Cleave,2008.0
+414,Fantasy Fiction,"Evermore (The Immortals, #1)",Alyson Noel,2009.0
+415,Fiction; Speculative fiction; Children's literature,The Witches,"Roald Dahl, Quentin Blake",1983.0
+416,Gothic fiction; Suspense,The Thirteenth Tale,Diane Setterfield,2006.0
+417,Young adult fiction; Urban fantasy; Dark fantasy; Paranormal romance,"Spirit Bound (Vampire Academy, #5)",Richelle Mead,2010.0
+418,Young adult fiction; Urban fantasy; Dark fantasy; Paranormal romance,"Blood Promise (Vampire Academy, #4)",Richelle Mead,2009.0
+419,Romance novel,Message in a Bottle,Nicholas Sparks,1998.0
+420,Fiction,The Paris Wife,Paula McLain,2011.0
+421,Fiction,"Harry Potter Boxset (Harry Potter, #1-7)",J.K. Rowling,1998.0
+422,Young adult fiction,"The Elite (The Selection, #2)",Kiera Cass,2013.0
+423,Historical Fiction; Mystery,The Name of the Rose,"Umberto Eco, William Weaver, Seán Barrett",1980.0
+424,Young adult fiction,Go Ask Alice,"Beatrice Sparks, Anonymous",1971.0
+425,Comedy; Tragicomedy,A Confederacy of Dunces,"John Kennedy Toole, Walker Percy",1980.0
+426,Farce,The Importance of Being Earnest,Oscar Wilde,1895.0
+427,Fantasy; Young adult fiction,"The Mark of Athena (The Heroes of Olympus, #3)",Rick Riordan,2012.0
+428,Fantasy,"The Color of Magic (Discworld, #1; Rincewind #1)",Terry Pratchett,1983.0
+429,Magical Realism; Fantasy,Kafka on the Shore,"Haruki Murakami, Philip Gabriel",2002.0
+430,Crime Fiction; Horror fiction; Thriller; Psychological horror,"Red Dragon (Hannibal Lecter, #1)",Thomas Harris,1981.0
+431,Science Fiction,"I, Robot (Robot #0.1)",Isaac Asimov,1950.0
+432,Romance novel; Fiction; Speculative fiction; Fantasy Fiction,"Dark Lover (Black Dagger Brotherhood, #1)",J.R. Ward,2005.0
+433,Young adult fiction; Fantasy Fiction; Romance novel,"Crescendo (Hush, Hush, #2)",Becca Fitzpatrick,2010.0
+434,Young adult fiction,Before I Fall,Lauren Oliver,2010.0
+435,Novel; Fiction; Psychological Fiction; Domestic Fiction,The God of Small Things,Arundhati Roy,1997.0
+436,Fiction; Historical Fiction; Biographical Fiction,The Invention of Wings,Sue Monk Kidd,2014.0
+437,Fiction; Domestic Fiction,What Alice Forgot,Liane Moriarty,2009.0
+438,Popular science,A Brief History of Time,"Stephen Hawking, Cao Chi, Phạm Văn Thiều",1987.0
+439,Historical Fiction,"Fall of Giants (The Century Trilogy, #1)",Ken Follett,2010.0
+440,Science Fiction; Political fiction,Under the Dome,Stephen King,2009.0
+441,Science Fiction; Cyberpunk; Cyberpunk derivatives,Snow Crash,Neal Stephenson,1992.0
+442,Fiction; Young adult fiction; Children's literature,Just Listen,Sarah Dessen,2006.0
+443,Short story collection; Children's literature,"Winnie-the-Pooh (Winnie-the-Pooh, #1)","A.A. Milne, Ernest H. Shepard",1926.0
+444,Thriller; Suspense,Before I Go to Sleep,S.J. Watson,2011.0
+445,Detective,A Study in Scarlet,Arthur Conan Doyle,1887.0
+446,Young adult fiction; High fantasy,"Brisingr (The Inheritance Cycle, #3)",Christopher Paolini,2008.0
+447,Non-fiction; Christian literature,The Purpose Driven Life: What on Earth Am I Here for?,Rick Warren,2002.0
+448,Young Adult,"Betrayed (House of Night, #2)","P.C. Cast, Kristin Cast",2007.0
+449,Urban fantasy; Mystery,"Storm Front (The Dresden Files, #1)",Jim Butcher,2000.0
+450,Gothic fiction; Romance novel; Satire,Northanger Abbey,"Jane Austen, Alfred MacAdam",1817.0
+451,Young adult fiction; Science Fiction,"The 5th Wave (The 5th Wave, #1)",Rick Yancey,2013.0
+452,Fiction; Romance novel; Historical Fiction,Cold Mountain,Charles Frazier,1997.0
+453,Children's literature,If You Give a Mouse a Cookie,"Laura Joffe Numeroff, Felicia Bond",1985.0
+454,Fiction; Romance novel; Psychological Fiction,"Something Blue (Darcy & Rachel, #2)",Emily Giffin,2005.0
+455,Southern Gothic,A Streetcar Named Desire,Tennessee Williams,1947.0
+456,Fiction; Horror fiction; Suspense; Speculative fiction,The Historian,Elizabeth Kostova,2005.0
+457,Science Fiction; Post-Apocalyptic fiction,Station Eleven,Emily St. John Mandel,2014.0
+458,Novel,A Man Called Ove,"Fredrik Backman, Henning Koch",2012.0
+459,Fantasy Fiction; Adventure,"Clockwork Princess (The Infernal Devices, #3)",Cassandra Clare,2013.0
+460,Historical Fiction,"The Good Earth (House of Earth, #1)",Pearl S. Buck,1931.0
+461,Fiction,Ways of Seeing,John Berger,1972.0
+462,Historical Novel,"Dragonfly in Amber (Outlander, #2)",Diana Gabaldon,1992.0
+463,Religious text,Holy Bible: King James Version,Anonymous,1611.0
+464,Fiction,In Her Shoes,Jennifer Weiner,2002.0
+465,High Fantasy,The Hobbit: Graphic Novel,"Chuck Dixon, J.R.R. Tolkien, David Wenzel, Sean Deming",1989.0
+466,Novel; Fiction; Domestic Fiction,The Brief Wondrous Life of Oscar Wao,Junot Díaz,2007.0
+467,Novel; Fiction; Psychological Fiction; Literary fiction,Their Eyes Were Watching God,Zora Neale Hurston,1937.0
+468,Fantasy,Fantastic Beasts and Where to Find Them,"Newt Scamander, J.K. Rowling, Albus Dumbledore",2001.0
+469,Autobiography; Biography,I Am Malala: The Story of the Girl Who Stood Up for Education and Was Shot by the Taliban,"Malala Yousafzai, Christina Lamb",2012.0
+470,Bildungsroman,Mansfield Park,"Jane Austen, Kathryn Sutherland, Tony Tanner, Claire Lamont",1814.0
+471,Psychology,Man's Search for Meaning,Viktor E. Frankl,1946.0
+472,Mystery,"In the Woods (Dublin Murder Squad, #1)",Tana French,2007.0
+473,Non-fiction,The God Delusion,Richard Dawkins,2006.0
+474,Fiction,"Where She Went (If I Stay, #2)",Gayle Forman,2011.0
+475,Humour; Fiction; Literary fiction,The World According to Garp,John Irving,1978.0
+476,First-person shooter,"Killing Floor (Jack Reacher, #1)",Lee Child,1997.0
+477,Fiction; Adventure fiction,Robinson Crusoe,"Daniel Defoe, Gerald McCann, Virginia Woolf",1719.0
+478,Non-fiction,The Prince,"Niccolò Machiavelli, Adolph Caso, Rufus Goodwin, Benjamin Martinez",1513.0
+479,Fantasy,"The Amber Spyglass (His Dark Materials, #3)",Philip Pullman,2000.0
+480,High fantasy,"Wizard's First Rule (Sword of Truth, #1)",Terry Goodkind,1994.0
+481,Fiction; Historical Fiction,The Kitchen House,Kathleen Grissom,2010.0
+482,Novella,Franny and Zooey,J.D. Salinger,1961.0
+483,Satire; Black comedy,Choke,Chuck Palahniuk,2001.0
+484,Philosophical fiction,The Brothers Karamazov,"Fyodor Dostoyevsky, Richard Pevear, Larissa Volokhonsky",1880.0
+485,Post-Apocalyptic fiction; Science Fiction; Children's literature,"The City of Ember (Book of Ember, #1)",Jeanne DuPrau,2003.0
+486,Techno-thriller,The Andromeda Strain,Michael Crichton,1969.0
+487,Dark fantasy; Southern Gothic; Magical Realism,The Green Mile,Stephen King,1996.0
+488,Prose poetry,The Prophet,Kahlil Gibran,1923.0
+489,Comics; Graphic novel; Biography; Autobiography,"Maus I: A Survivor's Tale: My Father Bleeds History (Maus, #1)",Art Spiegelman,1985.0
+490,Young adult,"Untamed (House of Night, #4)","P.C. Cast, Kristin Cast",2008.0
+491,Science Fiction,"Speaker for the Dead (Ender's Saga, #2)",Orson Scott Card,1986.0
+492,Christian literature; Inspirational Fiction,Mere Christianity,C.S. Lewis,1952.0
+493,Novel; Fiction; Psychological Fiction,The Secret History,Donna Tartt,1992.0
+494,Memoir,A Heartbreaking Work of Staggering Genius,Dave Eggers,2000.0
+495,Historical Novel,"The Clan of the Cave Bear (Earth's Children, #1)",Jean M. Auel,1980.0
+496,Children's literature,Black Beauty,Anna Sewell,1877.0
+497,Novel,War and Peace,"Leo Tolstoy, Henry Gifford, Aylmer Maude, Louise Maude",1869.0
+498,Transgressive fiction; Postmodern literature; Satire; Horror fiction,American Psycho,Bret Easton Ellis,1991.0
+499,Young adult fiction,"The Princess Diaries (The Princess Diaries, #1)",Meg Cabot,2000.0
+500,Crime Fiction,"The No. 1 Ladies' Detective Agency  (No. 1 Ladies' Detective Agency, #1)",Alexander McCall Smith,1998.0
+501,Comics; Horror fiction,"The Walking Dead, Vol. 01: Days Gone Bye","Robert Kirkman, Tony Moore",2004.0
+502,Science Fiction,"2001: A Space Odyssey (Space Odyssey, #1)",Arthur C. Clarke,1968.0
+503,Fiction; Romance novel; Western; Historical Fiction; Christian Fiction,Redeeming Love,Francine Rivers,1991.0
+504,Christian Fiction,"Left Behind (Left Behind, #1)","Tim LaHaye, Jerry B. Jenkins",1995.0
+505,Fiction,"The One (The Selection, #3)",Kiera Cass,2014.0
+506,Fiction; Science Fiction,"The Hunger Games Trilogy Boxset (The Hunger Games, #1-3)",Suzanne Collins,2010.0
+507,Biography; Autobiography; Creative nonfiction,Nickel and Dimed: On (Not) Getting By in America,Barbara Ehrenreich,2001.0
+508,Comedy; Chick lit,Remember Me?,Sophie Kinsella,2008.0
+509,Fantasy,"The Great Hunt (Wheel of Time, #2)",Robert Jordan,1990.0
+510,Crime Fiction,"Postmortem (Kay Scarpetta, #1)",Patricia Cornwell,1990.0
+511,Poetry; Fiction,The Complete Stories and Poems,Edgar Allan Poe,1849.0
+512,Autobiography; Biography,The Hiding Place: The Triumphant True Story of Corrie Ten Boom,"Corrie ten Boom, John Sherrill, Elizabeth Sherrill",1971.0
+513,Short story; Fiction; Crime Fiction; Mystery; Detective fiction; Noir fiction,The Adventures of Sherlock Holmes,Arthur Conan Doyle,1892.0
+514,Drama;Romance,The Prince of Tides,Pat Conroy,1986.0
+515,Historical Fiction,The Amazing Adventures of Kavalier & Clay,Michael Chabon,2000.0
+516,Fiction,"Perfect Chemistry (Perfect Chemistry, #1)",Simone Elkeles,2008.0
+517,Fantasy,Peter Pan,"J.M. Barrie, Michael Hague",1904.0
+518,Young adult novel,"Pretties (Uglies, #2)",Scott Westerfeld,2005.0
+519,Novel; Fiction; Science Fiction; Speculative fiction; Psychological Fiction; Fantastique,The Wind-Up Bird Chronicle,"Haruki Murakami, Jay Rubin",1994.0
+520,Crime Fiction;Mystery,"The Lincoln Lawyer (Mickey Haller, #1; Harry Bosch Universe, #16)",Michael Connelly,2005.0
+521,Science Fiction; Drama; Fantasy,Cloud Atlas,David Mitchell,2004.0
+522,Historical Fiction,The Things They Carried,Tim O'Brien,1990.0
+523,Biography; Exhibition catalogue,Wall and Piece,Banksy,1988.0
+524,"Young adult fiction; Science Fiction; Romance novel; Utopian , dystopian fiction","Pandemonium (Delirium, #2)",Lauren Oliver,2012.0
+525,Crime Fiction,"Darkly Dreaming Dexter (Dexter, #1)",Jeff Lindsay,2004.0
+526,Fantasy Fiction; Mystery; Gothic fiction; Romance novel,"Living Dead in Dallas (Sookie Stackhouse, #2)",Charlaine Harris,2002.0
+527,Fantasy Fiction,"The Dragon Reborn (Wheel of Time, #3)",Robert Jordan,1991.0
+528,Satire; Fantasy,Gulliver's Travels,"Jonathan Swift, Robert DeMaria Jr.",1726.0
+529,Comedy,Much Ado About Nothing,"William Shakespeare, Barbara A. Mowat, Paul Werstine, Gail Kern Paster, Robert          Jackson",1598.0
+530,Epic poetry,Beowulf,"Unknown, Seamus Heaney",975.0
+531,Superhero,Batman: Year One,"Frank Miller, David Mazzucchelli, Richmond Lewis, Dennis O'Neil",1987.0
+532,Fiction,Go Set a Watchman,Harper Lee,2015.0
+533,Essay,When You Are Engulfed in Flames,David Sedaris,2008.0
+534,Fantasy Fiction; Romance; Young adult fiction,"Daughter of Smoke & Bone (Daughter of Smoke & Bone, #1)",Laini Taylor,2011.0
+535,Young adult fiction,"Red Queen (Red Queen, #1)",Victoria Aveyard,2015.0
+536,Self-help book,The Power of Habit: Why We Do What We Do in Life and Business,Charles Duhigg,2011.0
+537,Non-fiction novel,Midnight in the Garden of Good and Evil,John Berendt,1994.0
+538,Romance novel; Fiction,"Hopeless (Hopeless, #1)",Colleen Hoover,2012.0
+539,Children's literature,A Little Princess,"Frances Hodgson Burnett, Nancy Bond",1905.0
+540,Young adult fiction,The Truth About Forever,Sarah Dessen,2004.0
+541,Christian literature,"The Horse and His Boy (Chronicles of Narnia, #5)",C.S. Lewis,1954.0
+542,Young adult fiction; Urban fantasy; Dark fantasy; Paranormal romance,"Last Sacrifice (Vampire Academy, #6)",Richelle Mead,2010.0
+543,Fiction,"Little House on the Prairie (Little House, #2)","Laura Ingalls Wilder, Garth Williams",1935.0
+544,Children's literature,The Velveteen Rabbit,"Margery Williams Bianco, William   Nicholson",1922.0
+545,Philosophical fiction; Autobiographical novel,Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values,Robert M. Pirsig,1974.0
+546,Science Fiction,The War of the Worlds,"H.G. Wells, Arthur C. Clarke",1897.0
+547,Fiction; Mystery; Young adult fiction,"Pretty Little Liars (Pretty Little Liars, #1)",Sara Shepard,2006.0
+548,Children's literature; Picture book,Corduroy,Don Freeman,1948.0
+549,Non-fiction; Cookbook; Diet book,The Omnivore's Dilemma: A Natural History of Four Meals,Michael Pollan,2006.0
+550,Historical Fiction,Life After Life,Kate Atkinson,2013.0
+551,Fiction; Romance novel; Speculative fiction; Domestic Fiction,The Rescue,Nicholas Sparks,2000.0
+552,Horror fiction,Needful Things,Stephen King,1991.0
+553,Historical Novel,"Voyager (Outlander, #3)",Diana Gabaldon,1993.0
+554,Tragedy,"Hamlet: Screenplay, Introduction And Film Diary","Kenneth Branagh, William Shakespeare",1996.0
+555,Horror fiction,Cujo,Stephen King,1981.0
+556,Novel;Fiction,The Virgin Suicides,Jeffrey Eugenides,1993.0
+557,Fantasy Fiction; Mystery; Gothic fiction; Romance novel,"Dead to the World (Sookie Stackhouse, #4)",Charlaine Harris,2004.0
+558,Tragedy; Fiction,Tess of the D'Urbervilles,"Thomas Hardy, Tim Dolin, Margaret R. Higonnet",1891.0
+559,Literary realism,Madame Bovary,"Gustave Flaubert, Margaret Mauldon, Malcolm Bowie, Mark Overstall",1856.0
+560,Fantasy,The Phantom Tollbooth,"Norton Juster, Jules Feiffer",1961.0
+561,Fantasy,"The Way of Kings (The Stormlight Archive, #1)",Brandon Sanderson,2010.0
+562,Fantasy Fiction; Mystery; Gothic fiction; Romance novel,"Club Dead (Sookie Stackhouse, #3)",Charlaine Harris,2003.0
+563,Fiction;Young adult fiction;Comedy,It's Kind of a Funny Story,Ned Vizzini,2006.0
+564,Fantasy Fiction,"The Well of Ascension (Mistborn, #2)",Brandon Sanderson,2007.0
+565,Fiction; Romance novel; Domestic Fiction,"After You (Me Before You, #2)",Jojo Moyes,2015.0
+566,Fiction; Romance novel,The Language of Flowers,Vanessa Diffenbaugh,2011.0
+567,Comics; Graphic novel,"Batman: The Dark Knight Returns (The Dark Knight Saga, #1)","Frank Miller, Klaus Janson, Lynn Varley",1986.0
+568,Fiction; Science Fiction; Speculative fiction; Children's literature; Young adult fiction; Adventure fiction,"The Angel Experiment (Maximum Ride, #1)",James Patterson,2005.0
+569,Novel; Fiction,High Fidelity,Nick Hornby,1995.0
+570,Novel,The Guardian,Nicholas Sparks,2003.0
+571,Speculative fiction; Dystopia,"Oryx and Crake (MaddAddam, #1)",Margaret Atwood,2003.0
+572,Non-fiction; Psychology; Self-help book,"Men Are from Mars, Women Are from Venus",John Gray,1998.0
+573,Memoir,Kitchen Confidential: Adventures in the Culinary Underbelly,Anthony Bourdain,2000.0
+574,Science Fiction; Historical Fiction,Timeline,Michael Crichton,1999.0
+575,Satire; Bildungsroman; Philosophical fiction; Picaresque Fiction,Candide,Voltaire,1759.0
+576,Drama; Fiction; Romance novel; Speculative fiction; Children's literature; Fantasy Fiction,Tuck Everlasting,Natalie Babbitt,1975.0
+577,Horror fiction,Christine,"Stephen King, Marie Milpois",1983.0
+578,Fiction; Children's literature,Are You My Mother?,P.D. Eastman,1960.0
+579,Art,The Story of Art,E.H. Gombrich,1950.0
+580,"Young adult fiction; Romance novel; Science Fiction; Utopian , dystopian fiction","Scarlet (The Lunar Chronicles, #2)",Marissa Meyer,2013.0
+581,Personal finance; Entrepreneurship; Investment; Economics,"Rich Dad, Poor Dad",Robert T. Kiyosaki,1997.0
+582,Historical Fiction,"Silence (Hush, Hush, #3)",Becca Fitzpatrick,2011.0
+583,Contemporary fantasy; High fantasy; Alternative universe,The Magicians (The Magicians #1),Lev Grossman,2009.0
+584,Suspense;Manga;Thriller;Paranormal Fiction,"Death Note, Vol. 1: Boredom (Death Note, #1)","Tsugumi Ohba, Takeshi Obata",2004.0
+585,Fantasy Fiction,"A Great and Terrible Beauty (Gemma Doyle, #1)",Libba Bray,2003.0
+586,Novel,Everything Is Illuminated,Jonathan Safran Foer,2002.0
+587,Novel; Fiction; Thriller; Suspense; Adventure fiction; Spy fiction,"The Bourne Supremacy (Jason Bourne, #2)",Robert Ludlum,1986.0
+588,Fiction; Romance novel; Contemporary romance,"Easy (Contours of the Heart, #1)",Tammara Webber,2012.0
+589,Novel,David Copperfield,"Charles Dickens, Jeremy Tambling",1849.0
+590,Young adult fiction,The Absolutely True Diary of a Part-Time Indian,"Sherman Alexie, Ellen Forney",2007.0
+591,Farce; Mysticism; Romance novel; Satire; Modern Literature,The Master and Margarita,"Mikhail Bulgakov, Katherine Tiernan O'Connor, Diana Burgin, Ellendea Proffer",1967.0
+592,Fantasy; Bildungsroman,"A Wizard of Earthsea (Earthsea Cycle, #1)",Ursula K. Le Guin,1968.0
+593,Children's literature,Because of Winn-Dixie,"Kate DiCamillo, Chris Sheban",2000.0
+594,Naturalism,A Separate Peace,John Knowles,1959.0
+595,Novel; Fiction; Mystery; Suspense; Legal thriller; Legal Story,The Rainmaker,John Grisham,1995.0
+596,Novel,Don Quixote,"Miguel de Cervantes Saavedra, Roberto González Echevarría, John Rutherford",1605.0
+597,Fantasy,"Assassin's Apprentice (Farseer Trilogy, #1)",Robin Hobb,1995.0
+598,Comic science fiction,"The Restaurant at the End of the Universe (Hitchhiker's Guide, #2)",Douglas Adams,1980.0
+599,Young adult fiction; Fantasy Fiction; Romance novel; Paranormal fiction,"Torment (Fallen, #2)",Lauren Kate,2010.0
+600,Children's literature,The Tale of Peter Rabbit,Beatrix Potter,1901.0
+601,Fiction; Speculative fiction; Children's literature; Fantasy Fiction,"The Silver Chair (Chronicles of Narnia, #4)","C.S. Lewis, Pauline Baynes",1953.0
+602,Fantasy Fiction,"The Hero of Ages (Mistborn, #3)",Brandon Sanderson,2008.0
+603,Memoir,"Girl, Interrupted",Susanna Kaysen,1993.0
+604,Humour; Biography; Autobiography,"Are You There, Vodka? It's Me, Chelsea",Chelsea Handler,2007.0
+605,Spirituality; Self-help; Novella,Jonathan Livingston Seagull,"Richard Bach, Russell Munson",1970.0
+606,Fantasy; Adventure,"City of Heavenly Fire (The Mortal Instruments, #6)",Cassandra Clare,2014.0
+607,Fiction,Love You Forever,"Robert Munsch, Sheila McGraw",1986.0
+608,Horror fiction,Cell,Stephen King,2006.0
+609,Non-fiction,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,Daniel James Brown,2013.0
+610,Mythopoeia; Fantasy,The Silmarillion (Middle-Earth Universe),"J.R.R. Tolkien, Christopher Tolkien, Ted Nasmith",1977.0
+611,Fantasy Fiction; Horror fiction; Science Fiction; Western fiction,"The Drawing of the Three (The Dark Tower, #2)",Stephen King,1987.0
+612,Fiction; Historical Fiction; Domestic Fiction,The Forgotten Garden,Kate Morton,2008.0
+613,"Philosophical fiction; Utopian , dystopian fiction; Absurdist fiction; Paranoid fiction",The Trial,"Franz Kafka, Edwin Muir, Willa Muir, Max Brod",1925.0
+614,Fiction; Romance novel; Young adult fiction; Children's literature,This Lullaby,Sarah Dessen,2002.0
+615,Novel,Plain Truth,Jodi Picoult,2000.0
+616,Memoir,Orange Is the New Black,Piper Kerman,2010.0
+617,Detective fiction,The Hound of the Baskervilles,"Arthur Conan Doyle, Anne Perry",1902.0
+618,Non-fiction,"Thinking, Fast and Slow",Daniel Kahneman,2011.0
+619,Fantasy,"The Mists of Avalon (Avalon, #1)",Marion Zimmer Bradley,1982.0
+620,Young adult fiction,"Are You There God? It's Me, Margaret",Judy Blume,1970.0
+621,Drama; Romance novel,Nights in Rodanthe,Nicholas Sparks,2002.0
+622,Hardboiled,"Mr. Mercedes (Bill Hodges Trilogy, #1)",Stephen King,2014.0
+623,Fantasy Fiction; Mystery; Gothic fiction; Romance novel,"All Together Dead (Sookie Stackhouse, #7)",Charlaine Harris,2007.0
+624,Novel,Midwives,Chris Bohjalian,1997.0
+625,Picture book,The Polar Express,Chris Van Allsburg,1985.0
+626,Children's literature,The True Story of the 3 Little Pigs,"Jon Scieszka, Lane Smith",1989.0
+627,Techno-thriller,"Patriot Games (Jack Ryan Universe, #2)",Tom Clancy,1987.0
+628,Fiction; Psychological Fiction,Veronika Decides to Die,"Paulo Coelho, Margaret Jull Costa",1998.0
+629,Biography,"Lean In: Women, Work, and the Will to Lead","Sheryl Sandberg, Nell Scovell",2013.0
+630,Fantasy Fiction; Mystery; Gothic fiction; Romance novel,"Dead as a Doornail (Sookie Stackhouse, #5)",Charlaine Harris,2005.0
+631,Young adult fiction; Fiction; Romance novel,"Shatter Me (Shatter Me, #1)",Tahereh Mafi,2011.0
+632,Milatary science fiction;Philosophical fiction,Starship Troopers,Robert A. Heinlein,1959.0
+633,Chick lit,I've Got Your Number,Sophie Kinsella,2011.0
+634,Philosophical fiction,Sophie's World,"Jostein Gaarder, Paulette Møller",1991.0
+635,Paranormal romance; Young adult fiction,"The Twilight Saga Breaking Dawn Part 1: The Official Illustrated Movie Companion (The Twilight Saga: The Official Illustrated Movie Companion, #4)",Mark Cotta Vaz,2011.0
+636,"Science Fiction; Post-Apocalyptic fiction; Horror fiction; Utopian , dystopian fiction",The Martian Chronicles,Ray Bradbury,1950.0
+637,Fiction; Psychological Fiction,A Visit from the Goon Squad,Jennifer Egan,2010.0
+638,Children's literature,Heidi,"Johanna Spyri, Angelo  Rinaldi, Beverly Cleary",1880.0
+639,Techno-thriller,Prey,Michael Crichton,2002.0
+640,Christian literature,"The Last Battle (Chronicles of Narnia, #7)",C.S. Lewis,1956.0
+641,Historical Fiction,"World Without End (The Kingsbridge Series, #2)",Ken Follett,2007.0
+642,Young adult fiction;Paranormal romance,"Chosen (House of Night, #3)","P.C. Cast, Kristin Cast",2008.0
+643,Romance novel; Fiction,"Slammed (Slammed, #1)",Colleen Hoover,2012.0
+644,Fantasy,"Beastly (Beastly, #1; Kendra Chronicles, #1)",Alex Flinn,2007.0
+645,Anthology,The Canterbury Tales,"Geoffrey Chaucer, Nevill Coghill",1390.0
+646,Fiction; Domestic Fiction,Baby Proof,Emily Giffin,2006.0
+647,Fantasy,"Inheritance (The Inheritance Cycle, #4)",Christopher Paolini,2011.0
+648,Alternate history; Alternative universe,1Q84,"Haruki Murakami, Jay Rubin, Philip Gabriel",2009.0
+649,Novel,Uncle Tom's Cabin,Harriet Beecher Stowe,1852.0
+650,Gothic fiction,The Phantom of the Opera,"Gaston Leroux, Alexander Teixeira de Mattos",1909.0
+651,Fantasy Fiction; Mystery; Gothic fiction; Romance novel,"Definitely Dead (Sookie Stackhouse, #6)",Charlaine Harris,2006.0
+652,Post-Apocalyptic fiction,Blindness,"José Saramago, Giovanni Pontiero",1995.0
+653,Fiction; Domestic Fiction,Freedom,Jonathan Franzen,2010.0
+654,"Young adult fiction; Romance novel; Utopian , dystopian fiction","Crossed (Matched, #2)",Ally Condie,2011.0
+655,Fiction; Young adult fiction; Spy fiction,"I'd Tell You I Love You, But Then I'd Have to Kill You (Gallagher Girls, #1)",Ally Carter,2006.0
+656,Picaresque Fiction,The White Tiger,Aravind Adiga,2008.0
+657,Fiction; Domestic Fiction,The Corrections,Jonathan Franzen,2001.0
+658,Memoir,Dreams from My Father: A Story of Race and Inheritance,Barack Obama,1995.0
+659,Adventure fiction,Congo,Michael Crichton,1980.0
+660,Child,"Alexander and the Terrible, Horrible, No Good, Very Bad Day","Judith Viorst, Ray Cruz",1972.0
+661,Short story,Interpreter of Maladies,Jhumpa Lahiri,1999.0
+662,Non-fiction,A People's History of the United States,Howard Zinn,1980.0
+663,Fiction; Novella,Breakfast at Tiffany's,Truman Capote,1958.0
+664,Post-Apocalyptic fiction; Horror fiction; Science Fiction; Vampire literature; Fantasy,"The Passage (The Passage, #1)",Justin Cronin,2010.0
+665,�Fantasy,Anansi Boys,Neil Gaiman,2005.0
+666,Young adult fiction,Along for the Ride,Sarah Dessen,2009.0
+667,Fiction,Everything I Never Told You,Celeste Ng,2014.0
+668,Autobiographical novel; Magical Realism,The House of the Spirits,"Isabel Allende, Magda Bogin",1982.0
+669,Horror fiction,The Dead Zone,Stephen King,1979.0
+670,Crime Fiction,"The Mysterious Affair at Styles (Hercule Poirot, #1)","Agatha Christie, Ροζίτα Σώκου",1920.0
+671,Crime Fiction,"Murder on the Orient Express (Hercule Poirot, #10)",Agatha Christie,1934.0
+672,Novel; Literary fiction,Americanah,Chimamanda Ngozi Adichie,2013.0
+673,Fiction; Romance novel; Diary fiction,Suzanne's Diary for Nicholas,James Patterson,2001.0
+674,Thriller; Science Fiction,Firestarter,Stephen King,1980.0
+675,Erotic literature; Fiction; Romance novel; Contemporary romance,"Entwined with You (Crossfire, #3)",Sylvia Day,2013.0
+676,Biography; Non-fiction; Guidebook,"Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen",Christopher McDougall,2009.0
+677,Fiction; Psychological Fiction,The Storied Life of A.J. Fikry,Gabrielle Zevin,2014.0
+678,Children's literature,Madeline,Ludwig Bemelmans,1939.0
+679,Non-fiction,Think and Grow Rich: The Landmark Bestseller - Now Revised and Updated for the 21st Century,Napoleon Hill,1937.0
+680,Family saga; Western,"Little House in the Big Woods (Little House, #1)","Laura Ingalls Wilder, Garth Williams",1932.0
+681,Fiction; Speculative fiction; Historical Fiction; Alternate history; Fantasy Fiction,Jonathan Strange & Mr Norrell,Susanna Clarke,2004.0
+682,Fiction; Romance novel; Speculative fiction; Psychological Fiction,A Bend in the Road,Nicholas Sparks,2001.0
+683,Fantasy; Young adult fiction,"The House of Hades (The Heroes of Olympus, #4)",Rick Riordan,2013.0
+684,Supernatural fiction; Horror fiction; Science Fiction; Dystopia; Thriller,"Gone (Gone, #1)",Michael  Grant,2008.0
+685,Fiction; Romance novel; Speculative fiction,"The Wedding (The Notebook, #2)",Nicholas Sparks,2003.0
+686,Non-fiction,1776,David McCullough,2005.0
+687,Non-fiction; True crime,Under the Banner of Heaven: A Story of Violent Faith,Jon Krakauer,2003.0
+688,Fiction; Romance novel; Historical Fiction,Beautiful Ruins,Jess Walter,2012.0
+689,Biography,The Audacity of Hope: Thoughts on Reclaiming the American Dream,Barack Obama,2006.0
+690,Autobiography,On Writing: A Memoir of the Craft,Stephen King,1999.0
+691,Fiction; Saga; Bildungsroman; Domestic Fiction,"Firefly Lane (Firefly Lane, #1)",Kristin Hannah,2008.0
+692,Science Fiction; Techno-thriller,Sphere,Michael Crichton,1987.0
+693,Fiction; Romance novel,Love the One You're With,Emily Giffin,2008.0
+694,Crime Fiction,"The Silkworm (Cormoran Strike, #2)","Robert Galbraith, J.K. Rowling",2014.0
+695,Gothic;Horror,"The Vampire Lestat (The Vampire Chronicles, #2)",Anne Rice,1985.0
+696,Fiction; Mystery; Adventure fiction,State of Wonder,Ann Patchett,2011.0
+697,Humour; Novel; Fiction; Humorous Fiction,The Silver Linings Playbook,Matthew Quick,2008.0
+698,Adventure fiction,Twenty Thousand Leagues Under the Sea,"Jules Verne, Anthony Bonner",1869.0
+699,Tudor Series,"The Constant Princess (The Plantagenet and Tudor Novels, #6)",Philippa Gregory,2005.0
+700,Novel; Fiction,Mrs. Dalloway,"Virginia Woolf, Maureen Howard",1925.0
+701,Fiction,The Hundred-Year-Old Man Who Climbed Out of the Window and Disappeared,"Jonas Jonasson, Rod Bradbury",2009.0
+702,Gothic fiction,Bag of Bones,Stephen King,1998.0
+703,Fiction,The Cider House Rules,John Irving,1985.0
+704,Horror fiction,Thinner,"Richard Bachman, Stephen King",1984.0
+705,Adventure fiction,Around the World in Eighty Days,"Jules Verne, Michael Glencross, Brian W. Aldiss",1872.0
+706,Young adult fiction,Walk Two Moons,Sharon Creech,1994.0
+707,Fiction,Eleven Minutes,"Paulo Coelho, Margaret Jull Costa",2003.0
+708,Short story,Nine Stories,J.D. Salinger,1953.0
+709,Biography; Autobiography; Non-fiction; Cookbook,"Julie and Julia: 365 Days, 524 Recipes, 1 Tiny Apartment Kitchen: How One Girl Risked Her Marriage, Her Job, and Her Sanity to Master the Art of Living",Julie Powell,2005.0
+710,Biopunk; Dystopian Fiction,"Unwind (Unwind, #1)",Neal Shusterman,2007.0
+711,Historical Fiction,"Drums of Autumn (Outlander, #4)",Diana Gabaldon,1996.0
+712,Utopian; dystopian fiction; Young adult fiction,"Prodigy (Legend, #2)",Marie Lu,2013.0
+713,Tragedy,King Lear,William Shakespeare,1603.0
+714,Tragedy,Death of a Salesman,Arthur Miller,1949.0
+715,Novel,The Choice,Nicholas Sparks,2007.0
+716,Utopian; dystopian fiction; Adventure fiction; Science Fiction; Drama; Action fiction,The Hunger Games: Official Illustrated Movie Companion,Kate Egan,2012.0
+717,Modern Literature,The Sound and the Fury,William Faulkner,1929.0
+718,Spirituality; Psychology,A New Earth: Awakening to Your Life's Purpose,Eckhart Tolle,2005.0
+719,Adventure fiction; Supernatural fiction,"Bleach, Volume 01",Tite Kubo,2002.0
+720,Comics; Humour; Autobiography; Graphic novel; Non-fiction comics,"Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened",Allie Brosh,2013.0
+721,Fantasy Fiction,"The Shadow Rising (Wheel of Time, #4)",Robert Jordan,1992.0
+722,Novel; Fiction; Biography; Autobiography; Suspense; True crime; Adventure fiction; Autobiographical Fiction,Shantaram,Gregory David Roberts,2003.0
+723,Fantasy Fiction; Mystery; Gothic fiction; Romance novel,"From Dead to Worse (Sookie Stackhouse, #8)",Charlaine Harris,2008.0
+724,Fantasy Fiction; Horror fiction; Science Fiction,"The Waste Lands (The Dark Tower, #3)","Stephen King, Ned Dameron",1991.0
+725,Crime Fiction,"The Bone Collector (Lincoln Rhyme, #1)",Jeffery Deaver,1997.0
+726,Novel,The Reader,"Bernhard Schlink, Carol Brown Janeway",1995.0
+727,Children's literature,"Brown Bear, Brown Bear, What Do You See?","Bill Martin Jr., Eric Carle",1967.0
+728,Soft Science Fiction,"Hyperion (Hyperion Cantos, #1)",Dan Simmons,1989.0
+729,Fiction,The Pearl,John Steinbeck,1947.0
+730,Horror fiction,The Exorcist,William Peter Blatty,1971.0
+731,Young adult fiction; Fantasy Fiction,"The Short Second Life of Bree Tanner: An Eclipse Novella (Twilight, #3.5)",Stephenie Meyer,2009.0
+732,Novel; Fiction; Mystery; Legal Story,Snow Falling on Cedars,David Guterson,1994.0
+733,Fiction,Roots: The Saga of an American Family,Alex Haley,1976.0
+734,Fiction;Comic;Fantasy Fiction,Batman: The Killing Joke,"Alan Moore, Brian Bolland, Tim Sale",1988.0
+735,Bildungsroman; African-American literature; Social commentary,Invisible Man,Ralph Ellison,1952.0
+736,Memoir,A Long Way Gone: Memoirs of a Boy Soldier,Ishmael Beah,2007.0
+737,Science Fiction,"Mrs. Frisby and the Rats of NIMH (Rats of NIMH, #1)",Robert C. O'Brien,1971.0
+738,�Fiction; Western; Science Fiction; Horror fiction; Speculative fiction; Fantasy Fiction; Comedy horror,Different Seasons,Stephen King,1982.0
+739,Fiction; Children's literature,"The Little House Collection (Little House, #1-9)","Laura Ingalls Wilder, Garth Williams",1953.0
+740,Fiction; Romance novel,The Girls' Guide to Hunting and Fishing,Melissa Bank,1998.0
+741,Fiction; Science Fiction; Dystopian Fiction,"Wool Omnibus (Silo, #1)",Hugh Howey,2012.0
+742,Humour; Mystery; Adventure fiction; Absurdist fiction; Comic fantasy,"Lamb: The Gospel According to Biff, Christ's Childhood Pal",Christopher Moore,2002.0
+743,Self-help book; Inspirational Fiction,The Power of Now: A Guide to Spiritual Enlightenment,Eckhart Tolle,1997.0
+744,Humour; Biography; Autobiography; Autobiographical Fiction,Let's Pretend This Never Happened: A Mostly True Memoir,Jenny  Lawson,2012.0
+745,Fantasy,"The Lies of Locke Lamora (Gentleman Bastard, #1)",Scott Lynch,2006.0
+746,Fantasy Fiction,"Sabriel (Abhorsen,  #1)",Garth Nix,1995.0
+747,Fantasy Fiction; Mystery; Gothic fiction; Romance novel,"Dead and Gone (Sookie Stackhouse, #9)",Charlaine Harris,2009.0
+748,Fiction; Psychological Fiction,The Storyteller,Jodi Picoult,2013.0
+749,Fiction,"Obsidian (Lux, #1)",Jennifer L. Armentrout,2011.0
+750,Comic science fiction,"Life, the Universe and Everything (Hitchhiker's Guide, #3)",Douglas Adams,1982.0
+751,�Fantasy Fiction,"Crown of Midnight (Throne of Glass, #2)",Sarah J. Maas,2013.0
+752,Fiction; Graphic novel,"Scott Pilgrim, Volume 1: Scott Pilgrim's Precious Little Life",Bryan Lee O'Malley,2004.0
+753,Fantasy,Half Broke Horses,Jeannette Walls,2008.0
+754,Fantasy,"Mort (Death, #1; Discworld, #4)",Terry Pratchett,1987.0
+755,Fiction; Fantasy Fiction,"The Iron King (The Iron Fey, #1)",Julie Kagawa,2010.0
+756,Western,Lonesome Dove,Larry McMurtry,1985.0
+757,Non-fiction,Stiff: The Curious Lives of Human Cadavers,Mary Roach,2003.0
+758,Young adult fiction; Urban fantasy; Dark fantasy; Paranormal romance,"Bloodlines (Bloodlines, #1)",Richelle Mead,2011.0
+759,Science Fiction,"Ender's Shadow (Ender's Shadow, #1)",Orson Scott Card,1998.0
+760,Comedy; Chick lit,Twenties Girl,Sophie Kinsella,2009.0
+761,Biographical Fiction,Schindler's List,Thomas Keneally,1982.0
+762,African-American literature,The Bluest Eye,Toni Morrison,1970.0
+763,Historical Fiction,"The White Queen (The Plantagenet and Tudor Novels, #2)",Philippa Gregory,2009.0
+764,Autobiography,The Autobiography of Malcolm X,"Malcolm X, Alex Haley",1965.0
+765,Comics; Fiction; Graphic novel; Horror fiction; Fantasy Fiction,Preludes & Nocturnes (The Sandman #1),"Neil Gaiman, Sam Kieth, Mike Dringenberg, Malcolm Jones III, Todd Klein, Karen  Berger",1989.0
+766,Biography; Non-fiction,Seabiscuit: An American Legend,Laura Hillenbrand,1999.0
+767,Gothic fiction; Psychological horror; Crime Fiction,Shutter Island,Dennis Lehane,2003.0
+768,Fiction; Mystery,The Complete Sherlock Holmes,Arthur Conan Doyle,1894.0
+769,Tragedy,Julius Caesar,"William Shakespeare, Roma Gill",1599.0
+770,History,"In the Garden of Beasts: Love, Terror, and an American Family in Hitler's Berlin",Erik Larson,2011.0
+771,Fiction; Reference work; Utopian fiction,The Republic,"Plato, Desmond Lee",-380.0
+772,Comedy,The Taming of the Shrew,William Shakespeare,1593.0
+773,Young adult fiction; Romance novel; Science Fiction; Utopian fiction ; dystopian fiction,"Cress (The Lunar Chronicles, #3)",Marissa Meyer,2014.0
+774,Memoir,Just Kids,Patti Smith,2010.0
+775,Exhibition catalogue,The Art Book,Phaidon Press,1997.0
+776,Humour; Fiction; Romance novel,Jemima J,Jane Green,2001.0
+777,Romanticism; Gothic fiction,The Hunchback of Notre-Dame,"Victor Hugo, Walter J. Cobb",1831.0
+778,Historical Fiction,A Fine Balance,Rohinton Mistry,1996.0
+779,Comics; Speculative fiction,Calvin and Hobbes,"Bill Watterson, G.B. Trudeau",1987.0
+780,iction; Science Fiction; Speculative fiction; Children's literature; Young adult fiction,"Specials (Uglies, #3)",Scott Westerfeld,2006.0
+781,Novel; Fiction; Novella; Romance novel; Reference work; Psychological Fiction,The Awakening,Kate Chopin,1899.0
+782,Fiction; Young adult fiction; Fantasy Fiction; Adventure fiction,"Hunted (House of Night, #5)","P.C. Cast, Kristin Cast",2009.0
+783,Fiction,For One More Day,Mitch Albom,2006.0
+784,Techno-thriller,"Clear and Present Danger (Jack Ryan Universe, #6)",Tom Clancy,1989.0
+785,�Poetry; Children's literature,Falling Up,Shel Silverstein,1996.0
+786,Humor;Biography,Sh*t My Dad Says,Justin Halpern,2010.0
+787,Novel; Fiction; Black comedy; Speculative fiction; Travel literature,Trainspotting,"Irvine Welsh, Eric Lindor Fall",1993.0
+788,Science Fiction,Foundation and Empire (Foundation #2),Isaac Asimov,1952.0
+789,Self-help book,The Four Agreements: A Practical Guide to Personal Freedom,Miguel Ruiz,1997.0
+790,Novel; Fiction; Mystery; Psychological Fiction,House Rules,Jodi Picoult,2010.0
+791,Fairy Tale,The Complete Grimm's Fairy Tales,"Jacob Grimm, Wilhelm Grimm, Josef Scharl, Padraic Colum, Joseph Campbell, Margaret Raine Hunt, James Stern",1812.0
+792,Children's literature,From the Mixed-Up Files of Mrs. Basil E. Frankweiler,E.L. Konigsburg,1967.0
+793,Horror fiction,"Doctor Sleep (The Shining, #2)",Stephen King,2013.0
+794,Novel; Fiction; Romance novel,About a Boy,Nick Hornby,1998.0
+795,Erotic literature; Romance novel; Fiction; Contemporary romance,"On Dublin Street (On Dublin Street, #1)",Samantha Young,2012.0
+796,Christian literature,Crazy Love: Overwhelmed by a Relentless God,"Francis Chan, Danae Yankoski, Chris Tomlin",2008.0
+797,Children's literature,"One Fish, Two Fish, Red Fish, Blue Fish",Dr. Seuss,1960.0
+798,Fiction; Horror fiction; Suspense; Speculative fiction; Children's literature,Watchers,Dean Koontz,1987.0
+799,Memoir,The Story of My Life,Helen Keller,1902.0
+800,Fiction; Psychological Fiction; Domestic Fiction,This is Where I Leave You,Jonathan Tropper,2009.0
+801,Humorous Fiction; Horror fiction; History; Thriller,Abraham Lincoln: Vampire Hunter,Seth Grahame-Smith,2010.0
+802,Fantasy; Romance Film; Comedy-drama; Harem,"Fruits Basket, Vol. 1","Natsuki Takaya, Alethea Nibley, Athena Nibley",1999.0
+803,Romantic comedy,The Tempest,William Shakespeare,1623.0
+804,Young adult fiction;Fantasy;Parnormal romance,"Burned (House of Night, #7)","P.C. Cast, Kristin Cast",2010.0
+805,Fantasy fiction;Horror Fiction;Science Fiction,"Wizard and Glass (The Dark Tower, #4)","Stephen King, Dave McKean",1997.0
+806,Science Fiction,The Circle,Dave Eggers,2013.0
+807,Historical Fiction,The Invention of Hugo Cabret,Brian Selznick,2007.0
+808,Science Fiction; Utopian fiction; dystopian fiction,Brave New World / Brave New World Revisited,"Aldous Huxley, Christopher Hitchens",1932.0
+809,Romantic comedy,"Ouran High School Host Club, Vol. 1 (Ouran High School Host Club, #1)",Bisco Hatori,2003.0
+810,Fiction; Thriller; Suspense; Psychological Fiction,The Good Girl,Mary Kubica,2014.0
+811,Romance novel; Fiction; Contemporary romance,"Fallen Too Far (Rosemary Beach, #1; Too Far, #1)",Abbi Glines,2012.0
+812,Fiction; Romance novel; Domestic Fiction,Landline,Rainbow Rowell,2014.0
+813,Young adult fiction; Paranormal romance,"Tempted (House of Night, #6)","P.C. Cast, Kristin Cast",2008.0
+814,Thriller,No Country for Old Men,Cormac McCarthy,2005.0
+815,Historical Fiction,"Wolf Hall (Thomas Cromwell, #1)",Hilary Mantel,2009.0
+816,Novel; Fiction; Speculative fiction; Young adult fiction; Fantasy Fiction,"Howl's Moving Castle (Howl's Moving Castle, #1)",Diana Wynne Jones,1986.0
+817,Science Fiction,Dreamcatcher,"Stephen King, William Olivier Desmond",2001.0
+818,Memoir,Walden,Henry David Thoreau,1854.0
+819,Historical Novel,The Remains of the Day,Kazuo Ishiguro,1989.0
+820,Romance novel,The Best of Me,Nicholas Sparks,2010.0
+821,Fiction; Psychological Fiction; Literary fiction,The Sense of an Ending,Julian Barnes,2011.0
+822,Mystery,"A is for Alibi (Kinsey Millhone, #1)",Sue Grafton,1982.0
+823,Tragedy,"Oedipus Rex  (The Theban Plays, #1)","Sophocles, J.E. Thomas",-430.0
+824,Novel,Shanghai Girls (Shanghai Girls #1),Lisa See,2009.0
+825,Children's literature,The Wind in the Willows,"Kenneth Grahame, Gillian Avery",1908.0
+826,Young adult fiction,"To All the Boys I've Loved Before (To All the Boys I've Loved Before, #1)",Jenny Han,2014.0
+827,Biography; Autobiographical comics,"Persepolis: The Story of a Childhood (Persepolis, #1)","Marjane Satrapi, Mattias Ripa",2000.0
+828,Novel,A Room with a View,E.M. Forster,1908.0
+829,Fiction; Young adult fiction,The DUFF: Designated Ugly Fat Friend,Kody Keplinger,2010.0
+830,Young adult fiction,Lock and Key,Sarah Dessen,2008.0
+831,Detective fiction,"Naked in Death (In Death, #1)",J.D. Robb,1995.0
+832,Novel; Fiction; Mystery; Children's literature; Legal thriller; Legal Story,The Chamber,John Grisham,1994.0
+833,Young adult fiction; Fantasy Fiction; Romance novel,"Midnight Sun (Twilight, #1.5)",Stephenie Meyer,2008.0
+834,Comics;Graphic Novel,"Naruto, Vol. 01: The Tests of the Ninja (Naruto, #1)","Masashi Kishimoto, Katy Bridges",1999.0
+835,Humour; Fiction,"The Unlikely Pilgrimage of Harold Fry (Harold Fry, #1)",Rachel Joyce,2012.0
+836,Fantasy;Romance;Young adult Fiction,"Every Day (Every Day, #1)",David Levithan,2012.0
+837,Science Fiction,"Xenocide (Ender's Saga, #3)",Orson Scott Card,1991.0
+838,Analysis,The Merchant of Venice,"William Shakespeare, Robert          Jackson, Barbara A. Mowat, Paul Werstine",1596.0
+839,Non-Fiction,"Shōgun (Asian Saga, #1)",James Clavell,1975.0
+840,Fiction; Romance novel; Speculative fiction; Fantasy Fiction; Occult Fiction,"Lover Awakened (Black Dagger Brotherhood, #3)",J.R. Ward,2006.0
+841,Fiction; Fantasy Fiction,"A Court of Thorns and Roses (A Court of Thorns and Roses, #1)",Sarah J. Maas,2015.0
+842,Erotic romance novel,"Fifty Shades Trilogy (Fifty Shades, #1-3)",E.L. James,2012.0
+843,Picture book,Chicka Chicka Boom Boom,"Bill Martin Jr., John Archambault, Lois Ehlert",1989.0
+844,Autobiography; Graphic novel; Non-fiction,Smile,Raina Telgemeier,2009.0
+845,Satire; Political satire,Animal Farm / 1984,"George Orwell, Christopher Hitchens",1950.0
+846,Novel,"The Deep End of the Ocean (Cappadora Family, #1)",Jacquelyn Mitchard,1996.0
+847,Fiction; Domestic Fiction,The Bonesetter's Daughter,Amy Tan,2001.0
+848,Epistolary novel,"Angus, Thongs and Full-Frontal Snogging (Confessions of Georgia Nicolson, #1)",Louise Rennison,1999.0
+849,Novel,"Mr. Penumbra's 24-Hour Bookstore (Mr. Penumbra's 24-Hour Bookstore, #1)",Robin Sloan,2012.0
+850,Gothic fiction; Family saga,"Flowers in the Attic (Dollanganger, #1)",V.C. Andrews,1979.0
+851,Autobiography; Biography,When Breath Becomes Air,"Paul Kalanithi, Abraham Verghese",2016.0
+852,Fiction; Children's literature; Young adult fiction,Maniac Magee,Jerry Spinelli,1990.0
+853,Novel; Transgressive fiction; Satire,Invisible Monsters,Chuck Palahniuk,1999.0
+854,Analysis,Twelfth Night,William Shakespeare,1601.0
+855,Young adult fiction,"Gathering Blue (The Giver, #2)",Lois Lowry,2000.0
+856,Mystery,The Westing Game,Ellen Raskin,1978.0
+857,Science Fiction,"Red Rising (Red Rising, #1)",Pierce Brown,2014.0
+858,Fantasy Fiction,"The Way of Shadows (Night Angel, #1)",Brent Weeks,2008.0
+859,Humour; Fiction; Children's literature; Travel literature; Literary fiction,"The Bean Trees (Greer Family, #1)",Barbara Kingsolver,1988.0
+860,Fiction; Romance novel; Contemporary romance,"Walking Disaster (Beautiful, #2)",Jamie McGuire,2013.0
+861,High fantasy,"Words of Radiance (The Stormlight Archive, #2)",Brandon Sanderson,2014.0
+862,Fiction; Children's literature; Speculative fiction,Guess How Much I Love You,"Sam McBratney, Anita Jeram",1988.0
+863,Historical Fiction,"The Fiery Cross (Outlander, #5)",Diana Gabaldon,2001.0
+864,Horror fiction,Night Shift,"Stephen King, John D. MacDonald",1978.0
+865,Thriller,Jaws,Peter Benchley,1974.0
+866,Novel,The History of Love,Nicole Krauss,2005.0
+867,Children's literature,Pippi Longstocking,"Astrid Lindgren, Lauren Child, Florence Lamborn, Nancy Seligsohn",1945.0
+868,Novel,The Elegance of the Hedgehog,"Muriel Barbery, Alison Anderson",2006.0
+869,Biography; Non-fiction,Team of Rivals: The Political Genius of Abraham Lincoln,"Doris Kearns Goodwin, Suzanne Toren",2005.0
+870,Fantasy Fiction; Mystery; Gothic fiction,"Dead in the Family (Sookie Stackhouse, #10)",Charlaine Harris,2010.0
+871,Philosophical fiction,The Plague,"Albert Camus, Stuart Gilbert",1947.0
+872,Humour; Novel; Fiction; Steampunk; Mystery; Gothic fiction; Absurdist fiction,"The Reptile Room (A Series of Unfortunate Events, #2)","Lemony Snicket, Brett Helquist",1999.0
+873,Autobiography,Brain on Fire: My Month of Madness,Susannah Cahalan,2012.0
+874,Young adult fiction; Urban fantasy,"Wicked Lovely (Wicked Lovely, #1)",Melissa Marr,2007.0
+875,Mystery,Curious George,H.A. Rey,1941.0
+876,Fantasy,The Neverending Story,"Michael Ende, Ralph Manheim, Roswitha Quadflieg",1979.0
+877,Children's literature,A Beautiful Mind,Sylvia Nasar,1998.0
+878,Children's literature,The Jungle,"Upton Sinclair, Earl Lee, Kathleen DeGrave",1906.0
+879,Paranormal fiction; Horror fiction; Paranormal romance; Urban fantasy,"The Summoning (Darkest Powers, #1)",Kelley Armstrong,2008.0
+880,Medical history,The Man Who Mistook His Wife for a Hat and Other Clinical Tales,Oliver Sacks,1985.0
+881,Fiction; Thriller; Suspense; Spy fiction; War story,Eye of the Needle,Ken Follett,1978.0
+882,Historical Fiction,The Blind Assassin,Margaret Atwood,2000.0
+883,Young adult fiction; Horror fiction; Dark fantasy,"Hollow City (Miss Peregrine’s Peculiar Children, #2)",Ransom Riggs,2014.0
+884,Fiction,House of Sand and Fog,Andre Dubus III,1999.0
+885,Utopian dystopian fiction,The Girl with All the Gifts,M.R. Carey,2014.0
+886,Non-Fiction,As I Lay Dying,William Faulkner,1930.0
+887,Children's literature,Harold and the Purple Crayon,Crockett Johnson,1955.0
+888,Fiction; Romance novel; Speculative fiction; Fantasy Fiction,"Lover Eternal (Black Dagger Brotherhood, #2)",J.R. Ward,2006.0
+889,Science Fiction,Second Foundation (Foundation #3),Isaac Asimov,1953.0
+890,Science Fiction; Fantasy Fiction,"Fool Moon (The Dresden Files, #2)",Jim Butcher,2001.0
+891,Non-fiction,"David and Goliath: Underdogs, Misfits, and the Art of Battling Giants",Malcolm Gladwell,2011.0
+892,Comic,"Fullmetal Alchemist, Vol. 1 (Fullmetal Alchemist, #1)","Hiromu Arakawa, Akira Watanabe",2002.0
+893,Fantasy,"Guards! Guards! (Discworld, #8)",Terry Pratchett,1989.0
+894,Memoir,The Year of Magical Thinking,Joan Didion,2005.0
+895,Novel,We Need to Talk About Kevin,Lionel Shriver,2003.0
+896,Novel,"Rendezvous with Rama (Rama, #1)",Arthur C. Clarke,1973.0
+897,Horror fiction;Gothic Fiction,"The Queen of the Damned (The Vampire Chronicles, #3)",Anne Rice,1988.0
+898,Novel; Fiction; Romance novel,The Age of Innocence,"Edith Wharton, Maureen Howard",1920.0
+899,Fiction,The Selfish Gene,Richard Dawkins,1976.0

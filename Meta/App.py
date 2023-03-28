@@ -20,7 +20,7 @@ with open('../Data/book_titles.json', 'r+', encoding='utf-8') as f:
     book_titles = json.load(f)
 
 
-def KNN_Book_Recommender(test_point, k):
+def book_Recommender(test_point, k):
     # Create dummy target variable for the KNN Classifier
     target = [0 for item in book_titles]
     # Instantiate object for the Classifier
@@ -31,7 +31,7 @@ def KNN_Book_Recommender(test_point, k):
     table = []
     for i in model.indices:
         # Returns back movie title and imdb link
-        table.append([book_titles[i][0], book_titles[i][2],data[i][-1]])
+        table.append([book_titles[i][0], book_titles[i][2], data[i][-1]])
     print(table)
     return table
 
@@ -40,7 +40,7 @@ def run():
     img1 = img1.resize((700,400),)
     st.image(img1,use_column_width=False)
     st.title("Bibliophile")
-    genres = [' , Madness at the Fair that Changed America',
+    genres = ['Madness at the Fair that Changed America',
  ' Absurdism',
  ' Absurdist fiction',
  ' Action fiction',
@@ -1134,53 +1134,20 @@ def run():
  'Wilson Rawls',
  'Yann Martel', 'Zora Neale Hurston']
     books = [title[0] for title in book_titles]
-    category = ['--Select--', 'Title based', 'Genre based', 'Author based']
-    cat_op = st.selectbox('Select Recommendation Type', category)
-    if cat_op == category[0]:
-        st.warning('Please select Recommendation Type!!')
-    elif cat_op == category[1]:
-        sel_book = st.selectbox('Select book: (Recommendation will be based on this selection)', ['--Select--'] + books)
-        if sel_book == '--Select--':
-            st.warning('Please select a Book!!')
-        else:
-            no_of_reco = st.slider('Number of books you want Recommended:', min_value=1, max_value=20, step=1)
-            genres = data[books.index(sel_book)]
-            test_points = genres
-            table = KNN_Book_Recommender(test_points, no_of_reco+1)
-            table.pop(0)
-            c = 0
-            st.success('Some of the books from our Recommendation, have a look below')
-            for book, author, genre in table:
-                c+=1
-                #director,cast,story,total_rat = get_book_info(link)
-                st.markdown(f"({c})[ {book}]({author})")
+    st.markdown(f"**:red[Choose a Book Title]**")
+    sel_book = st.selectbox('Select book: (Recommendation will be based on this selection)', ['--Select--'] + books)
+    if sel_book == '--Select--':
+        st.warning('Please select a Book!!')
+    else:
+        no_of_reco = st.slider('Number of books you want Recommended:', min_value=5, max_value=10, step=1)
+        genres = data[books.index(sel_book)]
+        test_points = genres
+        table = book_Recommender(test_points, no_of_reco+1)
+        table.pop(0)
+        c = 0
+        st.success('Some of the books from our Recommendation, have a look below')
+        for book, author, publication_year in table:
+            c+=1
+            st.markdown(f"({c})Book Title -  **:green[{book}]**   \n Author - **:blue[{author}]**   \n Publication Year - **:red[{int(publication_year)}]**")
 
-    elif cat_op == category[2]:
-        sel_gen = st.multiselect('Select Genres:', genres)
-        if sel_gen:
-            no_of_reco = st.slider('Number of books you want Recommended:', min_value=1, max_value=20, step=1)
-            #authors = data[books.index(sel_gen)]
-            test_point = [1 if genre in sel_gen else 0 for genre in genres]
-            table = KNN_Book_Recommender(test_point, no_of_reco)
-            c = 0
-            st.success('Some of the books from our Recommendation, have a look below')
-            for book, author in table:
-                c += 1
-                st.markdown(f"({c})[ {book}]({author})")
-
-
-    elif cat_op == category[3]:
-       sel_aut = st.selectbox('Select authors:', authors)
-       if sel_aut:
-            no_of_reco = st.slider('Number of books:', min_value=5, max_value=20, step=1)
-            #authors = data[books.index(sel_aut)]
-            test_points = [1 if author in sel_aut else 0 for author in authors]
-            table = KNN_Book_Recommender(test_points, no_of_reco + 1)
-            #table.pop(0)
-            c = 0
-            st.success('Some of the books from our Recommendation, have a look below')
-            for book, author, genre in table:
-             c += 1
-             # director,cast,story,total_rat = get_book_info(link)
-             st.markdown(f"({c})[ {book}]({author})")
 run()
